@@ -1,0 +1,520 @@
+
+
+
+
+
+
+
+
+
+	
+	
+										
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/article.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=article&amp;id=002400410774959e30109f4453599007c85" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+		
+		
+		<a class='rss' href="http://news.ucf.edu/UCFnews/ucfreport/rss_mainnewsinfo.jsp" title="Subscribe using any feed reader!">
+			RSS Feed
+		</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.med.ucf.edu/">College of Medicine</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.today.ucf.edu">UCF Today</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.tv">UCF TV</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 88&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+<div id="main_content">
+	<h2>Inaugural UCF Research Week Features Student, Faculty Work</h2>
+	
+	<p class="article_info">
+		
+			By Carreen Krapf
+		
+		<span class="date">March 21, 2006</span></p>
+	
+	
+	
+		<div class="article_img" style="width: px;">
+
+			<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE477/en_US/Watercrop.jpg" height="" width=""  /> 
+			
+				<p class="photo_credit">Photo: UCF News File Photo</p>
+			
+			<p>UCF's inaugural Research Week is March 27 to 31.</p>
+			
+				<p class="note"><a class="full_photo" id="popup.jsp?article_id=002400410774959e30109f4453599007c85">Full Photo</a></p>
+			
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			
+		</div>
+	
+	
+	
+	
+	
+	
+	
+		
+			<div id="related">
+				<h3>Related Contacts and Links:</h3>
+				<ul>
+		
+		<li>
+		
+			
+				<h4><a href="mailto:ckrapf@mail.ucf.edu">Carreen Krapf</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-823-1165</li>
+			
+			</ul>
+		
+		</li>
+	
+	
+	
+		
+		<li>
+		
+			<h4><a href="http://www.researchweek.ucf.edu">Research Week</a></h4>
+		
+		</li>
+	
+	
+	 </ul></div> 
+	
+	
+			
+	
+	
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	<div id="share">
+		<ul><li><p id="print"><a href="javascript:window.print();">Print this Page</a></li></ul>
+	
+	</div>
+	
+	
+	
+	
+		
+			<p /><p>The University of Central Florida will celebrate the creativity and research accomplishments of students and faculty during the inaugural UCF Research Week from March 27 to 31. </p><p /><p>Research Week will showcase UCFs contributions to the intellectual and economic development of <place />Central Florida</place />. Events will include student and faculty showcases, a vendor fair and discussions with two top researchers in their fields. Most events are free and open to the public. </p><p /><p>Our inaugural celebration of the universitys growing research contributions from students and faculty will add greatly to our goal of promoting research on our campus and to the community, said Max Poole, associate dean of Graduate Studies and the planning chair for Research Week. </p><p /><p>The Division of Graduate Studies and the Office of Undergraduate Studies are coordinating the weeklong event, and they are encouraging other UCF departments to participate. </p><p /><p>An opening keynote address at <time hour="19" minute="0" />7 p.m.</time /> Monday, March 27, will feature George Otte, </p><p>director of Instructional Technology for City University of New York. Ottes address in the Live Oak Room of the Marketplace building will cover the The Scholarship of Institutional Change. </p><p /><p>A Faculty Research Appreciation Day and Vendor Fair on Tuesday, March 28, will showcase the research of past faculty recipients of the College Award for Excellence in Distinguished Research. The fair and ceremony will be in the Live Oak Room from <time hour="13" minute="0" />1</time /> to <time hour="17" minute="0" />5 p.m.</time /> Michael M. Kersker, a vice president at JEOL, USA, will discuss The State-of-the Art in Tech Methods at <time hour="13" minute="0" />1 p.m. </p><p /><p>Wednesday and Thursday events will include forums for graduate and undergraduate students to showcase their research and creative projects to the university community. The Graduate Research Forum at <time hour="9" minute="0" />9 a.m.</time /> March 29 will include oral and poster presentations by UCF graduate students in many disciplines. Awards will be given for the best poster and oral presentations in several categories. </p><p /><p>The Showcase of Undergraduate Research Excellence at <time hour="14" minute="0" />2 p.m.</time /> March 30 will be a poster- and display-format forum for UCF undergraduates to present current and recently completed research and creative projects. Scholarships will be awarded to students with the best showcase projects. </p><p /><p>Orlando Taylor, vice provost for research and graduate dean of Howard University, will be the guest speaker for the invitation-only Student Awards Breakfast at 8:30 a.m. March 31. Taylor, a national leader in graduate education, has raised several million dollars in research, training and program development grants from federal and private sources for <place /><placename />Howard</placename /> <placename />University</placename /></place />. He serves as the lead researcher on major grants from the National Science Foundation to increase the number of minority students who receive doctoral degrees in science, mathematics and engineering. </p><p /><p>For a complete schedule of Research Week events, go to <a href="http://www.researchweek.ucf.edu/">www.researchweek.ucf.edu </a>. </p>
+		
+	
+	<p id="back"><a href="index?page=news">&lt; Back to the Newsroom</a></p>
+
+</div>
+
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+
+		</div> 
+	</body>
+</html>
+

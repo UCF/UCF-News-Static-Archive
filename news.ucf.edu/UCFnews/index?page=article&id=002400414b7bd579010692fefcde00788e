@@ -1,0 +1,553 @@
+
+
+
+
+
+
+
+
+
+	
+	
+										
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/article.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=article&amp;id=002400414b7bd579010692fefcde00788e" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+		
+		
+		<a class='rss' href="http://news.ucf.edu/UCFnews/ucfreport/rss_mainnewsinfo.jsp" title="Subscribe using any feed reader!">
+			RSS Feed
+		</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.med.ucf.edu/">College of Medicine</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.today.ucf.edu">UCF Today</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.tv">UCF TV</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 89&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+<div id="main_content">
+	<h2>Tavistock Group Gives More Than $20.5 Million in Cash, Land to Help Establish UCF Med School</h2>
+	
+	<p class="article_info">
+		
+			By Tom Evelyn
+		
+		<span class="date">Oct. 3, 2005</span></p>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+			<div id="related">
+				<h3>Related Contacts and Links:</h3>
+				<ul>
+		
+		<li>
+		
+			
+			
+			
+			
+		
+		</li>
+	
+		
+		<li>
+		
+			
+			
+			
+			
+		
+		</li>
+	
+	
+	
+		
+		<li>
+		
+			<h4><a href="index?page=article&amp;id=002400414b7bd579010692fefcde00788e"></a></h4>
+		
+		</li>
+	
+		
+		<li>
+		
+			<h4><a href="index?page=article&amp;id=002400414b7bd579010692fefcde00788e"></a></h4>
+		
+		</li>
+	
+		
+		<li>
+		
+			<h4><a href="index?page=article&amp;id=002400414b7bd579010692fefcde00788e"></a></h4>
+		
+		</li>
+	
+		
+		<li>
+		
+			<h4><a href="index?page=article&amp;id=002400414b7bd579010692fefcde00788e"></a></h4>
+		
+		</li>
+	
+		
+		<li>
+		
+			<h4><a href="index?page=article&amp;id=002400414b7bd579010692fefcde00788e"></a></h4>
+		
+		</li>
+	
+		
+		<li>
+		
+			<h4><a href="index?page=article&amp;id=002400414b7bd579010692fefcde00788e"></a></h4>
+		
+		</li>
+	
+		
+		<li>
+		
+			<h4><a href="index?page=article&amp;id=002400414b7bd579010692fefcde00788e"></a></h4>
+		
+		</li>
+	
+	
+	 </ul></div> 
+	
+	
+			
+	
+	
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	<div id="share">
+		<ul><li><p id="print"><a href="javascript:window.print();">Print this Page</a></li></ul>
+	
+	</div>
+	
+	
+	
+	
+		
+			<p>Tavistock Group, a private investment company that owns Lake Nona and Isleworth, will give the University of Central Florida $12.5 million and 50 acres of land valued at more than $8 million to establish the UCF Healthcare Campus at Lake Nona, an important step in creating a proposed medical college, the university announced today.</p>
+<p>The $12.5 million challenge grant is expected to generate matching funds from the community that would create a $25 million sum eligible for an additional $25 million state match. If the challenge is met, the gift including the land value could result in a total of more than $58 million that would be used to develop the new campus.</p>
+<p>Tavistock Group founder and chairman Joe Lewis shares UCFs vision for a medical college that will improve health care in our community and the nation and provide great economic benefit in Central Florida, UCF President John Hitt said. This generous gift and challenge to raise additional money from the community will strengthen UCF and Orlandos case for establishing a world-class medical college.</p>
+<p>With the necessary approval and funding to establish the medical college, UCF plans to build a facility for the Burnett College of Biomedical Sciences and a second medical college instructional building on the 50-acre site at Lake Nona. Located on the eastern edge of Orlando near the Orlando International Airport, the UCF Healthcare Campus buildings would form the base of the medical college and help to fulfill Lake Nonas ambition to become a dynamic community within Orlando.</p>
+<p>The planned 113,000-square-foot Burnett College of Biomedical Sciences building would house biomedical science research laboratories and faculty offices. A 130,000-square-foot medical college instructional building and 60,000-square-foot library also are planned, pending approval of the medical college. Construction could begin as early as 2006.</p>
+<p>Hitt also announced three $1 million donations toward the medical college. The Winter Park Health Foundation, Martin Andersen-Gracia Andersen Foundation Inc. and&nbsp;Avalon Park developer Beat&nbsp;Kahli&nbsp;each&nbsp;became &quot;founders&quot; of&nbsp;the medical college with $1 million gifts.&nbsp;&nbsp;</p>
+<p>The UCF Board of Trustees last month approved a proposal for a medical college that could begin holding classes in 2008 if approved by the state Board of Governors, which oversees Floridas 11 public universities. The Board of Governors is expected to consider UCFs proposal and another from Florida International University at its Nov. 17 meeting in Jacksonville.</p>
+<p>This marks the continuation of the strong partnership our Tavistock Group has with UCF, said Rasesh Sesh Thakkar, CEO of Tavistock Group. We are extremely confident in John Hitts leadership of this amazing university, and we are very proud that they have selected Lake Nona as the site for this important part of UCFs next chapter of growth.</p>
+<p>Tavistock Group (<a href="http://www.tavistock.com/">www.tavistock.com</a>) is a private investment company founded 30 years ago by financier Joe Lewis to manage a portion of the Lewis Family trusts. Today, Tavistock Group has more than 115 primary investments across a diverse portfolio that includes Tavistock Life Sciences, Tavistock Restaurants, Tavistock Financial Services, Tavistock Industries &amp; Manufacturing, Tavistock Sports and Entertainment, and Tavistock Properties, which include master planned developments such as the 6,900-acre Lake Nona region and exclusive, private communities such as Isleworth, Lake Nona Golf &amp; Country Club in Central Florida and Old Fort Bay and Albany in The Bahamas.<br />
+&nbsp;<br />
+This is the next major step towards helping us establish Lake Nona as the newest town and sub-market within Orlando, said Jim Zboril, president and COO of Lake Nona Land Co. UCFs partnership with us will help fuel our collective desire to create the very best place to live, work, learn and play in Central Florida at Lake Nona.</p>
+<p>The UCF medical degree and college would capitalize on the universitys strengths in biomedical sciences, modeling and simulation, and optics and photonics while fulfilling the communitys need for more physicians, according to the universitys proposal.</p>
+<p>If approved by the state, the college would be established in fall 2006. The degree calls for a four-year curriculum that begins clinical education in fall 2008 and would produce about 120 medical graduates each year.</p>
+<p>Through private fund-raising, UCF would be able to cover most of the initial facility costs. A $10 million donation from Al and Nancy Burnett last year combined with a state match and construction funds would pay for the Burnett Biomedical Sciences College building. The Lake Nona gift, along with the private and state matching funds it generates, would pay for the second college building, which would house much of the instructional space required to train medical students, and a medical library.</p>
+<p>Medical schools tend to become medical centers very quickly, UCF Provost Terry Hickey said. As additional funds become available, the UCF Healthcare Campus at Lake Nona will allow us to expand our existing health care training programs, including nursing and allied health.</p>
+<p>Florida needs at least two more medical schools to address the growing demand for doctors in the state, according to a study by MGT of America. The annual need for new physicians in Florida is expected to grow from 2,800 in 2003 to 4,200 in 2021.</p>
+<p>A medical college in Orlando, the largest metropolitan area in the country without such a school, would improve health care in Central Florida and inject millions of dollars into the area economy, according to several studies. Other medical schools in the state average more than $2.7 billion each in annual economic impact.</p>
+<p><strong>UCF medical college proposal:</strong> <a href="http://news2.ucf.edu/files/ucf_med_school_exsummary.pdf">executive summary</a>; <a href="http://news2.ucf.edu/files/UCF_Medical_School.pdf.zip">full proposal</a> (35 mb Zip file download).</p>
+		
+	
+	<p id="back"><a href="index?page=news">&lt; Back to the Newsroom</a></p>
+
+</div>
+
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+
+		</div> 
+	</body>
+</html>
+

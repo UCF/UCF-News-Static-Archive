@@ -1,0 +1,549 @@
+
+
+
+
+
+
+
+
+
+	
+	
+										
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/article.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=article&amp;id=002400412222421b011b327b08bf003e50&amp;subject_id=0024004102975ad83011b2b83251c0b9d" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+		
+		
+		<a class='rss' href="http://news.ucf.edu/UCFnews/ucfreport/rss_mediaresourcesinfo.jsp" title="Subscribe using any feed reader!">
+			RSS Feed
+		</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://campusmap.ucf.edu/">Campus Map</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/phonebook/">Campus Phone Directory</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucfopportunity.com/_index.php">UCF Stands<br />for Opportunity</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 88&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+<div id="main_content">
+	<h2>Reporting on UCF: Guidelines, Media Contacts And More</h2>
+	
+	<p class="article_info">
+		
+			By UCF Staff
+		
+		<span class="date">July 15, 2008</span></p>
+	
+	
+	
+		<div class="article_img" style="width: 345px;">
+
+			<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/1000/NE1499/en_US/sugayafull.jpg" height="226" width="345"  /> 
+			
+				<p class="photo_credit">Photo: Jacque Brund</p>
+			
+			<p>Barbara West from WFTV-Channel 9 speaks with UCF professor Kiminobu Sugaya.</p>
+			
+				<p class="note"><a class="full_photo" id="popup.jsp?article_id=002400412222421b011b327b08bf003e50">Full Photo</a></p>
+			
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			
+		</div>
+	
+	
+	
+	
+	
+	
+	
+		
+			<div id="related">
+				<h3>Related Contacts and Links:</h3>
+				<ul>
+		
+		<li>
+		
+			
+				<h4><a href="mailto:">UCF News & Information</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-823-5007</li>
+			
+			</ul>
+		
+		</li>
+	
+	
+	
+		
+		<li>
+		
+			<h4><a href="index?page=article&amp;id=002400412222421b011b327b08bf003e50&amp;subject_id=0024004102975ad83011b2b83251c0b9d"></a></h4>
+		
+		</li>
+	
+	
+	 </ul></div> 
+	
+	
+			
+	
+	
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	<div id="share">
+		<ul><li><p id="print"><a href="javascript:window.print();">Print this Page</a></li></ul>
+	
+	</div>
+	
+	
+	
+	
+		
+			<p>The University of Central Florida is a metropolitan research university that ranks as the fifth-largest in the nation with more than 50,000 students. UCF's first classes were offered in 1968. Today, UCF offers impressive academic and research environments that power the region's economic development. Because of its wide-reaching impact, UCF experts, programs and students often appear in the local and national news.</p>
+<p>Reporters looking for UCF experts or stories can call the News &amp; Information office at <b>407-823-5007</b>.&nbsp;News &amp; Information has a dedicated line for media working on breaking news or after hours. To reach staff immediately during these situations, media must call <strong>407-823-5300</strong>.</p>
+<p>Continue reading for other guidelines about filming, parking on campus or finding sources.&nbsp;&nbsp;</p>
+<p><b>REPORTING AND FILMING ON CAMPUS</b></p>
+<p><i><b>News Crews</b></i></p>
+<p>UCF&nbsp;welcomes news media to its public campus in east Orange County. Most exterior areas are accessible to reporters and photographers. All members of the media, however, are encouraged to contact&nbsp;UCF&nbsp;News &amp;&nbsp;Information&nbsp;at <b>407-823-5007&nbsp;</b>prior to filming or photographing on campus. Access may be denied or limited during an emergency or other situations when unrestricted media access may become disruptive. UCF&rsquo;s main campus is best recognized for its picturesque Reflecting Pond, next to the Library. See parking guidelines and directions.</p>
+<p>The News &amp; Information office can provide high-quality B-roll and photographs of the campus to media.</p>
+<p>Prior clearance is required to conduct interviews, film or photograph inside campus buildings, residence halls and classrooms, or any other area that is restricted. Please call 407-823-5007 for assistance from News &amp; Information staff.</p>
+<p><i><b>Commercial Crews</b></i></p>
+<p>Commercial and student crews interested in filming on campus should call UCF Television&nbsp;Services at <b>407-823-2730</b> for guidelines. Crews are encouraged to call several weeks ahead if they wish to film inside campus buildings, residence halls or classrooms.</p>
+<p>Proposals for filming commercials or television shows on campus or affiliated with UCF must be approved by the university. Requests, with a description of the product or show, should be e-mailed to Jerry Klein of UCF&nbsp;Television Services at <a href="mailto:eklein@pegasus.cc.ucf.edu">eklein@pegasus.cc.ucf.edu</a>. Scripts that contain references to UCF may require review by university departments, including the General Counsel&rsquo;s Office.</p>
+<p><b>PARKING &amp; DIRECTIONS</b></p>
+<p>Everyone who parks on UCF's campus must display a valid parking permit. Media in unmarked vehicles are required to display a special &ldquo;media&rdquo; decal hangtag, which may be picked up at the News &amp; Information office before arriving on campus. Marked television trucks are not required to carry the &ldquo;media&rdquo; decal, as their vehicle is considered a valid permit.</p>
+<p>Media can park in any lot on campus, excluding fire lanes, handicapped spaces and 24-hour reserved parking spots.</p>
+<p>Permits picked up at the News &amp; Information office must be returned upon leaving campus. For pick-up and return, we are located at in the&nbsp;Marketing, Communications and Admissions office at 12443 Research Parkway, Suite 301, in the Central Florida Research Park, adjacent to campus. Click <a href="http://maps.google.ca/maps?f=q&amp;hl=en&amp;geocode=&amp;q=12443+Research+Parkway+Orlando+32826&amp;sll=49.891235,-97.15369&amp;sspn=63.58767,103.710938&amp;ie=UTF8&amp;ll=28.589232,-81.196346&amp;spn=0.020989,0.02532&amp;z=15&amp;iwloc=addr">here</a> for a map.</p>
+<p>For directions to UCF&rsquo;s main campus, click <a href="http://campusmap.ucf.edu/address.php">here</a>.</p>
+<p><b>PUBLIC RECORDS REQUESTS</b></p>
+<p>The State of Florida has the broadest public records and open meeting laws in the country. Since the University of Central Florida is public university, most of the activities and materials of our work fall under Florida&rsquo;s &ldquo;sunshine&rdquo; laws.</p>
+<p>All media requests for public records should go through the UCF News &amp; Information office, where we&rsquo;ll be happy to assist you.</p>
+<p>There are some exceptions to the public records laws. Proprietary information regarding research, patents and licensing is exempt. Donors who choose to remain anonymous have the right to do so. Student information, other than that considered &ldquo;directory&rdquo; information, may not be disclosed. Social Security numbers and some employee evaluative material are also exempt from the public records law.</p>
+<p><b>NEWS MEDIA CONTACTS</b></p>
+<p>The News &amp; Information office has&nbsp;five staff members dedicated to distributing university news and assisting reporters with information or faculty experts. To contact a member of our staff,&nbsp;visit our &quot;About Us&quot; page, where you'll find a list of our beats and contact information.</p>
+<p>Reporters can also search our online Experts Guide or contact our Featured Experts for stories.</p>
+<p><i><b>Be The First To Know</b></i></p>
+<p>If you are a member of the media, you can receive news releases from&nbsp;our office.&nbsp;Call <b>407-823-5007</b> or e-mail <a href="mailto:cdellert@mail.ucf.edu">cdellert@mail.ucf.edu</a> to join our media list. Please provide your media affiliation and any specific beats or reporting interests.</p>
+<p>Only members of the media and freelance writers receive news releases by e-mail. Non-media can visit <a href="index.html">http://news.ucf.edu</a> to read the latest news and subscribe via RSS feed.</p>
+<p><b>UCF TV</b></p>
+<p>UCF Television Services is a full-service video communications unit of UCF Strategy, Marketing, Communications, and Admissions. The Television Services staff is comprised of video producers, writers, graphic designers, on-camera talent and programming distribution professionals. UCF TV works with News &amp; Information to cover events, research and programs for the Central Florida community. To learn more about UCF TV's programming and where to watch, click <a href="http://www.ucftv.ucf.edu">here</a>.</p>
+<hr />
+<p><b>UCF Stands For Opportunity: </b>The University of Central Florida is a metropolitan research university that ranks as the 5th largest in the nation with more than 50,000 students. UCF's first classes were offered in 1968. The university offers impressive academic and research environments that power the region's economic development. UCF's culture of opportunity is driven by our diversity, Orlando environment, history of entrepreneurship and our youth, relevance and energy. For more information visit <a href="index.html">http://news.ucf.edu</a>.</p>
+		
+	
+	<p id="back"><a href="index?page=news">&lt; Back to the Newsroom</a></p>
+
+</div>
+
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+
+		</div> 
+	</body>
+</html>
+

@@ -1,0 +1,566 @@
+
+
+
+
+
+
+
+
+
+	
+	
+										
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/article.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=article&amp;id=0024004107a42ec8a012b4426d5b3013bc" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+		
+		
+		<a class='rss' href="http://news.ucf.edu/UCFnews/ucfreport/rss_mainnewsinfo.jsp" title="Subscribe using any feed reader!">
+			RSS Feed
+		</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.med.ucf.edu/">College of Medicine</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.today.ucf.edu">UCF Today</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.tv">UCF TV</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 89&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+<div id="main_content">
+	<h2>Knights to Play Georgia in Liberty Bowl</h2>
+	
+	<p class="article_info">
+		
+			By John Denton
+		
+		<span class="date">Dec. 4, 2010</span></p>
+	
+	
+	
+		<div class="article_img" style="width: 345px;">
+
+			<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/2000/NE2357/en_US/celebrate2full.jpg" height="226" width="345"  /> 
+			
+				<p class="photo_credit">Photo: UCF Athletics</p>
+			
+			<p>The Knights celebrate their second C-USA championship in four seasons.</p>
+			
+				<p class="note"><a class="full_photo" id="popup.jsp?article_id=0024004107a42ec8a012b4426d5b3013bc">Full Photo</a></p>
+			
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			
+		</div>
+	
+	
+	
+	
+	
+	
+	
+		
+			<div id="related">
+				<h3>Related Contacts and Links:</h3>
+				<ul>
+		
+		<li>
+		
+			
+			
+			
+			
+		
+		</li>
+	
+	
+	
+		
+		<li>
+		
+			<h4><a href="http://www.ucfbowl.com">Liberty Bowl tickets and information</a></h4>
+		
+		</li>
+	
+		
+		<li>
+		
+			<h4><a href="http://www.ucfathletics.com">UCF Athletics</a></h4>
+		
+		</li>
+	
+	
+	 </ul></div> 
+	
+	
+			
+	
+	
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	<div id="share">
+		<ul><li><p id="print"><a href="javascript:window.print();">Print this Page</a></li></ul>
+	
+		<h3>Share this story:</h3>
+		<ul>
+			
+			
+			<li>
+				
+				<script>reddit_url= encodeURIComponent(window.location.href); reddit_title='Knights to Play Georgia in Liberty Bowl';</script>
+				<script type="text/javascript" src="http://www.reddit.com/button.js?t=1"></script>
+				
+			</li>
+			
+			
+			<li>
+				<script>function fbs_click() {u=location.href;t=document.title;window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');return false;}</script><style> html .fb_share_link { padding:2px 0 0 20px; height:16px; background:url(http://static.ak.fbcdn.net/images/share/facebook_share_icon.gif?0:26981) no-repeat top left; }</style><a href="http://www.facebook.com/share.php?u=<url>" onclick="return fbs_click()" target="_blank" class="fb_share_link">Share on Facebook</a>
+			</li>
+			
+			
+			<li>
+				<img src="img/delicious.small.gif" alt="submit story to delicious" /><a href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&noui&jump=close&url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=700,height=400'); return false;"> Save This Page</a>
+			</li>
+			
+			
+			
+			<li>
+				<a href="javascript:void(0)" onclick="window.open('http://www.newsvine.com/_wine/save?popoff=1&u=' + encodeURIComponent(window.location.href),'newsvine','toolbar=no,width=590,height=600,resizable=yes,scrollbars=yes')"><img src="http://www.newsvine.com/_vine/images/identity/button_seednewsvine.gif" alt="" border="0" width="16" height="16" />Seed Newsvine</a>
+			</li>
+			
+		</ul>
+	
+	</div>
+	
+	
+	
+	
+		
+			<p><strong><em>NOTE:&nbsp;Visit UCF's official&nbsp;<a href="http://www.ucfbowl.com">bowl website</a>&nbsp;for&nbsp;Liberty Bowl ticket information.&nbsp;</em></strong><strong><em> For UCF&nbsp;Alumni Association bowl events, click <a href="http://app.bronto.com/public/?q=preview_message&amp;fn=Link&amp;t=1&amp;ssid=12986&amp;id=d4he52dj5syzqb7zuukt1627cruat&amp;id2=57yggbqfs70b3v9yjx95putqy6iwl&amp;subscriber_id=bommdwkqcccvrvvxzcuhlzdwjenibih&amp;messageversion_id=bjmjzwcxjdshpmswbekkyljkwbrgbcd&amp;delivery_id=allzfifobkamrcdmnzptolcalwngbjl&amp;tid=3.Mro.BL_KTQ.CED5.KX8z..QEB2.b..l.A_b_.a.TPsTZw.TPsXeA.G_AF2A">here</a>. </em></strong></p>
+<p>Champions of Conference USA and winners of eight of its last nine games, UCF will get a chance to test its meddle against a foe from college football's best conference in the Dec. 31st Liberty Bowl in Memphis.</p>
+<p>Up next for UCF (10-3) is a showdown against traditional Southeastern Conference power Georgia (6-6) after the Bulldogs accepted an invitation to the Liberty Bowl on Sunday. The Knights last played a team from the SEC in 2007, and it was also in the Liberty Bowl - a 10-3 loss to Mississippi State in the 2004 game.</p>
+<p>&quot;I'm looking to the game and I've always enjoyed Georgia football and the way its played. We know what we're in for, especially I do from all of my years facing (the Bulldogs),'' said UCF coach George O'Leary, who coached at rival Georgia Tech from 1994-2001. &quot;I've always respected the program at Georgia. They get terrific athletes, they're well-coached and they play a full 60 minutes. It's an SEC team that's traditionally a powerhouse in that league and we'll have our work cut out for us, no question.''</p>
+<p>The Knights are ranked No. 25 in the BCS, No. 24 in the USA Today coaches poll and No. 26 in the Associated Press poll after whipping SMU 17-7 in Saturday's C-USA title game at Bright House Networks Stadium. UCF tied a school record with its 10th victory of the season and won a league championship for a second time in four seasons.</p>
+<p>Now, the Knights are hoping to win their first bowl game in four tries. UCF lost in the Hawaii Bowl in 2005, fell in the Liberty Bowl in 2007 and lost to Rutgers last December in the St. Pete Bowl. O'Leary said he really wants a bowl victory for a senior class of 19 players who have helped to elevate the program to new heights.</p>
+<p>&quot;Winning is important. That's what programs thrive on,'' O'Leary said. &quot;I don't look at it as getting some kids ready (for next season). I look at the game at hand and how can we win the game. I want these kids who are leaving to leave with a great taste in their mouths. That's what's very important to me. Having to play a team like Georgia with a great tradition will be great for our kids.''</p>
+<p>The 52nd Liberty Bowl is the seventh-oldest bowl in all of college football. Kickoff for the game will be at 3:30 p.m. (ET). Tickets for the game start at $50, and fans can acquire tickets through UCFAthletics.com or by calling the ticket office at 407-823-1000. The ticket office will be open 8 a.m. to 7 p.m. Monday through Friday.</p>
+<p>O'Leary is quite familiar with the Georgia program, and Bulldogs coach Mark Richt knows O'Leary quite well too from his days at Florida State and then Georgia. Richt said he actually started breaking down UCF game film on Sunday after recording the UCF-SMU title game from Saturday. He said he's already impressed with UCF's salty defense and the dazzling playmaking skills of freshman quarterback Jeff Godfrey.</p>
+<p>&quot;George is a hard-nosed football coach and every team that he puts on the field presents a big physical challenge for you,'' Richt said on Sunday. &quot;And their young quarterback is a dynamic guy who can throw and run and create problems all over the field.''</p>
+<p>Richt said from what he's seen so far on film, UCF is a team that rarely beats itself with mistakes and has athletic playmakers all over the field. He said that just because an SEC team has beaten Conference USA champion each of the past four seasons it doesn't mean that Georgia will automatically have an upper hand against this rugged Knights squad.</p>
+<p>East Carolina lost 20-17 in overtime to Arkansas last season and 25-19 against Kentucky in 2008. UCF fell to Mississippi State in 2007 and South Carolina whipped Houston 44-36 in 2006.</p>
+<p>&quot;When you go 6-6, you'd think you'd go into a bowl and get an opponent that you feel comfortable with, but championship teams like UCF just know how to win games,'' Richt said. &quot;They're used to winning this season and they get in the habit of doing it. I hope that our guys understand that we'll have all that we can handle against them. And I just hope that they respect us because of the record that we have.''</p>
+<p>Georgia started the season 1-4 following a four-game losing streak against South Carolina, Arkansas, Mississippi State and Colorado. With rumors flying about Richt's coaching future with the Bulldogs, Georgia responded by winning five of its final seven games. The `Dogs lost 34-31 to Florida in overtime, but beat Georgia Tech 42-34 in the final week of the regular season to become bowl eligible.</p>
+<p>O'Leary said that Georgia is far better than a .500 team and knows that the Knights will have a big challenge to beat a team that is loaded with elite athletes at many positions.</p>
+<p>&quot;The big thing against them is we'll have to play 60 minutes. That's the biggest difference in the competition levels, too,'' O'Leary said. &quot;The SEC is a great conference with great teams and (Georgia) has to play every play for whatever they can get. The big thing for us is playing the full 60 minutes and then when we have a chance to score we have to put points on the board.''&nbsp;</p>
+		
+	
+	<p id="back"><a href="index?page=news">&lt; Back to the Newsroom</a></p>
+
+</div>
+
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+
+		</div> 
+	</body>
+</html>
+

@@ -1,0 +1,527 @@
+
+
+
+
+
+
+
+
+
+	
+	
+										
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/article.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=article&amp;id=00240041338a60010331bcbbf6007e23&amp;mode=news" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+		
+		
+		<a class='rss' href="http://news.ucf.edu/UCFnews/ucfreport/rss_mainnewsinfo.jsp" title="Subscribe using any feed reader!">
+			RSS Feed
+		</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.med.ucf.edu/">College of Medicine</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.today.ucf.edu">UCF Today</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.tv">UCF TV</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 88&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+<div id="main_content">
+	<h2>UCF Names 14 Professors Emeriti at Founders' Day</h2>
+	
+	<p class="article_info">
+		
+			By Tom Evelyn
+		
+		<span class="date">April 13, 2005</span></p>
+	
+	
+	
+		<div class="article_img" style="width: px;">
+
+			<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE454/en_US/050413emeritimain.jpg" height="" width=""  /> 
+			
+				<p class="photo_credit">Photo: Jacque Brund</p>
+			
+			<p>Fourteen University of Central Florida faculty members who have made major professional contributions and achieved eminence in their work at UCF were awarded emeritus status Wednesday at the annual Founders&#146; Day ceremony.</p>
+			
+				<p class="note"><a class="full_photo" id="popup.jsp?article_id=00240041338a60010331bcbbf6007e23">Full Photo</a></p>
+			
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			
+		</div>
+	
+	
+	
+	
+	
+	
+	
+		
+			<div id="related">
+				<h3>Related Contacts and Links:</h3>
+				<ul>
+		
+		<li>
+		
+			
+				<h4><a href="mailto:tevelyn@mail.ucf.edu">Tom Evelyn</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-823-5988</li>
+			
+			</ul>
+		
+		</li>
+	
+	
+	
+		
+		<li>
+		
+			<h4><a href="index?page=article&amp;id=00240041338a60010331bcbbf6007e6f&amp;mode=news">College of Educations Hynes Wins Pegasus Professor Award</a></h4>
+		
+		</li>
+	
+		
+		<li>
+		
+			<h4><a href="index?page=article&amp;id=00240041338a60010331bcbbf6007e05&amp;mode=news">UCF Honors Outstanding Faculty, Students at Founders Day</a></h4>
+		
+		</li>
+	
+	
+	 </ul></div> 
+	
+	
+			
+	
+	
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	<div id="share">
+		<ul><li><p id="print"><a href="javascript:window.print();">Print this Page</a></li></ul>
+	
+	</div>
+	
+	
+	
+	
+		
+			<p>Fourteen <place /><city />University of Central</city /> <state />Florida</state /></place /> faculty members who have made major professional contributions and achieved eminence in their work at UCF were awarded emeritus status Wednesday at the annual Founders Day ceremony.</p><p /><p /><p>Emeritus professors have worked at the university for at least five years and many are retired or will do so later this year. Emeritus status grants them a lifetime link to UCF.</p><p /><p /><p><strong>Lee Armstrong, Professor Emeritus,</strong> joined the Department of Mathematics faculty when it was established the same year UCF opened in 1968. Dr. Armstrong has established a reputation for being one of the most effective teachers in the college and the university, Arts and Sciences Dean Kathy Seidel wrote in a letter supporting Armstrongs emeritus nomination. A noted figure in mathematics pedagogy, Armstrong has served as associate dean of the <place /><placetype />College</placetype /> of <placename />Arts</placename /></place /> and Sciences and as president and governor of the <state /><place />Florida</place /></state /> section of the Mathematics Association of America. Armstrong, who is currently serving as distinguished visiting professor at the U.S. Air Force Academy, has won two Teaching Incentive Program awards and two <place /><placetype />College</placetype /> of <placename />Arts</placename /></place /> and Sciences Excellence in Undergraduate Teaching awards at UCF. He will retire this summer.</p><p /><p /><p><strong>William Callarman, Associate Professor Emeritus,</strong> joined the Department of Management at UCF in 1972 and served as the leader of the fledgling Management/Marketing departments and the <place /><placetype />College</placetype /> of <placename />Business Administration</placename /></place />, as well as the director of the College Management Institute (now <place /><placename />Executive</placename /> <placename />Development</placename /> <placetype />Center</placetype /></place />). Callarman, who is retiring, has been the lead professor in the colleges Cornerstone course, a service-learning course that applies the concepts taught in lecture. He has also served as the National Collegiate Athletic Association Faculty Athletics Representative since 1983. Callarman has won the <place /><placetype />College</placetype /> of <placename />Business Administration Outstanding Service Award</placename /></place />, the Teaching Incentive Program Award and the Excellence in Teaching Award from the Management Department.</p><p /><p /><p><strong>Glenn Cunningham, Professor Emeritus,</strong> retired in the fall after a 35-year career at UCF. Joining the Department of Chemistry in 1969, he established an exemplary record of teaching, research, professional and administrative service, Arts and Sciences Dean Kathy Seidel wrote in a letter supporting Cunninghams emeritus nomination. A key contributor to interdisciplinary research, many of the students Cunningham mentored have achieved prominence in medicine, dentistry and biochemistry. He has won the University Excellence in Teaching Award, the Teaching Incentive Program Award and the University Excellence in Research Award. Cunningham served as chair of the Chemistry Department from 1992 to 2004 and helped establish the Ph.D. program in biomolecular science.</p><p /><p /><p><strong>Charles Dziuban, Professor Emeritus,</strong> joined the <place /><placetype />College</placetype /> of <placename />Education</placename /></place /> at UCF in 1970 and has served as director of the Research Initiative for Teaching Effectiveness since 1999. In 2000, Dziuban was named UCFs first Pegasus Professor, the universitys highest honor given to a faculty member who has made an extraordinary contribution to UCF and excelled in teaching, research and service. An expert in distributed learning, Dziuban has served as the principal investigator examining the characteristics and perceptions of students enrolled in UCFs highly successful online courses and faculty teaching those courses. He has won the Outstanding Professor and Research Professor awards, the Excellence in Research Award and Excellence in Graduate Teaching awards. Dziuban will retire this summer.</p><p /><p /><p><strong>Robert Gennaro, Professor Emeritus, </strong>retired in October after a 34-year career at UCF. Serving as chair of Molecular Biology and Microbiology from its inception in 1990 until 2002, it was his vision, hard work and leadership  that provided the foundation for the current Burnett College of Biomedical Sciences, Health and Public Affairs Dean Belinda McCarthy wrote in a letter supporting Gennaros emeritus nomination. An expert in diagnostic and pathogenic microbiology, Gennaro has also served as the graduate coordinator and as interim associate dean of the <place /><placetype />College</placetype /> of <placename />Health</placename /></place /> and Public Affairs. As associate dean, he oversaw the construction of the Health and Public Affairs and Biomolecular Science buildings.</p><p /><p /><p><strong>David Kuhn, Professor Emeritus,</strong> joined the biology faculty at UCF in 1970. A respected national figure in biology with expertise in the study of the fruit fly, Kuhn has served as chair of the Biology Department since 2000. Under his leadership, the department has grown in quantity and quality and is a model department in the <place /><placetype />College</placetype /> of <placename />Arts</placename /></place /> and Sciences, Dean Kathy Seidel wrote in a letter supporting Kuhns emeritus nomination. Kuhn has won two Teaching Incentive Program awards, a University Research Excellence Award, a <place /><placetype />College</placetype /> of <placename />Arts</placename /></place /> and Sciences Excellence Research Award and a University Professional Excellence Performance Award. He will retire in June.</p><p /><p /><p><strong>Shirley Leckie, Professor Emerita,</strong> joined the Department of History at UCF in 1985. Leckie has served as graduate program coordinator and as assistant dean of the <place /><placetype />College</placetype /> of <placename />Arts</placename /></place /> and Sciences. Dr. Leckie has established a stellar record of teaching, research and service. She, for instance, holds the departmental record for most theses directed and the students she has mentored have distinguished themselves in different endeavors, Arts and Sciences Dean Kathy Seidel wrote in a letter supporting Leckies emerita nomination. A renowned authority on Western and womens history, Leckie has won two Teaching Incentive Program awards and one of UCFs highest distinctions, the Presidential Award for Merit. She will retire this summer.</p><p /><p /><p><strong>Brooks Madsen, Professor Emeritus,</strong> joined UCFs chemistry faculty in 1970. Madsen is recognized by his students and colleagues as an outstanding teacher, Arts and Sciences Dean Kathy Seidel wrote in a letter supporting Madsens emeritus nomination. Regarded as a salient figure in the area of acid rain studies, Madsen has won two College Excellence in Teaching awards, the University Excellence in Teaching Award and two Teaching Incentive Program awards. In 2003, Madsen was named the Outstanding Teacher at a <place /><placename />Four</placename /> <placename />Year</placename /> <placetype />University</placetype /></place /> by the Orlando Section of the American Chemical Association. He will retire in the summer.</p><p /><p /><p><strong>Milan Mike Meeske, Professor Emeritus, </strong>joined the communication faculty at UCF in 1970. An expert in radio and television, Meeske helped develop the RTV Division in Communication and has mentored a number of students who are now leaders in the field. Dr. Meeskes long career at UCF has been a productive one in teaching, research and service, Arts and Sciences Dean Kathy Seidel wrote in a letter supporting his emeritus nomination. Meeske, who also served as director of the Nicholson School of Communication for eight years, was named Teacher of the Year in the <place /><placetype />College</placetype /> of <placename />Arts</placename /></place /> and Sciences in 1986 and Outstanding Adviser in 1992. He will retire this summer.</p><p /><p /><p><strong>Thomas Mullin, Associate Professor Emeritus,</strong> joined the Communicative Disorders faculty in 1972. Mullin, who is retiring, was the first director of the Communicative Disorders Program and founded the UCF Communication Disorders Clinic in 1973. He is an excellent teacher; he has shown his dedication to students in many ways over the years, often taking a personal interest in their lives and in their success, Health and Public Affairs Dean Belinda McCarthy wrote in her letter supporting Mullins emeritus nomination. Mullin has also served as acting chair of Communicative Disorders and as graduate coordinator. He has been named College Researcher of the Year and won an Excellence in Action Award for support of minority students.</p><p /><p /><p><strong>Franklin Snelson, Professor Emeritus,</strong> joined the biology faculty in 1970. <city /><place />Franklin</place /></city /> is an accomplished scholar with a superb research record, Arts and Sciences Dean Kathy Seidel wrote in a letter supporting Snelsons emeritus nomination. Snelson, who served as chair of the Department of Biology from 1981 to 1988, won a Teaching Incentive Program Award in 1994 and a Distinguished Researcher of the Year Award in the <place /><placetype />College</placetype /> of <placename />Arts</placename /></place /> and Sciences in 1982. He has also served as project manager for the Florida Program for Shark Research. In 1985, a new species of fish, Notropis snelsoni, was named in recognition of his contribution to fish systematics. Snelson is retiring in May.</p><p /><p /><p><strong>K. Phillip Taylor, Professor Emeritus, </strong>joined the communication faculty in 1970. <city /><place />Taylor</place /></city /> helped establish and directed the Interpersonal and Organizational Communication Division for 30 years. Since his arrival to the UCF faculty 35 years ago, Dr. Taylor has made positive contributions to UCF, Arts and Sciences Dean Kathy Seidel wrote in a letter supporting <city /><place />Taylor</place /></city />s emeritus nomination. An expert in courtroom communication, <city /><place />Taylor</place /></city /> was recognized for his teaching and mentoring efforts with a College Excellence in Undergraduate Teaching Award. He also served as a graduate coordinator. <city /><place />Taylor</place /></city /> will retire at the end of this academic year.</p><p /><p /><p><strong>Nicolaos Tzannes, Professor Emeritus,</strong> joined the Department of Electrical and Computer Engineering at UCF in 1986 and served as chair of Electrical Engineering until 1994. Dr. Tzannes is a faculty member with a history of giving at the university. The status of emeritus will be great honor upon him and our university, former Engineering and Computer Science Dean Marty Wanielista wrote in a letter supporting Tzannes nomination. A communication and radar systems expert, Tzannes was named the Outstanding Engineering Educator in 1990 by the IEEE Central Florida Chapter and again in 1991 by the IEEE Florida Section.</p><p /><p /><p><strong>Gary Whitehouse, Professor Emeritus,</strong> joined UCFs Industrial Engineering faculty as the department chairman in 1978. He served as dean and a professor of engineering from 1988 to 1993, when he became provost, a position he held for 10 years. Lesia Crumpton-Young, chairwoman of the Department of Industrial Engineering and Management Systems, praised Whitehouses major professional contributions to UCF and the profession of Industrial Engineering in a letter supporting his nomination for emeritus status. Whitehouse, who is also provost emeritus, continues to serve on national committees with the <place /><placetype />Institute</placetype /> of <placename />Industrial Engineers</placename /></place /> and remains active in research.</p><p /><p /><p><strong>Recently-Retired and Retiring Faculty</strong></p><p /><p /><p><em>College of Arts and Sciences</em></p><p /><p>Lee H. Armstrong, Mathematics</p><p /><p>David T. Kuhn, Biology</p><p /><p>Joyce R. Lilie, Political Science</p><p /><p>Brooks C. Madsen, Chemistry</p><p /><p>Milan D. Meeske, <place /><placename />Nicholson</placename /> <placetype />School</placetype /></place /> of Communication</p><p /><p>Franklin F. Snelson, Jr., Biology</p><p /><p>K. Phillip Taylor, <place /><placename />Nicholson</placename /> <placetype />School</placetype /></place /> of Communication</p><p /><p /><p><em>Burnett</placename /> <placetype />College</placetype /></place /> of Biomedical Sciences</em></p><p /><p>Robert Nash Gennaro, Molecular Biology and Microbiology</p><p /><p /><p><em>College</placetype /> of <placename />Business Administration</placename /></place /></em></p><p /><p>William G. Callarman, Management</p><p /><p>Daniel R. Vaughen, <place /><placetype />School</placetype /> of <placename />Accounting</placename /></place /></p><p /><p>James A. Xander, Economics</p><p /><p /><p><em>College</placetype /> of <placename />Education</placename /></place /></em></p><p /><p>Charles D. Dziuban, Educational Research, Technology, and Leadership </p><p /><p>Gerald R. Gergley, Teaching and Learning Principles</p><p /><p>Sharon Hiett, Educational Studies</p><p /><p>Jennie L. Loudermilk, Educational Studies</p><p /><p>Barry W. Siebert, Teaching and Learning Principles</p><p /><p>Alexander T. Wood, Educational Studies</p><p /><p /><p><em>College</placetype /> of <placename />Engineering</placename /></place /> and Computer Science</em></p><p /><p>Edward Earl Hampton, Jr., Industrial Engineering and Management Systems</p><p /><p>Gary E. Whitehouse, Industrial Engineering and Management Systems </p><p /><p /><p><em>College</placetype /> of <placename />Health</placename /></place /> and Public Affairs</em></p><p /><p>Thomas A. Mullin, Communicative Disorders<span>    </span></p><p /><p /><p><em>College</placetype /> of <placename />Optics</placename /></place /> and Photonics</em></p><p /><p>Hans P. Jenssen</p><p /><p /><p><em>Division of Research</em></p><p /><p>Carol L. Emrich, <state /><place />Florida</place /></state /> Solar <place /><placename />Energy</placename /> <placetype />Center</placetype /></place /></p>
+		
+	
+	<p id="back"><a href="index?page=news">&lt; Back to the Newsroom</a></p>
+
+</div>
+
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+
+		</div> 
+	</body>
+</html>
+

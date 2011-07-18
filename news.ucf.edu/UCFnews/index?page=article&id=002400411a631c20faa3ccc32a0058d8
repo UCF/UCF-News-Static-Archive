@@ -1,0 +1,640 @@
+
+
+
+
+
+
+
+
+
+	
+	
+										
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/article.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=article&amp;id=002400411a631c20faa3ccc32a0058d8" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+		
+		
+		<a class='rss' href="http://news.ucf.edu/UCFnews/ucfreport/rss_mainnewsinfo.jsp" title="Subscribe using any feed reader!">
+			RSS Feed
+		</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.med.ucf.edu/">College of Medicine</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.today.ucf.edu">UCF Today</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.tv">UCF TV</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 88&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+<div id="main_content">
+	<h2>African-American History Online</h2>
+	
+	<p class="article_info">
+		
+			By Chad Binette
+		
+		<span class="date">January 21, 2004</span></p>
+	
+	
+	
+		<div class="article_img" style="width: px;">
+
+			<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE188/en_US/040121history5.jpg" height="" width=""  /> 
+			
+				<p class="photo_credit">Photo: Jerry Klein</p>
+			
+			<p>Everyone's Grandmother. Mundy's collection includes art as well as artifacts and documents</p>
+			
+				<p class="note"><a class="full_photo" id="popup.jsp?article_id=002400411a631c20faa3ccc32a0058d8">Full Photo</a></p>
+			
+			
+			
+			
+					
+						
+						
+							
+								<h3>Story Images</h3>
+								<ul id="story_images">
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=002400411a631c20faa3ccc32a0058d8&amp;img_mode=1&amp;index=0">
+							<img width="100" alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE188/en_US/040121history1.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=002400411a631c20faa3ccc32a0058d8&amp;img_mode=1&amp;index=1">
+							<img width="100" alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE188/en_US/040121history3.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=002400411a631c20faa3ccc32a0058d8&amp;img_mode=1&amp;index=2">
+							<img width="100" alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE188/en_US/040121history4.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=002400411a631c20faa3ccc32a0058d8&amp;img_mode=1&amp;index=3">
+							<img width="100" alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE188/en_US/040121hstory2.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+						
+					
+			
+			
+			
+			
+			</ul><p  class="note">Click thumbnails for full-size images.</p>
+		</div>
+	
+	
+	
+	
+	
+	
+	
+		
+			<div id="related">
+				<h3>Related Contacts and Links:</h3>
+				<ul>
+		
+		<li>
+		
+			
+				<h4><a href="mailto:igibson@dm.ucf.edu">Ian Gibson</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-823-1731</li>
+			
+			</ul>
+		
+		</li>
+	
+		
+		<li>
+		
+			
+				<h4><a href="mailto:cmundy@cfl.rr.com">Carol Mundy</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-290-8391</li>
+			
+			</ul>
+		
+		</li>
+	
+		
+		<li>
+		
+			
+				<h4><a href="mailto:zora@cs.ucf.edu">N.Y. Nathiri</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-647-3307</li>
+			
+			</ul>
+		
+		</li>
+	
+	
+	
+		
+		<li>
+		
+			<h4><a href="index?page=article&amp;id=002400411a631c20faa3ccc32a0058d8"></a></h4>
+		
+		</li>
+	
+	
+	 </ul></div> 
+	
+	
+			
+	
+	
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	<div id="share">
+		<ul><li><p id="print"><a href="javascript:window.print();">Print this Page</a></li></ul>
+	
+	</div>
+	
+	
+	
+	
+		
+			African-American children will be able to learn how their ancestors lived, worked and survived during segregation by logging onto a Web site with photographs of hundreds of artifacts collected by an Orlando woman.
+
+As Black History Month approaches, University of Central Florida professor Ian Gibson and several UCF School of Film and Digital Media students are getting ready to digitize photographs of more than 500 artifacts loaned to the Zora Neale Hurston National Museum in Eatonville by Orlando resident Carol Mundy. They will post the images, with accompanying narratives describing the lifestyles of African-Americans in the 18th, 19th and 20th centuries, on the Web.
+
+		
+	
+		
+			"I think artifacts are a perfect way to take children from the past to the present and show them how to link the two," Mundy said.
+
+UCF will use about $35,000 of a $270,000 grant obtained by the Association to Preserve the Eatonville Community Inc., which oversees the museum, to digitize the photographs and make them available online. The photos could be posted by the end of May.
+
+The photos will depict artwork, dolls, documents, books and other artifacts that Mundy, 55, has collected during the past 12 years. Some of the artifacts date back to the late 18th and early 19th centuries, and others are from the 20th century.
+
+		
+	
+		
+			"We're interested in addressing some of the themes of African-Americans' lives in the Southeast," Gibson said. "We want to show how ordinary people lived their daily lives and what they were able to achieve in spite of segregation."
+
+Much of the remainder of the grant will allow the museum to conserve the collection and develop and display a series of exhibitions starting in the fall of 2004. N.Y. Nathiri, executive director of the Association to Preserve the Eatonville Community, said she plans to seek additional grants to help manage and display the collection.
+
+		
+	
+		
+			Eatonville, located about 10 miles north of downtown Orlando, is the oldest incorporated black municipality in the United States. Eatonville also is the hometown of Hurston, a 20th century writer, folklorist and anthropologist.
+
+Mundy loaned about 900 artifacts to the museum for 10 years. While none of the materials belonged to Hurston, the collection fits the museum's mission well because it shows how the people Hurston wrote about lived, Mundy said.
+
+Mundy, who has collected about 2,000 artifacts during the past 12 years, often opened her home to tours of schoolchildren. But she was running out of space and wanted to make her collection more visible, so she decided to loan about half of the artifacts to the museum.
+
+Nathiri then sought the grant from the state Division of Historical Resources to digitize the artifacts so they could be even more accessible to the public.
+
+		
+	
+		
+			"We just believe this is such a fine opportunity to present an exhibition that addresses segments of history that often are not treated or handled in a thorough fashion," she said. "The wonder of her collection is how full and complete a picture people are able to paint, and how much people are able to understand, about the life of black people in Florida and in the South. Being able to get this material on the Web site means that a much greater audience is going to have the ability to interact with it."
+
+Mundy, a Cincinnati native whose mother was an antiques dealer, began collecting artifacts 12 years ago after she found a military document from the 1880s inside an antique book. The document was a black soldier's official discharge from his service in the U.S. Army.
+
+Mundy has purchased some of her collection at stores, flea markets and yard sales in Central Florida and other parts of the country. Before her retirement, she worked as an airline operations manager, which made it easier for her to travel on off days to look for artifacts in other states.
+
+Mundy continues to collect antique books, dolls, paintings and other artifacts. She brings some of them with her when she gives presentations to schoolchildren and other groups, and she loans some of her materials to traveling exhibitions.
+
+		
+	
+	<p id="back"><a href="index?page=news">&lt; Back to the Newsroom</a></p>
+
+</div>
+
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+
+		</div> 
+	</body>
+</html>
+

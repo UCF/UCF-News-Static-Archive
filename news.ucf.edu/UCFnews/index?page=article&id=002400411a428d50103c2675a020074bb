@@ -1,0 +1,562 @@
+
+
+
+
+
+
+
+
+
+	
+	
+										
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/article.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=article&amp;id=002400411a428d50103c2675a020074bb" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+		
+		
+		<a class='rss' href="http://news.ucf.edu/UCFnews/ucfreport/rss_mainnewsinfo.jsp" title="Subscribe using any feed reader!">
+			RSS Feed
+		</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.med.ucf.edu/">College of Medicine</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.today.ucf.edu">UCF Today</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.tv">UCF TV</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 88&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+<div id="main_content">
+	<h2>UCFs Nine Miss Florida Pageant Contestants Excel in Classroom, Community</h2>
+	
+	<p class="article_info">
+		
+			By Chad Binette
+		
+		<span class="date">June 22, 2005</span></p>
+	
+	
+	
+		<div class="article_img" style="width: px;">
+
+			<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE302/en_US/missflacrop.jpg" height="" width=""  /> 
+			
+				<p class="photo_credit">Photo: Richard Trainor</p>
+			
+			<p>UCF's nine Miss Florida contestants. Front row (left to right): Evy "Christina" Tonn, Megan Clementi, Lauren Meyer, Jennifer Hartzler. Back row: Rachel Potter, Sheena Howell, Nichole McPherson, Danielle Marino and Denesha Jenkins</p>
+			
+				<p class="note"><a class="full_photo" id="popup.jsp?article_id=002400411a428d50103c2675a020074bb">Full Photo</a></p>
+			
+			
+			
+			
+					
+						
+						
+							
+								<h3>Story Images</h3>
+								<ul id="story_images">
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=002400411a428d50103c2675a020074bb&amp;img_mode=1&amp;index=0">
+							<img width="100" alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE302/en_US/050616contest1.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=002400411a428d50103c2675a020074bb&amp;img_mode=1&amp;index=1">
+							<img width="100" alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE302/en_US/0500616contest2.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			</ul><p  class="note">Click thumbnails for full-size images.</p>
+		</div>
+	
+	
+	
+	
+	
+	
+	
+		
+			<div id="related">
+				<h3>Related Contacts and Links:</h3>
+				<ul>
+		
+		<li>
+		
+			
+				<h4><a href="mailto:vlivesay@mail.ucf.edu">Veronica Livesay</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-823-2626</li>
+			
+			</ul>
+		
+		</li>
+	
+		
+		<li>
+		
+			
+				<h4><a href="mailto:cbinette@mail.ucf.edu">Chad Binette</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-823-6312</li>
+			
+			</ul>
+		
+		</li>
+	
+	
+	
+		
+		<li>
+		
+			<h4><a href="http://www.missflorida.org/">Miss Florida pageant</a></h4>
+		
+		</li>
+	
+	
+	 </ul></div> 
+	
+	
+			
+	
+	
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	<div id="share">
+		<ul><li><p id="print"><a href="javascript:window.print();">Print this Page</a></li></ul>
+	
+	</div>
+	
+	
+	
+	
+		
+			<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial">Devoted to helping children learn to read, fighting diabetes, building communities and many other causes, nine </span><place /><placetype /><span style="FONT-FAMILY: Arial">University</span></placetype /><span style="FONT-FAMILY: Arial"> of </span><placename /><span style="FONT-FAMILY: Arial">Central Florida</span></placename /></place /><span style="FONT-FAMILY: Arial"> contestants competed for the Miss Florida pageant title June 29 to July 2 in </span><city /><place /><span style="FONT-FAMILY: Arial">Miami</span></place /></city /><span style="FONT-FAMILY: Arial">.</span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"> </span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"></span></font><font size="3"><span style="FONT-FAMILY: Arial">Denesha Jenkins finished as the third runner-up, while Megan Clementi, Rachel Potter and Danielle Marino also finished in the top ten.</span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"> </span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"></span></font><font size="3"><span style="FONT-FAMILY: Arial">Eight UCF students and 2004 graduate Danielle Marino made up about one-fifth of the field that competed for scholarships and the chance to move on to the Miss America pageant. No other university had more than six Miss </span><state /><place /><span style="FONT-FAMILY: Arial">Florida</span></place /></state /><span style="FONT-FAMILY: Arial"> contestants.</span></font></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial">Were all really good friends, and its nice to share this experience and get support from one another, said Sheena Howell, a senior microbiology major who is </span><place /><placename /><span style="FONT-FAMILY: Arial">Miss</span></placename /><span style="FONT-FAMILY: Arial"> </span><placename /><span style="FONT-FAMILY: Arial">Ocala/Marion</span></placename /><span style="FONT-FAMILY: Arial"> </span><placetype /><span style="FONT-FAMILY: Arial">County</span></placetype /></place /><span style="FONT-FAMILY: Arial">. All of the girls are intelligent, beautiful and really involved in the community.</span></font></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial">Howell, of Leesburg, often speaks to middle and high school students about the importance of abstaining from sex until marriage, and shes promoting the Education Now and Babies Later initiative through her platform. Howell, who wants to become a dentist, is competing in her second Miss </span><state /><place /><span style="FONT-FAMILY: Arial">Florida</span></place /></state /><span style="FONT-FAMILY: Arial"> pageant.</span></font></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3">Miss University of Central Florida Jennifer Hartzler, a senior honors student, wants to help people build communities at the local, state and national levels. Noting that strong communities enhance the overall quality of life while weak communities can produce economic hardship and declining schools, Hartzler encourages residents to volunteer through the USA Freedom Corps. She also plans to work with chambers of commerce to enhance the investments of businesses in their communities.</font></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3">Ive always believed in service, and Ive always believed in working together to solve a communitys needs, said Hartzler, who chairs UCFs Presidents Leadership Council of student ambassadors.</font></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3">Hartzler, an economics major who competed in her first pageant two years ago, said she believes the key to performing well is to be confident and comfortable with who you are. She said shes looking forward to having so many other UCF students with her at the competition because many of them are close friends.</font></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial">The nine of us just had a blast at orientation, said Hartzler, of </span><city /><place /><span style="FONT-FAMILY: Arial">Oviedo</span></place /></city /><span style="FONT-FAMILY: Arial">. Its a little sisterhood.</span></font></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3">The nine contestants hope to build on UCFs recent success in pageants. Ericka Dunlap, an advertising and public relations major who graduated in the spring, won the Miss America pageant in 2004. UCF alumna Monica Spear, a 2004 graduate who majored in theater, won the Miss Venezuela pageant last year and was the fourth runner-up at the Miss Universe pageant in May. </font></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3">Nichole McPherson, who won the Miss Apopka title this year, </font></span><span style="FONT-FAMILY: Arial"><font size="3">volunteers with the American Diabetes Association and urges children to eat healthy foods. Inspired by her fathers battle with a form of pre-diabetes several years ago, she developed her platform around the theme, Teach Your Children Well: The Importance of Diabetes Education. </font></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial">Im not going (to Miss </span><state /><place /><span style="FONT-FAMILY: Arial">Florida</span></place /></state /><span style="FONT-FAMILY: Arial">) just to win a pretty crown, said McPherson, a senior majoring in organizational communications who was born in </span><state /><place /><span style="FONT-FAMILY: Arial">New York</span></place /></state /><span style="FONT-FAMILY: Arial"> and has lived most of her life in </span><city /><place /><span style="FONT-FAMILY: Arial">Orlando</span></place /></city /><span style="FONT-FAMILY: Arial">. Im going because of what I can do with the crown and for the many children I can reach and talk to not only about diabetes education, but also dedication and percipience.</span></font></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial">Denesha Jenkins, who holds the Miss City Beautiful title, is an aspiring teacher who promotes literacy through her platform. Jenkins wants children to get excited about reading. Jenkins, a junior from </span><city /><place /><span style="FONT-FAMILY: Arial">Belle Glade</span></place /></city /><span style="FONT-FAMILY: Arial">, is an elementary education major who volunteers in schools in </span><city /><place /><span style="FONT-FAMILY: Arial">Orange</span></place /></city /><span style="FONT-FAMILY: Arial"> and Seminole counties.</span></font></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial">Jenkins, who is competing in her second Miss </span><state /><place /><span style="FONT-FAMILY: Arial">Florida</span></place /></state /><span style="FONT-FAMILY: Arial"> pageant, is the only one in her family of six to attend college. She said she hopes to win scholarship money that will help her continue with her education and added that pageants have helped her to improve her public speaking skills. </span></font></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial">Megan Clementi, a junior from Jupiter and the Miss South Florida Fair titleholder, has volunteered at Give Kids the </span><place /><placename /><span style="FONT-FAMILY: Arial">World</span></placename /><span style="FONT-FAMILY: Arial"> </span><placetype /><span style="FONT-FAMILY: Arial">Village</span></placetype /></place /><span style="FONT-FAMILY: Arial"> in </span><city /><place /><span style="FONT-FAMILY: Arial">Kissimmee</span></place /></city /><span style="FONT-FAMILY: Arial"> since she performed there eight years ago with a youth gymnastics team. <span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??="">The nonprofit resort provides free accommodations, donated meals and tickets to theme parks and other attractions for children with life-threatening illnesses and their families.<span style="mso-spacerun: yes"> </span></span></span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""><span style="mso-spacerun: yes"> </span></span></span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""><span style="mso-spacerun: yes"></span></span></span></font><span style="FONT-FAMILY: Arial"><font size="3">Clementi, an electrical engineering major, made helping children with life-threatening diseases her pageant platform because she enjoys doing what she can to ensure that the children can experience fairy tale weeks and forget about their illnesses.</font></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial">Evy Christina Tonn, a junior political science major and </span><place /><placename /><span style="FONT-FAMILY: Arial">Burnett</span></placename /><span style="FONT-FAMILY: Arial"> </span><placename /><span style="FONT-FAMILY: Arial">Honors</span></placename /><span style="FONT-FAMILY: Arial"> </span><placetype /><span style="FONT-FAMILY: Arial">College</span></placetype /></place /><span style="FONT-FAMILY: Arial"> student, holds the title of Miss St. Petersburg. Tonn, of </span><city /><place /><span style="FONT-FAMILY: Arial">Sarasota</span></place /></city /><span style="FONT-FAMILY: Arial">, is promoting personal responsibility in todays generation through her platform.</span></font></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial">Danielle Marino graduated in 2004 after studying theater performance and interior design at UCF. Marino, of </span><city /><place /><span style="FONT-FAMILY: Arial">Ocala</span></place /></city /><span style="FONT-FAMILY: Arial">, holds the </span><place /><placename /><span style="FONT-FAMILY: Arial">Miss</span></placename /><span style="FONT-FAMILY: Arial"> </span><placename /><span style="FONT-FAMILY: Arial">Seminole</span></placename /><span style="FONT-FAMILY: Arial"> </span><placetype /><span style="FONT-FAMILY: Arial">County</span></placetype /></place /><span style="FONT-FAMILY: Arial"> title, and her platform is Character First -- The Power of Self-Respect. Lauren Meyer, a sophomore from </span><city /><place /><span style="FONT-FAMILY: Arial">Ocala</span></place /></city /><span style="FONT-FAMILY: Arial">, holds the Miss Winter Park title. A visual language major, Meyers platform is Links for Life: Connecting Our Youth to a Healthier Tomorrow.</span></font></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial">Rachel Potter, 20, a junior from Seminole, won the Miss Seminole title. An advertising and public relations major, Potters platform is Developing Outstanding Character in </span><country-region /><place /><span style="FONT-FAMILY: Arial">America</span></place /></country-region /><span style="FONT-FAMILY: Arial">s Youth.</span></font></p>
+		
+	
+		
+			<p />
+		
+	
+	<p id="back"><a href="index?page=news">&lt; Back to the Newsroom</a></p>
+
+</div>
+
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+
+		</div> 
+	</body>
+</html>
+

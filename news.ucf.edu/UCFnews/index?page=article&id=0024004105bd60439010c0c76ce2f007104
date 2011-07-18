@@ -1,0 +1,619 @@
+
+
+
+
+
+
+
+
+
+	
+	
+										
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/article.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=article&amp;id=0024004105bd60439010c0c76ce2f007104" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+		
+		
+		<a class='rss' href="http://news.ucf.edu/UCFnews/ucfreport/rss_mainnewsinfo.jsp" title="Subscribe using any feed reader!">
+			RSS Feed
+		</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.med.ucf.edu/">College of Medicine</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.today.ucf.edu">UCF Today</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.tv">UCF TV</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 89&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+<div id="main_content">
+	<h2>UCF Soldiers to Scholars Program Helps Veterans Become Teachers</h2>
+	
+	<p class="article_info">
+		
+			By Chad Binette
+		
+		<span class="date">Updated Aug. 5, 2006</span></p>
+	
+	
+	
+		<div class="article_img" style="width: 261px;">
+
+			<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE502/en_US/dancecrop.jpg" height="196" width="261"  /> 
+			
+				<p class="photo_credit">Photo: Chad Binette</p>
+			
+			<p>During the Soldiers to Scholars 10th anniversary celebration Saturday at Lake Eola, the Brazilian Capoeira dance team performed a martial arts dance.<BR></p>
+			
+				<p class="note"><a class="full_photo" id="popup.jsp?article_id=0024004105bd60439010c0c76ce2f007104">Full Photo</a></p>
+			
+			
+			
+			
+					
+						
+						
+							
+								<h3>Story Images</h3>
+								<ul id="story_images">
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=0024004105bd60439010c0c76ce2f007104&amp;img_mode=1&amp;index=0">
+							<img width="100" alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE502/en_US/groupfull.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=0024004105bd60439010c0c76ce2f007104&amp;img_mode=1&amp;index=1">
+							<img width="100" alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE502/en_US/marinesfull.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=0024004105bd60439010c0c76ce2f007104&amp;img_mode=1&amp;index=2">
+							<img width="100" alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE502/en_US/blockerfull.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			</ul><p  class="note">Click thumbnails for full-size images.</p>
+		</div>
+	
+	
+	
+	
+	
+	
+	
+		
+			<div id="related">
+				<h3>Related Contacts and Links:</h3>
+				<ul>
+		
+		<li>
+		
+			
+				<h4><a href="mailto:areddick@mail.ucf.edu">Alzo Reddick, Soldiers to Scholars</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-445-5500</li>
+			
+			</ul>
+		
+		</li>
+	
+		
+		<li>
+		
+			
+				<h4><a href="mailto:cbinette@mail.ucf.edu">Chad Binette, News & Information</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-823-6312</li>
+			
+			</ul>
+		
+		</li>
+	
+	
+	
+		
+		<li>
+		
+			<h4><a href="http://www.soldierstoscholars.org">Soldiers to Scholars</a></h4>
+		
+		</li>
+	
+	
+	 </ul></div> 
+	
+	
+			
+	
+	
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	<div id="share">
+		<ul><li><p id="print"><a href="javascript:window.print();">Print this Page</a></li></ul>
+	
+	</div>
+	
+	
+	
+	
+		
+			<p>Operation Iraqi Freedom veteran Helbert Asprilla sought a college program that would academically and financially help him become a high school art teacher.</p>
+<p>Retiring after 20 years in the military, single mother Melanie Gladden-Mixon wanted to become an exceptional education teacher so she could help children like her youngest son, who has cerebral palsy.</p>
+<p>Both veterans turned to the University of Central Florida's Soldiers to Scholars program to achieve their goals. Formed in 1996 by state Rep. Alzo Reddick, Soldiers to Scholars allows veterans to take classes for free at
+<place></place>
+<placename></placename>
+Valencia
+<placetype></placetype>
+Community College and UCF, preparing them for careers in teaching and nursing.</p>
+<p>Soldiers to Scholars celebrated its 10<sup>th</sup> anniversary Saturday, Aug. 5, at the Lake Eola Amphitheater in downtown <city></city>
+<place></place>
+Orlando. Orange County Public Schools superintendent Ron Blocker&nbsp; and several entertainers joined program director Alzo Reddick, Soldiers to Scholars students and youths whom they mentor.</p>
+<p>About 40 students are participating in the program this year, and many are minorities and the first in their families to attend college. About 160 veterans have enrolled in Soldiers to Scholars during the programs 10-year history.</p>
+<p>Soldiers to Scholars students spend at least 20 hours a month mentoring at-risk youths of all ages in <city></city>
+<place></place>
+Orlando in addition to completing all of the requirements for their degrees.</p>
+<p>Asprilla, a 28-year-old Colombia native who grew up in New York City, served five years in the Marine Corps infantry. He spent five months in Iraq at the beginning of Operation Iraqi Freedom in 2003 and served in the Kosovo conflict in 1999.</p>
+<p>Asprilla had taken a few community college courses in North Carolina and wanted to get a bachelor's degree after he completed his military service. He said the fact that Soldiers to Scholars participants mentor at-risk youths attracted him to the program.</p>
+<p>During the school year, the veterans help the children prepare for the Florida Comprehensive Assessment Test. They have taken the children on field trips to places such as Kennedy Space Center and the Orlando Museum of Art during the summer.</p>
+<p>&quot;The children become like your children,&quot; Asprilla said. &quot;You get very involved, and you worry for them. You want to find out how they're doing in school. This program has helped me grow tremendously.&quot;</p>
+<p>Asprilla, who plans to earn a bachelor's degree in art education in fall 2007, said working with the youths and developing a more formal curriculum for the mentoring sessions during the school year have prepared him well. A high school teacher inspired him, and he wants to instill similar passions about teaching and art in other youths.</p>
+<p>Gladden-Mixon, 41, served throughout
+<place></place>
+Europe and in <country-region></country-region>
+<place></place>
+Panama and <country-region></country-region>
+<place></place>
+Korea during her 20 years of Army service. The sergeant first class who worked in communications saw teaching as a way to become more involved with children, particularly those with special needs, after she retired from the military in 2003.</p>
+<p>Like Asprilla, she enrolled at
+<place></place>
+<placename></placename>
+Valencia
+<placetype></placetype>
+Community College after starting in Soldiers to Scholars. She has since moved onto UCF, where she is an exceptional education major. The
+<place></place>
+<city></city>Washington, <state></state>D.C., native wants to pursue master's and doctoral degrees after she graduates, likely in fall 2007.</p>
+<p>&quot;Soldiers to Scholars has allowed me to finish my educational goals, and I don't have to work because of the scholarship and rent stipend,&quot; Gladden-Mixon said. &quot;I spent a lot of time away from my children during my 20 years in the military. This allows me to be here for my family and to be mom. That's the biggest reward.&quot;</p>
+<p>Reddick, who still serves as the director of Soldiers to Scholars, modeled the program after a similar one called Troops to Teachers that is run by the U.S. Department of Defense. He said he wanted to help veterans get the teaching credentials that &quot;make them marketable throughout the United States and provide a ticket to the middle class.&quot;</p>
+<p>Reddick served as an Army medic from 1961 to 1964 and then became the first black man to teach at Winter Park High School. He taught American history there and later was an administrator and adjunct professor at Rollins College. Reddick served in the state Legislature from 1982 to 2000.</p>
+<p>&quot;Dr. Reddick is such an inspirational person to everyone in the program because of his wealth of knowledge and experience,&quot; Asprilla said. &quot;It motivates you to be the best because of his background. When we have problems, we seek guidance from Dr. Reddick.&quot;</p>
+<p>During the next ten years, Reddick's goals include recruiting more wounded veterans into the program to help them adjust to civilian life and make an impact on society. He also hopes to develop a Soldiers to Scholars presence at UCF's regional campuses.</p>
+<p>&quot;I'm surprised that there aren't programs like this everywhere,&quot; Gladden-Mixon said. &quot;It would help a lot of children, and it would help other soldiers follow their educational dreams.&quot;</p>
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+	<p id="back"><a href="index?page=news">&lt; Back to the Newsroom</a></p>
+
+</div>
+
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+
+		</div> 
+	</body>
+</html>
+

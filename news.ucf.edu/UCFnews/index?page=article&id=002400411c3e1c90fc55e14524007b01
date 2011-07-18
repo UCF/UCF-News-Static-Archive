@@ -1,0 +1,583 @@
+
+
+
+
+
+
+
+
+
+	
+	
+										
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/article.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=article&amp;id=002400411c3e1c90fc55e14524007b01" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+		
+		
+		<a class='rss' href="http://news.ucf.edu/UCFnews/ucfreport/rss_mainnewsinfo.jsp" title="Subscribe using any feed reader!">
+			RSS Feed
+		</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.med.ucf.edu/">College of Medicine</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.today.ucf.edu">UCF Today</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.tv">UCF TV</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 88&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+<div id="main_content">
+	<h2>A New Generations Abstract Eye Candy</h2>
+	
+	<p class="article_info">
+		
+			By Susan Loden
+		
+		<span class="date">May 24, 2004</span></p>
+	
+	
+	
+		<div class="article_img" style="width: px;">
+
+			<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE119/en_US/040521awakes.jpg" height="" width=""  /> 
+			
+				<p class="photo_credit">Photo: FHE</p>
+			
+			<p>"Awakes" a Flying Horse edition by John O'Connor.</p>
+			
+				<p class="note"><a class="full_photo" id="popup.jsp?article_id=002400411c3e1c90fc55e14524007b01">Full Photo</a></p>
+			
+			
+			
+			
+					
+						
+						
+							
+								<h3>Story Images</h3>
+								<ul id="story_images">
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=002400411c3e1c90fc55e14524007b01&amp;img_mode=1&amp;index=0">
+							<img width="100" alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE119/en_US/040521Burkhart.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=002400411c3e1c90fc55e14524007b01&amp;img_mode=1&amp;index=1">
+							<img width="100" alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE119/en_US/040521oconnor.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=002400411c3e1c90fc55e14524007b01&amp;img_mode=1&amp;index=2">
+							<img width="100" alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE119/en_US/040521within.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+						
+					
+			
+			
+			
+			
+			</ul><p  class="note">Click thumbnails for full-size images.</p>
+		</div>
+	
+	
+	
+	
+	
+	
+	
+		
+			<div id="related">
+				<h3>Related Contacts and Links:</h3>
+				<ul>
+		
+		<li>
+		
+			
+				<h4><a href="mailto:">Anita S. Wooten Gallery</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-582-2298</li>
+			
+			</ul>
+		
+		</li>
+	
+		
+		<li>
+		
+			
+				<h4><a href="mailto:">Flying Horse Editions</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-823-4178</li>
+			
+			</ul>
+		
+		</li>
+	
+	
+	
+		
+		<li>
+		
+			<h4><a href="http://www.flying-horse-editions.org/">Flying Horse Editions</a></h4>
+		
+		</li>
+	
+	
+	 </ul></div> 
+	
+	
+			
+	
+	
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	<div id="share">
+		<ul><li><p id="print"><a href="javascript:window.print();">Print this Page</a></li></ul>
+	
+	</div>
+	
+	
+	
+	
+		
+			<p><span times="" new="" roman??="">Two new-school, system-based abstractionists, New Yorker John OConnor and Ryan Burkhart, director of UCFs Flying Horse Editions fine arts research press, will reopen the revamped Anita S. Wooten Gallery in Orlando on Friday, July 2, with their two-month exhibit, Parallel Inclines.</span></p><p /><p><span times="" new="" roman??=""></span></p><p /><p><span times="" new="" roman??="">Parallel Inclines runs through Aug. 28, with an opening reception July 2, from 6:30 to 9 p.m. in the Wooten Gallery on the east campus of Valencia Community College. Admission is free; the gallery is open </span><time minute="30" hour="8" /><span times="" new="" roman??="">8:30 a.m. to 4:30 p.m.</span></time /><span times="" new="" roman??=""> on weekdays.</span></p><p /><p><span times="" new="" roman??=""></span></p><p /><p><span times="" new="" roman??="">On July 3, Flying Horse Editions will honor OConnor with a soiree at </span><time minute="0" hour="19" /><span times="" new="" roman??="">7 p.m.</span></time /><span times="" new="" roman??=""> at its studio/gallery in the </span><place /><placename /><span times="" new="" roman??="">Central</span></placename /><span times="" new="" roman??=""> </span><placename /><span times="" new="" roman??="">Florida</span></placename /><span times="" new="" roman??=""> </span><placename /><span times="" new="" roman??="">Research</span></placename /><span times="" new="" roman??=""> </span><placetype /><span times="" new="" roman??="">Park</span></placetype /></place /><span times="" new="" roman??="">.</span></p><p /><p><span times="" new="" roman??=""></span></p><p /><p><span times="" new="" roman??="">In the Wooten exhibition, OConnor will present three intensely detailed drawings as large as 6-feet wide, and two smaller works. Burkhart will show eight of his lyrical paintings and drawings. Also featured are two collaborative water-based screenprints, OConnors Awakes and Sleeps, printed by Burkhart, a master printmaker and owner of H20 Graphics. These are OConnors first prints, crafted when he was a Flying Horse artist-in-residence at the </span><place /><placetype /><span times="" new="" roman??="">University</span></placetype /><span times="" new="" roman??=""> of </span><placename /><span times="" new="" roman??="">Central Florida</span></placename /></place /><span times="" new="" roman??=""> in January.</span></p><p /><p><span times="" new="" roman??=""></span></p><p /><p><span times="" new="" roman??="">OConnor and Burkhart, in their early 30s, are emerging to the fore of American abstraction in the 21<sup>st</sup> century, from the first generation of artists profoundly influenced by computers, video games and other communication technologies that dominated their childhood.</span></p>
+		
+	
+		
+			<p><span times="" new="" roman??="">Both produce lighthearted, skillfully-colored, spirited works. They are represented by Pierogi Gallery, </span><place /><city /><span times="" new="" roman??="">Brooklyn</span></city /><span times="" new="" roman??="">, </span><state /><span times="" new="" roman??="">N.Y.</span></state /></place /><span times="" new="" roman??="">, and Steve Williams Contemporary Art, </span><place /><city /><span times="" new="" roman??="">Jacksonville</span></city /><span times="" new="" roman??="">, </span><state /><span times="" new="" roman??="">Fla.</span></state /></place /><span times="" new="" roman??="">, and are among the Flying Horse Editions artists to be added to </span><place /><placename /><span times="" new="" roman??="">Rutgers</span></placename /><span times="" new="" roman??=""> </span><placetype /><span times="" new="" roman??="">University</span></placetype /></place /><span times="" new="" roman??="">s graphic arts archive. Through the Rothschild Foundation, the </span><place /><placetype /><span times="" new="" roman??="">Museum</span></placetype /><span times="" new="" roman??=""> of </span><placename /><span times="" new="" roman??="">Modern Art</span></placename /></place /><span times="" new="" roman??=""> in </span><state /><place /><span times="" new="" roman??="">New York</span></place /></state /><span times="" new="" roman??=""> recently added a large OConnor drawing to its collection. Burkharts work is in international venues, including museums in </span><place /><city /><span times="" new="" roman??="">Antwerp</span></city /><span times="" new="" roman??="">, </span><country-region /><span times="" new="" roman??="">Belgium</span></country-region /></place /><span times="" new="" roman??="">, </span><country-region /><place /><span times="" new="" roman??="">Northern Ireland</span></place /></country-region /><span times="" new="" roman??=""> and </span><place /><city /><span times="" new="" roman??="">Seoul</span></city /><span times="" new="" roman??="">, </span><country-region /><span times="" new="" roman??="">Korea</span></country-region /></place /><span times="" new="" roman??="">.</span></p><p /><p><span times="" new="" roman??="">The pair abandoned the emotionalism of the Abstract Expressionist of the 1950s and the Op-Artists manipulation of patterns and visual parlay by devising individual, elaborate systems to create non-contrived abstract images that exist only on paper or canvas. OConnor plots and adds color to loosely overlapping or intersecting patterns derived from odd statistical data, such as fluctuations of his own temperature, his itches or his recorded sleep-talking.</span></p><p /><p><span times="" new="" roman??=""></span></p><p /><p><span times="" new="" roman??="">Burkhart interprets and colorfully enhances elements and forms that arise out of materials. He usually strives to create an illusion of motion, as in his Wooten-exhibited Within the Ebb, which playfully captures the feeling of slowly drifting clouds through his painted and drawn containers or organisms that are a cross between things iconic, organic and graphic. They are separate from one another, moving in a steady flow together, he says.</span></p><p /><p><span times="" new="" roman??=""></span></p><p /><p><span times="" new="" roman??="">Because his art is not tied to a narrative, Burkhart says it is more akin to poetry than to a novel. By controlling the elements within a piece, focus is more on the poetic elements than on making a piece of art that is about something tied to a specific story. It is open to interpretation, which I really like and people enjoy. The process of how the art is made is hidden in the final piece. It is a process and it takes a very astute viewer to find it. I think of my work as a challenge that often starts with a general question, such as, What would happen if I trace a line 50 times? Or, What will it look like if I paint the same line again and again? </span>  </p>
+		
+	
+		
+			<p  ><span > Burkhart is not directly influenced by other artists. Yet, he is very active in looking at other artists, personally and professionally, for Fying Horse Editions. He has expertly selected contemporary heavy-hitters including Thomas Nozskowski, David Humphrey, Steven Sorman, Tony Fitzpatrick and Tom Burckhardt to work with him, and master book binder Larry Cooper to create Flying Horse prints and artists books. John OConnor, I definitely respect, Burkhart says. Our work will have a nice resonance together in Parallel Inclines.  </span></p><p  ><span ></span></p><p  ><span ></span><span > <span  times="" new="" roman??="">I try to find ways to change information and make it visual by putting it through a process, OConnor says. If I get bored, I change up the developing image. Often, he is surprised by the outcome, as with C.W.S.T., a massive work in the exhibition. C.W.S.T. translates OConnors grafts documenting his walking-steps, weight and temperature changes and other physical elements into an abstract image that unintentionally resembles an airplane.</span> </span></p><p /><p  ><span  times="" new="" roman??=""></span></p><p /><p  ><span  times="" new="" roman??="">Ryan and I get at abstraction in different ways. Mine is obviously processed. With Ryans, you dont see the process. I like the idea of making something I have never seen before. Im not trying to make it look like something. </span></p><p /><p  ><span  times="" new="" roman??=""></span></p><p /><p  ><span  times="" new="" roman??="">It was easy to work with Ryan, says OConnor. He made a lot of great suggestions on Awakes and Sleeps. Collaborating with him on the prints wasnt work. It was a lot of fun and I will return to Flying Horse to make more prints and perhaps an art book drawn from my sleep-talking.</span></p>
+		
+	
+		
+			<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Helvetica; mso-bidi-font-family: " roman??="" new="" times="">Both have roots in figurative art. OConnor, whose bachelors degree in graphic design is from </span><city /><place /><span style="FONT-FAMILY: Helvetica; mso-bidi-font-family: " roman??="" new="" times="">Westfield</span></place /></city /><span style="FONT-FAMILY: Helvetica; mso-bidi-font-family: " roman??="" new="" times=""> (</span><state /><place /><span style="FONT-FAMILY: Helvetica; mso-bidi-font-family: " roman??="" new="" times="">Mass.</span></place /></state /><span style="FONT-FAMILY: Helvetica; mso-bidi-font-family: " roman??="" new="" times="">) </span><place /><span style="FONT-FAMILY: Helvetica; mso-bidi-font-family: " roman??="" new="" times="">State College</span></place /><span style="FONT-FAMILY: Helvetica; mso-bidi-font-family: " roman??="" new="" times="">, got his masters in fine art at Pratt Institute in </span><place /><span style="FONT-FAMILY: Helvetica; mso-bidi-font-family: " roman??="" new="" times="">Brooklyn</span></place /><span style="FONT-FAMILY: Helvetica; mso-bidi-font-family: " roman??="" new="" times=""> and worked as a fine arts artist and teacher. There he was introduced to systemic abstracts and learned about John Cage. He was profoundly influenced by Cages technique of drawing art from random acts, such as the rolling of dice. </span></font></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Helvetica; mso-bidi-font-family: " roman??="" new="" times=""></span><font size="3"><span style="FONT-FAMILY: Helvetica; mso-bidi-font-family: " roman??="" new="" times="">Burkharts choice to pursue his bachelors degree in art from </span><place /><placename /><span style="FONT-FAMILY: Helvetica; mso-bidi-font-family: " roman??="" new="" times="">Ohio</span></placename /><span style="FONT-FAMILY: Helvetica; mso-bidi-font-family: " roman??="" new="" times=""> </span><placetype /><span style="FONT-FAMILY: Helvetica; mso-bidi-font-family: " roman??="" new="" times="">State</span></placetype /><span style="FONT-FAMILY: Helvetica; mso-bidi-font-family: " roman??="" new="" times=""> </span><placetype /><span style="FONT-FAMILY: Helvetica; mso-bidi-font-family: " roman??="" new="" times="">University</span></placetype /></place /><span style="FONT-FAMILY: Helvetica; mso-bidi-font-family: " roman??="" new="" times=""> and to earn a masters in fine arts under print-master Lynwood Kreneck (another Flying Horse resident artist) at </span><place /><placename /><span style="FONT-FAMILY: Helvetica; mso-bidi-font-family: " roman??="" new="" times="">Texas</span></placename /><span style="FONT-FAMILY: Helvetica; mso-bidi-font-family: " roman??="" new="" times=""> </span><placename /><span style="FONT-FAMILY: Helvetica; mso-bidi-font-family: " roman??="" new="" times="">Tech</span></placename /><span style="FONT-FAMILY: Helvetica; mso-bidi-font-family: " roman??="" new="" times=""> </span><placetype /><span style="FONT-FAMILY: Helvetica; mso-bidi-font-family: " roman??="" new="" times="">University</span></placetype /></place /><span style="FONT-FAMILY: Helvetica; mso-bidi-font-family: " roman??="" new="" times="">, grew out of an early study of poetry and creative writing, which continues to feed his art. In 2001, he came to UCF as director of Flying Horse Editions and to teach art.</span></font></p><p></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Helvetica; mso-bidi-font-family: " roman??="" new="" times=""></span><span style="FONT-FAMILY: Helvetica; mso-bidi-font-family: " roman??="" new="" times=""><font size="3">Parallel Inclines was curated by Anita S. Wooten Gallery Director Jackie Otto-Miller. For more information, call 407-582-2298 or go to http://valenciacc.edu/gallery. Information on Flying Horse and the OConnor prints is available at </font><a href="http://www.flying-horse-editions.org/"><font size="3">www.flying-horse-editions.org</font></a><font size="3">. For more information on the soiree, call 407-823-4178.</font></span></p><p></p>
+		
+	
+	<p id="back"><a href="index?page=news">&lt; Back to the Newsroom</a></p>
+
+</div>
+
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+
+		</div> 
+	</body>
+</html>
+

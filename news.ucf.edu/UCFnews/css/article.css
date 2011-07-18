@@ -1,0 +1,205 @@
+/* Main Content */
+#main_content {
+	width: 635px;
+	float: right;
+}
+#main_content h2 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 1.125em;
+	color: #010101;
+}
+#main_content p {
+	margin-bottom: 20px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 0.875em;
+	color: #010101;
+	line-height: 1.5em;
+}	
+#main_content p.article_info {
+	margin: 10px 0;
+}
+#main_content p.article_info .date {
+	display: block;
+	font-style: italic;
+}
+	/* Article Image */
+	.article_img {
+		float: right;
+		border: #666 1px solid;
+		margin: -50px 0 5px 10px;
+		padding: 0 0 5px 0;
+	}
+	.article_img h3 {
+		font-size: 0.6875em;
+		font-family: Georgia, "Times New Roman", Times, serif;
+		text-transform: uppercase;
+		color: #1a1a19;
+		margin: 0;
+		padding: 5px 0 5px 7px;
+		border-top: 1px solid #666;
+	}
+	.article_img .full_photo {
+		cursor:pointer;
+	}
+	#main_content .article_img p {
+		font-family: Helvetica, Arial, sans-serif;
+		color: #333;
+		font-size: 0.875em;
+		padding: 0 5px;
+	}
+	#main_content .article_img .note {
+		padding:0 0 0 7px;
+		margin:0;
+	}
+	#main_content .article_img p.photo_credit {
+		font-size: .75em;
+	}
+	#story_images {
+		margin: 0;
+		list-style-type:none;
+		padding: 0 7px 0 7px;
+	}
+		#story_images li {
+			display: inline;
+		}
+		#story_images li img {
+			border:1px solid #ce8d1a;
+			cursor:pointer;
+		}
+	
+	/* Featured Expert */
+	#featured_expert {
+		width: 255px;
+		float: right;
+		border: #666 1px solid;
+		padding: 10px 10px 0 10px;
+		clear: right;
+		margin: 5px 0 5px 10px;
+	}
+	html > body #featured_expert {
+		height: auto;
+		min-height: 195px;
+	}
+	#featured_expert h2 {
+		font-size: 0.6875em;
+		font-family: Georgia, "Times New Roman", Times, serif;
+		text-transform: uppercase;
+		color: #1a1a19;
+		margin-bottom: 7px;
+	}
+	#featured_expert h3 {
+		font-size: 0.6875em;
+		font-family: Georgia, "Times New Roman", Times, serif;
+		text-transform: uppercase;
+		color: #1a1a19;
+		margin-bottom: 7px;
+	}
+	#featured_expert h4 {
+		font-size: 0.8125em;
+		font-family: Georgia, "Times New Roman", Times, serif;
+		color: #baad12;
+		font-weight: normal;
+	}
+	#featured_expert p {
+		color: #000;
+		font-size: 0.6875em;
+		font-family: Georgia, "Times New Roman", Times, serif;
+		margin: 5px 0 8px 0;
+		line-height: 1.4em;
+	}
+	#featured_expert p img {
+		float: left;
+		margin-right: 8px;
+	}	
+	#featured_expert p a, #featured_expert p a:visited {
+		color: #d86a14;
+		font-weight: bold;
+		text-decoration: none;
+		font-family: Helvetica, Arial, sans-serif;
+	}
+	#featured_expert p a:hover {
+		text-decoration: underline;
+	}
+	/* Related Contacts and Links */
+	#related {
+		width: 255px;
+		float: right;
+		border: #666 1px solid;
+		padding: 10px 10px 20px 10px;
+		clear: right;
+		margin: 5px 0 5px 10px;
+	}	
+		#related h3 {
+			font-size: 0.6875em;
+			font-family: Georgia, "Times New Roman", Times, serif;
+			text-transform: uppercase;
+			color: #1a1a19;
+			margin-bottom: 7px;
+		}
+		#related ul {
+			list-style: none;
+			
+			font-size: .9em;
+			font-family: 	Georgia,"Times New Roman",Times,serif;
+		}
+			#related ul li {
+				margin: 8px 0 10px 0;
+			}
+			#main_content  #related ul li h4 a {
+				color: #d1952b;
+				padding: 0;
+				margin: 0;
+			}
+			#related ul li ul {
+				margin: 0;
+				padding: 0;
+			}
+			#related ul li ul li {
+				margin: 0;
+			}
+			
+	
+	/* Share */
+	#share {
+		border: #666 1px solid;
+		width: 171px;
+		float: right;
+		clear: right;
+		margin: 5px 0 5px 10px;
+	}	
+	#share h3 {
+		font-family: Helvetica, Arial, sans-serif;
+		color: #010101;
+		font-size: 0.875em;	
+		font-weight: normal;
+		margin: 7px 0 0 10px;
+	}
+	#share ul {
+		list-style: none;
+		padding: 10px;
+		font-size: .9em;
+	}
+		#share ul li {
+			margin: 8px 0 8px 0;
+		}
+	
+		/* Print Page */
+		#print {
+			text-align: left;
+		}
+
+		#print a {
+			text-decoration: none;
+			color: #ca850a;
+			background: url(../img/printer.gif) no-repeat left;
+			padding: 2px 3px 2px 19px;
+			font-size: .85em;
+		}
+		
+	/* Back to Newsroom */
+	#back a, #back a:visited {
+		color: #d86a14;
+		font-weight: bold;
+		text-decoration: none;
+		font-family: Helvetica, Arial, sans-serif;
+	}

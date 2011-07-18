@@ -1,0 +1,569 @@
+
+
+
+
+
+
+
+
+
+	
+	
+										
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/article.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=article&amp;id=002400416a60cde7013003bb6e24006fec&amp;subject_id=0024004102975ad83011b2b83251c0b6c" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+		
+		
+		<a class='rss' href="http://news.ucf.edu/UCFnews/ucfreport/rss_facultyandstaffresources.jsp" title="Subscribe using any feed reader!">
+			RSS Feed
+		</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://campusmap.ucf.edu/">Campus Map</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/phonebook/">Campus Phone Directory</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucfopportunity.com/_index.php">UCF Stands<br />for Opportunity</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 88&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+<div id="main_content">
+	<h2>$5 Million Award for Higher Education Partnership</h2>
+	
+	<p class="article_info">
+		
+			By UCF Staff
+		
+		<span class="date">May 26, 2011</span></p>
+	
+	
+	
+		<div class="article_img" style="width: 345px;">
+
+			<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/2000/NE2561/en_US/checkfull.jpg" height="226" width="345"  /> 
+			
+				<p class="photo_credit">Photo: University of Central Florida</p>
+			
+			<p>State Senator Evelyn Lynn and The Florida College System Chancellor Will Holcombe joined UCF President John C. Hitt and several community and state college presidents.</p>
+			
+				<p class="note"><a class="full_photo" id="popup.jsp?article_id=002400416a60cde7013003bb6e24006fec">Full Photo</a></p>
+			
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			
+		</div>
+	
+	
+	
+	
+	
+	
+	
+		
+			<div id="related">
+				<h3>Related Contacts and Links:</h3>
+				<ul>
+		
+		<li>
+		
+			
+				<h4><a href="mailto:chad.binette@ucf.edu">Chad Binette, UCF News & Information</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-823-6312</li>
+			
+			</ul>
+		
+		</li>
+	
+		
+		<li>
+		
+			
+				<h4><a href="mailto:">Florida Department of Education Press Office</a></h4>
+			
+			
+			
+				<ul>
+				<li>850-245-0413</li>
+			
+			</ul>
+		
+		</li>
+	
+		
+		<li>
+		
+			
+				<h4><a href="mailto:kelly.layman@flbog.edu">Kelly Layman, Board of Governors, State University System of Florida</a></h4>
+			
+			
+			
+			
+		
+		</li>
+	
+	
+	
+		
+		<li>
+		
+			<h4><a href="http://www.fldoe.org/cc/">The Florida College System</a></h4>
+		
+		</li>
+	
+		
+		<li>
+		
+			<h4><a href="http://www.flbog.org/">Florida Board of Governors</a></h4>
+		
+		</li>
+	
+	
+	 </ul></div> 
+	
+	
+			
+	
+	
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	<div id="share">
+		<ul><li><p id="print"><a href="javascript:window.print();">Print this Page</a></li></ul>
+	
+	</div>
+	
+	
+	
+	
+		
+			<p>University of Central Florida President John C. Hitt joined several Florida College System presidents and state education leaders Thursday, May 26, in celebrating a longstanding partnership that benefits tens of thousands of students annually.</p>
+<p>The educators commemorated the state&rsquo;s investment in 2+2 Pathways to Success, a program that provides opportunities for students who complete their AA degrees at a Florida community or state college to be admitted to a state university.</p>
+<p>More than 30 percent of the state's students who earn associate's degrees and transfer to a public, state university in Florida choose UCF. Nearly 5,600 of UCF&rsquo;s 5,900 new transfer students last fall came from a Florida state college or community college.</p>
+<p>&ldquo;Expanding access to the life-changing opportunities of higher education is a priority for UCF, even during tough economic times,&rdquo; Hitt said.&nbsp; &ldquo;We strive to provide a smooth transition between institutions so that students may earn their degrees in a convenient and affordable way.&rdquo;&nbsp;</p>
+<p>A total of $2.5 million will be divided among eight State University System institutions, and UCF will receive more than $1.2 million of that amount. Another $2.5 million will be awarded to 18 institutions that are part of The Florida College System.</p>
+<p>Hitt accepted a ceremonial check from The Florida College System Chancellor Will Holcombe at the beginning of the university&rsquo;s Board of Trustees meeting on Thursday.</p>
+<p>State Sen. Evelyn Lynn, R-Daytona Beach, joined Holcombe and praised the 2+2 partnership as &ldquo;the model we should have everywhere in the country.&rdquo;</p>
+<p>Joining Hitt and Lynn were the following representatives from UCF&rsquo;s partners in The Florida College System: President James A. Drake of Brevard Community College, Acting President Frank Lombardo of Daytona State College, President Charles R. Mojock of Lake-Sumter Community College, President E. Ann McGee of Seminole State College and Vice President of&nbsp;Student Affairs Joyce Romano of Valencia College. The College of Central Florida is also one of UCF&rsquo;s partner institutions.</p>
+<p>&ldquo;The purpose of the 2+2 Pathways to Success program provides a geographically accessible and economical way for students to attend their university of choice on a campus of their local Florida College,&rdquo; Holcombe said. &ldquo;The collaboration between our colleges and their university partners offers these trend-setting programs to benefit the many cost-conscious students who need to stay close to home for a variety of reasons. The programs are also less costly to the state of Florida at a time when dollars are scarce at our own colleges and universities.&rdquo;</p>
+<p>While UCF will receive the largest amount among the 11 state universities of this type of funding, Broward College holds that distinction among state and community colleges in the 28-institution Florida College System. Symbolic of the 2+2 partnership, while Chancellor Holcombe presented a check to UCF, conversely, Chancellor Frank T. Brogan of the State University System of Florida will present a check to the Broward College Board of Trustees in June.&nbsp; <br />
+&nbsp;<br />
+&quot;The 2+2 Pathways to Success partnership between the state universities and the state and community colleges has long been regarded by other states as a national model that many of them have since replicated in order to address bachelor's degree attainment and to increase graduation rates,&quot; Brogan said. &quot;The partnership, funded by the Legislature, is assuredly one of the success stories of Florida public higher education, and therefore provides superb return on investment as well as preparing us with a better-educated workforce.&rdquo;</p>
+<p>According to Brogan, more than 31,000 of the State University System&rsquo;s 41,000 new transfer students last year came from The Florida College System. In addition, 77 percent of the State University System&rsquo;s 41,000 transfer students last year came from The Florida College System.</p>
+<p>UCF has 10 regional campuses that deliver 21 bachelor&rsquo;s degree programs, 16 minors and six graduate programs to more than 12,000 students.</p>
+<hr />
+<p><strong>UCF Stands For Opportunity</strong>: The University of Central Florida is a metropolitan research university that ranks as the second largest in the nation with more than 56,000 students. UCF's first classes were offered in 1968. The university offers impressive academic and research environments that power the region's economic development. UCF's culture of opportunity is driven by our diversity, Orlando environment, history of entrepreneurship and our youth, relevance and energy. For more information, visit <a href="index.html">http://news.ucf.edu</a>.</p>
+		
+	
+	<p id="back"><a href="index?page=news">&lt; Back to the Newsroom</a></p>
+
+</div>
+
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+
+		</div> 
+	</body>
+</html>
+

@@ -1,0 +1,531 @@
+
+
+
+
+
+
+
+
+
+	
+	
+										
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/article.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=article&amp;id=002400416a60cde7013003bb6e240068df" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+		
+		
+		<a class='rss' href="http://news.ucf.edu/UCFnews/ucfreport/rss_mainnewsinfo.jsp" title="Subscribe using any feed reader!">
+			RSS Feed
+		</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.med.ucf.edu/">College of Medicine</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.today.ucf.edu">UCF Today</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.tv">UCF TV</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 88&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+<div id="main_content">
+	<h2>National Media Shine Spotlight on UCF Students, Grads</h2>
+	
+	<p class="article_info">
+		
+			By Grant J. Heston
+		
+		<span class="date">May 31, 2011</span></p>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+			<div id="related">
+				<h3>Related Contacts and Links:</h3>
+				<ul>
+		
+		<li>
+		
+			
+			
+			
+			
+		
+		</li>
+	
+	
+	
+		
+		<li>
+		
+			<h4><a href="index?page=article&amp;id=002400416a60cde7013003bb6e240068df"></a></h4>
+		
+		</li>
+	
+	
+	 </ul></div> 
+	
+	
+			
+	
+	
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	<div id="share">
+		<ul><li><p id="print"><a href="javascript:window.print();">Print this Page</a></li></ul>
+	
+	</div>
+	
+	
+	
+	
+		
+			<p>UCF&nbsp;students and alumni recently made local and national news, earning the attention of Time Magazine, the <em>New York Times</em> and the <em>Orlando Sentinel</em>.</p>
+<p>Please see below for a review of selected UCF&nbsp;print, broadcast and online media coverage. Follow UCF&nbsp;News on <a href="http://twitter.com/#!/UCFNewsroom">Twitter</a> and <a href="http://www.facebook.com/UCF">Facebook</a>, watch <a href="http://www.ucftv.ucf.edu/">UCF&nbsp;TV</a>&nbsp;and learn more about <a href="http://www.mca.ucf.edu/">Strategy, Marketing,&nbsp;Communications &amp;&nbsp;Admissions</a>.</p>
+<p><strong>NATIONAL</strong></p>
+<p><strong>Time Magazine:</strong> <a href="http://techland.time.com/2011/04/11/new-app-diagnoses-malaria-just-from-photographs/">New App Diagnoses Malaria Just from Photographs</a><br />
+For once, here's a smartphone app that does something more productive than knocking over pig-built structures or killing time in a waiting room.<br />
+<em>-- This features research from UCF engineering student Tristan Gibeau.</em><br />
+<br />
+<strong>The New York Times:</strong> <a href="http://www.nytimes.com/2011/05/10/science/space/10water.html?_r=2&amp;pagewanted=1">Fountains of Optimism for Life Way Out There</a><br />
+For those who hunt for life on other worlds, water in its liquid form is perhaps the leading indicator. Life as we know it on Earth is based on water and carbon.<br />
+<em>-- This story features the research of Physics professor Humberto Campins.</em><br />
+<br />
+<strong>The Huffington Post:</strong> <a href="http://www.huffingtonpost.com/seth-abramson/underrated-mfa-programs_b_850147.html?ir=College">Top 25 Underrated Creative Writing MFA Programs</a><br />
+The 25 programs listed here fully fund a sizable percentage of incoming students, yet still receive less attention from applicants than they deserve.<br />
+<em>-- UCF is included on this list.</em><br />
+<br />
+<strong>The New York Times:</strong> <a href="http://www.nytimes.com/2011/03/27/jobs/27searches.html">The Internship as Inside Track</a><br />
+Want to land a full-time job after college? Get an internship or two, or even four or more. <br />
+<em>-- This story features UCF graduate Lauren Berger, better known as the &quot;Intern Queen.&quot;</em><br />
+<br />
+<strong>The Wall Street Journal:</strong> <a href="http://online.wsj.com/article/SB10001424052748704843404576250790550550886.html?mod=WSJ_hp_LEFTWhatsNewsCollection">Economists See Growth Accelerating Later in Year </a><br />
+The U.S. economic recovery is expected to gain momentum over the rest of the year, despite a sharp pullback in growth during the just-finished first quarter, according to economists surveyed by The Wall Street Journal. <br />
+<em>-- This story quotes Sean Snaith, director of the Institute for Economic Competitiveness.</em><br />
+<br />
+<strong>Associated Press:</strong> <a href="http://www.usatoday.com/sports/baseball/2011-04-21-mlb-diversity-report_N.htm?csp=34sports">Percentage of Black Players in MLB Drops Again</a><br />
+The percentage of black players in Major League Baseball dropped again on opening day this year even as the league again received a top overall grade for racial diversity.<br />
+<em>-- This story, which appeared in publications around the country, features research from Richard Lapchick, director of UCF's Institute for Diversity and Ethics in Sport. <br />
+</em><br />
+<strong>STATE/LOCAL</strong><br />
+<br />
+<strong>Miami Herald:</strong> <a href="http://www.miamiherald.com/2011/04/27/2191198/orlando-pulling-florida-out-of.html">Orlando Pulling Florida Out of Recession</a><br />
+Florida&rsquo;s economic slide reversed thanks to Miami and Orlando, though Central Florida is posting a stronger recovery.<br />
+<em>-- This story features UCF and the medical city.</em><br />
+<br />
+<strong>Orlando Sentinel:</strong> <a href="http://www.orlandosentinel.com/news/local/crime/os-scott-maxwell-missing-cameras-051820110517,0,3156986,full.column">Scott Maxwell -- Speaking of activists &hellip;</a><br />
+I want to shine a light on a different breed of advocates &mdash; those involved with Orlando nonprofits making an impact far beyond Central Florida. First up is HOPE for Haiti, a relatively new program established by UCF President John Hitt in the aftermath of the Haiti earthquake.<br />
+<br />
+<strong>Orlando Sentinel:</strong> <a href="http://www.orlandosentinel.com/features/education/os-ucf-biggest-loser-042111-20110420,0,7621574.story">UCF's Biggest Losers Drop 231 Pounds</a><br />
+Sixteen University of Central Florida students were focused on the beer keg perched in the sand outside the campus fitness center.<br />
+<strong><br />
+NEWS 13:</strong> <a href="http://www.cfnews13.com/article/sports/2011/april/237611/Pittman-Blog:--The-Next-Generation">The Next Generation</a><br />
+For years, the University of Central Florida has offered engineering classes in building racing engines. <br />
+<br />
+<strong>Orlando Sentinel:</strong> <a href="http://www.orlandosentinel.com/business/os-new-people-starting-restaurants-20110421,0,1566173.story">New Restaurants Gamble on Success</a><br />
+Three University of Central Florida alumni, all in their mid-20s, are part of a partnership that has opened up Terrace 390 in the old Harvey's Bistro downtown.<br />
+<br />
+<strong>Orlando Sentinel:</strong> <a href="http://blogs.orlandosentinel.com/entertainment_arts_letter/2011/04/opera-resurgence-in-central-florida.html">Opera Finds Second Act in Central Florida </a><br />
+Two years ago, opera in Orlando seemed as dead as the leading lady in &ldquo;Tosca.&rdquo;<br />
+<em>-- This story features UCF's opera program.</em></p>
+		
+	
+	<p id="back"><a href="index?page=news">&lt; Back to the Newsroom</a></p>
+
+</div>
+
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+
+		</div> 
+	</body>
+</html>
+

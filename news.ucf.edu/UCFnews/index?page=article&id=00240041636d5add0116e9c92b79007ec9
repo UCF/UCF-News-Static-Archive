@@ -1,0 +1,568 @@
+
+
+
+
+
+
+
+
+
+	
+	
+										
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/article.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=article&amp;id=00240041636d5add0116e9c92b79007ec9" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+		
+		
+		<a class='rss' href="http://news.ucf.edu/UCFnews/ucfreport/rss_mainnewsinfo.jsp" title="Subscribe using any feed reader!">
+			RSS Feed
+		</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.med.ucf.edu/">College of Medicine</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.today.ucf.edu">UCF Today</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.tv">UCF TV</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 89&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+<div id="main_content">
+	<h2>Cell Phones, Athletes Help Students Learn About Science and Math (With Video)</h2>
+	
+	<p class="article_info">
+		
+			By Chad Binette
+		
+		<span class="date">Dec. 18, 2007</span></p>
+	
+	
+	
+		<div class="article_img" style="width: 261px;">
+
+			<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/1000/NE1274/en_US/phonescrop.jpg" height="196" width="261"  /> 
+			
+				<p class="photo_credit">Photo: Chad Binette</p>
+			
+			<p>In the My Sports Pulse program, students at Glenridge Middle School in Orange County are learning about math and science through questions sent to them via text messages.</p>
+			
+				<p class="note"><a class="full_photo" id="popup.jsp?article_id=00240041636d5add0116e9c92b79007ec9">Full Photo</a></p>
+			
+			
+			
+			
+					
+						
+						
+							
+								<h3>Story Images</h3>
+								<ul id="story_images">
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=00240041636d5add0116e9c92b79007ec9&amp;img_mode=1&amp;index=0">
+							<img width="100" alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/1000/NE1274/en_US/principalfull.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			</ul><p  class="note">Click thumbnails for full-size images.</p>
+		</div>
+	
+	
+	
+	
+	
+	
+	
+		
+			<div id="related">
+				<h3>Related Contacts and Links:</h3>
+				<ul>
+		
+		<li>
+		
+			
+				<h4><a href="mailto:cbinette@mail.ucf.edu">Chad Binette, UCF News and Information</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-823-6312</li>
+			
+			</ul>
+		
+		</li>
+	
+		
+		<li>
+		
+			
+				<h4><a href="mailto:katherine.marsh@ocps.net ">Kathy Marsh, Orange County Public Schools</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-317-3458</li>
+			
+			</ul>
+		
+		</li>
+	
+	
+	
+		
+		<li>
+		
+			<h4><a href="http://www.mysportspulse.com">My Sports Pulse program</a></h4>
+		
+		</li>
+	
+	
+	 </ul></div> 
+	
+	
+			
+	
+	
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	<div id="share">
+		<ul><li><p id="print"><a href="javascript:window.print();">Print this Page</a></li></ul>
+	
+	</div>
+	
+	
+	
+	
+		
+			<p>Most kids love watching sports and using their cell phones. Now they can do both while learning about science, math and nutrition in a new program developed by the University of Central Florida and Ewing Marion Kauffman Foundation.</p>
+<p>About 60 seventh-graders at Glenridge and Lockhart middle schools in Orange County have been answering questions sent via text messages as part of the My Sports Pulse program. They receive and respond to some of the problems during their math classes and others at home.</p>
+<p>The questions connect sports-themed scenarios, such as scoring a soccer goal or throwing a curveball, to principles of math, science, fitness and nutrition. In addition to text messages, voice mails and video clips with questions also are sent to participants. Professional athletes posed some of those scenarios.</p>
+<p>My Sports Pulse, which will complete its pilot phase this month, is designed to promote student achievement and interests in math and science using mobile devices and sports-themed scenarios. The goal is to expand the program for use in conjunction with Olympic competitions and other major sporting events across the globe.</p>
+<object width="375" height="294"><param name="movie" value="http://www.youtube.com/v/YAK0IBDxrzs&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/YAK0IBDxrzs&hl=en&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="375" height="294"></embed></object>
+<p>Schools in Kansas City, Sweden, the United Arab Emirates and Uganda are among the other participants in the pilot program. With 39 percent of youths owning cell phones, the trend around the world is to use mobile devices for gaming programs specifically focused on learning. Research also indicates that 95 percent of young people use gaming technology for entertainment and often learn from this technology.</p>
+<p>&ldquo;If you look at the numbers, there are hundreds of millions of computers across the globe, but there are over 3 billion cell phones right now,&rdquo; said David Metcalf, the UCF Institute for Simulation and Training researcher who designed the program. &ldquo;We can reach a significantly larger number of students through the mobile technology.&rdquo;</p>
+<p>Sprint provided cell phones and wireless services to the My Sports Pulse participants. High-scoring students in Orange County have received prizes such as Orlando Magic tickets provided by the Orlando Hoops organization.</p>
+<p>The Kauffman Foundation provided a grant to the University of Central Florida&rsquo;s Institute for Simulation and Training as part of the foundation&rsquo;s 10-year commitment to math and science education.</p>
+<p>IST provides a wide range of research and information services for modeling, simulation and training communities. IST developed the game and is running the program. University in Sweden and Higher Colleges of Technology in United Arab Emirates are working with IST.</p>
+<p>&ldquo;The Kauffman Foundation has worked diligently with our partners to launch this program using cell phones as the newest frontier for learning about math, science and technology content as it relates to youth interest in sports,&rdquo; said Dennis Cheek, the Kauffman Foundation's vice president of Education. &ldquo;The wide availability of mobile phones around the world and their ever-increasing capabilities to handle voice, text, video and gaming simulations make them ideal learning tools.&rdquo;</p>
+<p><strong>How the My Sports Pulse Program Works</strong></p>
+<p>Students receive the questions by pre-recorded audio and text messages. Major League Baseball and National Football League players have been invited to record opening and closing video segments and audio clips to introduce students to the sports concept used in each question.</p>
+<p>&ldquo;My Sports Pulse sends sports scenarios over mobile phones to help kids with math and science,&rdquo; said Metcalf. &ldquo;With the Olympics around the corner next year, sports will be a unifying element across the world. We want to tap into this excitement.&rdquo;</p>
+<p>The interaction begins when a student receives a question. If a student is unable to answer the phone, experiences a dropped call or needs a few minutes to research a solution, the student has the option to call back into the system. If students have trouble solving a problem, they can go to <a href="http://www.MySportsPulse.com">www.MySportsPulse.com</a> to get helpful links to appropriate Internet resources.</p>
+<p>Points are awarded to students in five categories, including Science of Sport, Engineering of Equipment, Nutrition, Fitness and Will to Succeed. The first four categories have associated scenarios and questions. Students have several opportunities to answer each question. Their points received are based upon how many attempts are required to answer successfully. They also receive points in the Will to Succeed category for every question they try to answer.</p>
+<p>&ldquo;Students can earn partial points even when they answer incorrectly,&rdquo; said Metcalf. &ldquo;We want to encourage students to strive to improve their performances even when they have trouble answering certain questions.&rdquo;</p>
+<p>The scoring system was implemented to create competition, add motivation and reward students for doing well. As students gain points, they reach new levels of achievement. Over the course of the program, they can become an Amateur, Rookie, Professional, Champion and, at the top, an Olympian. Students earn points or rewards, such as games and ring tones, sports gear and tickets to athletic events throughout the program. IST tracks the scores online and will announce both interim and overall winners.</p>
+<p>&ldquo;We are at the cutting edge of making learning opportunities available to students 24/7 in a far more interesting and interactive manner,&rdquo; said Cheek. &ldquo;My Sports Pulse is one of a series of programs that the Kauffman Foundation is developing to help lead a global effort to optimize learning for the new millennium and digital age.&rdquo;</p>
+<p><b>About the Kauffman Foundation:</b> The Ewing Marion Kauffman Foundation of Kansas City is a private, nonpartisan foundation that works with partners to advance entrepreneurship in America and improve the education of children and youth. The Kauffman Foundation was established in the mid-1960s by the late entrepreneur and philanthropist Ewing Marion Kauffman. Information about the Kauffman Foundation is available at <a href="http://www.kauffman.org">www.kauffman.org</a>.</p>
+<p><b>About Sprint Nextel:</b> Sprint Nextel offers a comprehensive range of wireless and wireline communications services bringing the freedom of mobility to consumers, businesses and government users. Sprint Nextel is widely recognized for developing, engineering and deploying innovative technologies, including two robust wireless networks serving 54 million customers at the end of the third quarter 2007; industry-leading mobile data services; instant national and international walkie-talkie capabilities; and a global Tier 1 Internet backbone. For more information, visit <a href="http://www.sprint.com">www.sprint.com</a>.</p>
+<p><hr />
+</p>
+<p><strong>UCF Stands for Opportunity:</strong> Established in 1963, the University of Central Florida is a diverse metropolitan research university that ranks as the 6th-largest in the country with more than 48,000 students. Located in Orlando, Fla., UCF offers high-quality undergraduate and graduate education, student development and continuing education, while conducting cutting-edge research that powers the region's economic development. For more UCF news, visit <a href="index.html">http://news.ucf.edu</a>.</p>
+		
+	
+	<p id="back"><a href="index?page=news">&lt; Back to the Newsroom</a></p>
+
+</div>
+
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+
+		</div> 
+	</body>
+</html>
+

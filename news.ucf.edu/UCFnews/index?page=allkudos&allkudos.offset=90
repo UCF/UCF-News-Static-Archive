@@ -1,0 +1,852 @@
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/2column.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=allkudos&amp;allkudos.offset=90" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.med.ucf.edu/">College of Medicine</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.today.ucf.edu">UCF Today</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.tv">UCF TV</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 88&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+
+<div id="main_content">
+	<h2>Kudos Archive</h2>
+	<ul id="kudos_list">
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		<li>
+				<h3>Beatriz Roldan Cuenya</h3>
+				<p>
+					
+						an associate professor in the <strong>department of Physics</strong>, has been awarded the prestigious Peter Mark&nbsp;Memorial Award. The American Vacuum Society bestows the award on a young scientist or engineer for his or her outstanding work. Roldan Cuenya's research focuses on the physics and chemistry of nanostructured surfaces.&nbsp;
+&nbsp;
+&nbsp;
+					
+				</p>
+		</li>	
+	
+		
+	
+	
+		<li>
+				<h3>Four UCF advisers</h3>
+				<p>
+					
+						have received 2009 awards from the National Academic Advising Association for their outstanding work. They are <strong>Jessica Broerman</strong>, from Interdisciplinary Studies; <strong>Cyndi Gundi</strong>, from Marketing; <strong>Chelsea Worthington</strong>, from First Year Advising &amp; Exploration; and <strong>Barbara L. Lange</strong>, from Nursing. For a complete list of winners and categories, click <a href="http://www.nacada.ksu.edu/Programs/Awards/index.htm">here</a>.
+					
+				</p>
+		</li>	
+	
+		
+	
+	
+		<li>
+				<h3>Andrea Chinea</h3>
+				<p>
+					
+						a graduating senior at the Rosen College of Hospitality Managment, was this year's recipient of the <strong>Rosen Hotels Golden Pillar Award</strong> for Rosen Shingle Creek. Chinea was recently given the award by Harris Rosen and received gift certificates for the Rosen spa, Rosen restaurants and a reserved parking space for one year. For more, click <a href="http://www.hospitality.ucf.edu/pdf/Hospitality.pdf">here</a>.
+					
+				</p>
+		</li>	
+	
+		
+	
+	
+		<li>
+				<h3>Brandy Christman</h3>
+				<p>
+					
+						a program assistant in the <strong>Burnett Honors College</strong>, has been recognized as the March USPS Employee of the Month. Christman, whose duties include promoting the Honors College to prospective students, has been recognized by her co-workers for &ldquo;her intelligence and ability to learn, her written communication skills, her tenacity and perfectionism, her people skills and her love for UCF.&rdquo;&nbsp; Christman won a Barnes &amp; Noble gift card, an introduction to UCF's Board of Trustees, UCF apparel and more.
+					
+				</p>
+		</li>	
+	
+		
+	
+	
+		<li>
+				<h3>Lou Frey</h3>
+				<p>
+					
+						the former congressman who founded UCF's <strong>Lou Frey Institute&nbsp;of Politics and Government</strong>, has received the 2009 Distinguished Service Award from the U.S. Association of Former Members of Congress. The award, in part, honored Frey's efforts to promote a responsible and engaged citizenry through the institute. He will be honored at a June ceremony in the U.S. House of Representatives chamber.
+					
+				</p>
+		</li>	
+	
+		
+	
+	
+		<li>
+				<h3>Kelle Groom</h3>
+				<p>
+					
+						has won the UCF College of Graduate Studies award for <strong>Outstanding Master's Thesis</strong>. Groom received her MFA in Creative Writing in December 2008. Her thesis, <em>Five Kingdoms</em>, is a poetry collection. Groom's work has been recognized as notable in The Best American Nonrequired Reading 2007, and this year her work has been nominated for four Pushcart Prizes in poetry and nonfiction. To learn more about Groom's work, go <a href="http://www.cah.ucf.edu/highlights.php?id=380">here</a>. 
+					
+				</p>
+		</li>	
+	
+		
+	
+	
+		<li>
+				<h3>UCF's Community Health Care forum</h3>
+				<p>
+					
+						<p class="MsoNormal">is only one of four featured in a national Obama Administration <a href="http://www.healthreform.gov/reports/participationc.html">report</a>&nbsp;. Assistant Professor <strong>Thomas Byer, </strong>from the <strong>College of Health and Public Affairs</strong>, organized the event in December 2008. More than 3,276 forums were held around the country.
+<!--EndFragment-->
+&nbsp;
+					
+				</p>
+		</li>	
+	
+		
+	
+	
+		<li>
+				<h3>UCF's American Society of Civil Engineers (ASCE) student chapter</h3>
+				<p>
+					
+						placed first in the regional steel bridge competition at the <span lang="EN">Southeast Regional Student Conference </span>March 26 to 28 in Nashville. They have&nbsp;advanced to the national finals in Las Vegas. Overall in the 14 competitions, UCF students placed third out of 27 universities.
+					
+				</p>
+		</li>	
+	
+		
+	
+	
+		<li>
+				<h3>Nora Lee García-Velazquez</h3>
+				<p>
+					
+						an associate professor of music, was recognized among Central Florida&rsquo;s &quot;Hispanic Women Who Make the Difference&quot; by the newspaper <i style="mso-bidi-font-style:normal">La Prensa</i>. She won in the education category. Also honored was Associate Professor <b style="mso-bidi-font-weight:
+normal">Linda Rosa-Lugo</b>, who is the graduate program coordinator for the Communication Sciences and Disorders master&rsquo;s program.
+<!--StartFragment-->  <!--EndFragment-->
+					
+				</p>
+		</li>	
+	
+		
+	
+	
+		<li>
+				<h3>Keila Rooney </h3>
+				<p>
+					
+						a graduate student in UCF&rsquo;s health services administration program, earned first place in a national essay competition sponsored by the American College of Healthcare Executives. She earns $3,000 and the department gets $1,000 for her essay : &quot;Consumer-Driven Healthcare Marketing: Using the Web to Get Up Close and Personal.&quot;
+&nbsp;
+					
+				</p>
+		</li>	
+	
+	
+	<div id="pager">
+	
+	&nbsp;<a href="index?page=allkudos&amp;allkudos.offset=80">[<< Prev]</a>
+	
+		
+		&nbsp;
+		
+	<a href="index?page=allkudos&amp;allkudos.offset=0">1</a>
+		
+		
+		&nbsp;
+		
+	<a href="index?page=allkudos&amp;allkudos.offset=10">2</a>
+		
+		
+		&nbsp;
+		
+	<a href="index?page=allkudos&amp;allkudos.offset=20">3</a>
+		
+		
+		&nbsp;
+		
+	<a href="index?page=allkudos&amp;allkudos.offset=30">4</a>
+		
+		
+		&nbsp;
+		
+	<a href="index?page=allkudos&amp;allkudos.offset=40">5</a>
+		
+		
+		&nbsp;
+		
+	<a href="index?page=allkudos&amp;allkudos.offset=50">6</a>
+		
+		
+		&nbsp;
+		
+	<a href="index?page=allkudos&amp;allkudos.offset=60">7</a>
+		
+		
+		&nbsp;
+		
+	<a href="index?page=allkudos&amp;allkudos.offset=70">8</a>
+		
+		
+		&nbsp;
+		
+	<a href="index?page=allkudos&amp;allkudos.offset=80">9</a>
+		
+		
+		
+		
+	<strong>10</strong>
+		
+		
+			
+		</div>
+		
+	
+	</ul>
+</div>
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+
+		</div> 
+	</body>
+</html>
+

@@ -1,0 +1,606 @@
+
+
+
+
+
+
+
+
+
+	
+	
+										
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/article.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=article&amp;id=00240041037381429012136c33d7903574" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+		
+		
+		<a class='rss' href="http://news.ucf.edu/UCFnews/ucfreport/rss_mainnewsinfo.jsp" title="Subscribe using any feed reader!">
+			RSS Feed
+		</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.med.ucf.edu/">College of Medicine</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.today.ucf.edu">UCF Today</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.tv">UCF TV</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 89&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+<div id="main_content">
+	<h2>Football Game Day Update: Buffalo</h2>
+	
+	<p class="article_info">
+		
+			By UCF Staff
+		
+		<span class="date">Sept. 17, 2009</span></p>
+	
+	
+	
+		<div class="article_img" style="width: 345px;">
+
+			<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/1000/NE1880/en_US/brynnfull.jpg" height="226" width="345"  /> 
+			
+				<p class="photo_credit">Photo: Courtesy of UCF Athletics</p>
+			
+			<p>Sophomore running back Brynn Harvey scored two touchdowns in UCF's season-opening win over Samford.</p>
+			
+				<p class="note"><a class="full_photo" id="popup.jsp?article_id=00240041037381429012136c33d7903574">Full Photo</a></p>
+			
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			
+		</div>
+	
+	
+	
+	
+	
+	
+	
+		
+			<div id="related">
+				<h3>Related Contacts and Links:</h3>
+				<ul>
+		
+		<li>
+		
+			
+				<h4><a href="mailto:ltorbin@athletics.ucf.edu">Leigh Torbin, UCF Athletics</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-823-0994</li>
+			
+			</ul>
+		
+		</li>
+	
+		
+		<li>
+		
+			
+				<h4><a href="mailto:cbinette@mail.ucf.edu">Chad Binette, News & Information</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-823-6312</li>
+			
+			</ul>
+		
+		</li>
+	
+	
+	
+		
+		<li>
+		
+			<h4><a href="http://www.ucfgameday.com">UCF Game Day Web site</a></h4>
+		
+		</li>
+	
+		
+		<li>
+		
+			<h4><a href="http://www.ucfathletics.com">UCF Athletics</a></h4>
+		
+		</li>
+	
+	
+	 </ul></div> 
+	
+	
+			
+	
+	
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	<div id="share">
+		<ul><li><p id="print"><a href="javascript:window.print();">Print this Page</a></li></ul>
+	
+		<h3>Share this story:</h3>
+		<ul>
+			
+			<li>
+				<script type="text/javascript">
+					digg_skin = 'compact';
+				</script>
+				<script src="http://widgets.digg.com/diggthis.js" type="text/javascript"></script> 
+			</li>
+			
+			
+			<li>
+				
+				<script>reddit_url= encodeURIComponent(window.location.href); reddit_title='Football Game Day Update: Buffalo';</script>
+				<script type="text/javascript" src="http://www.reddit.com/button.js?t=1"></script>
+				
+			</li>
+			
+			
+			<li>
+				<script>function fbs_click() {u=location.href;t=document.title;window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');return false;}</script><style> html .fb_share_link { padding:2px 0 0 20px; height:16px; background:url(http://static.ak.fbcdn.net/images/share/facebook_share_icon.gif?0:26981) no-repeat top left; }</style><a href="http://www.facebook.com/share.php?u=<url>" onclick="return fbs_click()" target="_blank" class="fb_share_link">Share on Facebook</a>
+			</li>
+			
+			
+			<li>
+				<img src="img/delicious.small.gif" alt="submit story to delicious" /><a href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&noui&jump=close&url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=700,height=400'); return false;"> Save This Page</a>
+			</li>
+			
+			
+			<li>
+				<a href="http://www.stumbleupon.com/submit" onclick="window.open('http://www.stumbleupon.com/submit?url=' + encodeURIComponent(window.location.href) + '%2Farticle.php%26title%3DFootball Game Day Update: Buffalo"> <img border=0 src="http://cdn.stumble-upon.com/images/120x20_su_white.gif" alt="Stumble It!"> </a>
+			</li>
+			
+			
+			<li>
+				<a href="javascript:void(0)" onclick="window.open('http://www.newsvine.com/_wine/save?popoff=1&u=' + encodeURIComponent(window.location.href),'newsvine','toolbar=no,width=590,height=600,resizable=yes,scrollbars=yes')"><img src="http://www.newsvine.com/_vine/images/identity/button_seednewsvine.gif" alt="" border="0" width="16" height="16" />Seed Newsvine</a>
+			</li>
+			
+		</ul>
+	
+	</div>
+	
+	
+	
+	
+		
+			<p><strong><em>REMINDER:</em></strong><em> The UCF campus will open at noon Saturday for tailgating. For more information on tailgating, parking and other game day policies, continue reading the story below or visit </em><a href="http://www.UCFGameDay.com"><em>www.UCFGameDay.com</em></a><em>.</em></p>
+<p>University of Buffalo football players took a courageous and selfless stand against racism in 1958, staying home instead of playing in the Tangerine Bowl in Orlando because two African-American players would not have been allowed on the field.</p>
+<p>Fifty-one years later, about 35 Buffalo players and coaches will finally get their &quot;bowl experience&quot; in Orlando -- courtesy of the University of Central Florida and political and business leaders who are working together to honor the team.</p>
+<p>UCF will honor the players at halftime of Saturday&rsquo;s 7:30 p.m. home game against the current University at Buffalo team.</p>
+<p>The 1958 Buffalo team&rsquo;s roster included two African-American players, Willie Evans and the late Mike Wilson. The team was invited to play in the 1958 Tangerine Bowl, organized by the Elks Lodge. The use of the stadium was controlled by the now defunct Orlando High School Athletics Association, which maintained a policy banning interracial events.</p>
+<p>In a show of solidarity for Evans and Wilson, the entire Buffalo squad voted to not play in the bowl game.</p>
+<p>Orange County Mayor Richard Crotty and Florida Citrus Sports are joining UCF in honoring the team. AirTran, Loews' Royal Pacific Resort at Universal Orlando and the Central Florida Hotel Lodging Association also have supported the recognition efforts.</p>
+<p>For tickets to Saturday's game against Buffalo, or any of UCF's six remaining home games at Bright House Networks Stadium, call 407-823-1000 or log on to <a href="http://www.UCFAthletics.com">www.UCFAthletics.com</a>.</p>
+<p><strong>Game Day Reminders</strong></p>
+<p><strong>Tailgating:</strong> For the Buffalo game and others that kick off at 6 p.m. or later, parking lots will open and tailgating can begin at noon. For games that kick off before 6 p.m., parking lots will open and tailgating can begin at 8 a.m.</p>
+<p>For the Buffalo game, no tailgating set up can begin prior to noon. Campus parking lots must be vacated two hours after each game, or midnight, whichever comes first.</p>
+<p>The possession or consumption of alcoholic beverages is prohibited by anyone younger than 21. Anyone consuming alcohol must be prepared to show proof that he or she is 21 or older.</p>
+<p>Glass containers of any type, kegs and beer funnels are not allowed on campus.</p>
+<p>For a full list of tailgating regulations, go to <a href="http://www.UCFGameday.com">www.UCFGameday.com</a> and click on the &lsquo;Tailgating&rsquo; link under the Game Day tab.</p>
+<p><strong>Game Day Fan Help Desk:</strong> UCF will continue to operate a telephone help desk that will be active on home football game days. Anyone with questions about game days can call 407-882-FANS (3267).</p>
+<p><strong>Game Day Text Message Help:</strong> UCF Athletics and partner In Stadium Solutions have established a text-message communication system for fans. Beginning two hours before each game, fans can send a text message to &ldquo;41513&rdquo; and type &ldquo;UCF&rdquo; followed by a brief description of the issue and its location in the stadium. Ushers, public safety or first-aid personnel, or other event staff will respond as needed.</p>
+<p><strong>Animal Policy:</strong> Animals, except for service animals, are not allowed on campus on game days. Anyone who brings an animal that is not a service animal will be asked to take it home.</p>
+<p><strong>Parking:</strong> Parking policies are virtually the same as they were in 2008. Parking is divided into three sections -- Gold, Red and Blue. The Gold Zone, closest to Bright House Networks Stadium, requires a reserved game day parking permit and is only for members of the Golden Knights Club, credentialed media, stadium operations personnel, patrons with disabilities and students with special permits.</p>
+<p>Anyone parked in the Gold Zone who does not meet the above criteria will be towed as early as 5 a.m. on game days. The Gold Zone includes surface parking lots C 1-2, D 1-2 and E 1-8, as well as parking garages C, D and F. This does not apply to Towers residents who have reserved parking spaces in Garages E and G. They are allowed to remain in their reserved spaces.</p>
+<p>Almost all parking in the Red Zone and Blue Zone is open to everyone. The spaces are free and on a first-come, first-served basis. Parking Garage B, located across from the Recreation and Wellness Center, is reserved for university business.</p>
+<p>Parking is not allowed along campus roadways, in residential housing parking lots or garages, or on any open grassy areas throughout campus (except for designated E-lots in the Gold Zone).</p>
+<p><strong>Park and Ride: </strong>Fans are invited to park at off-site parking lots conveniently located in the Research Park. Free UCF Shuttles will continuously transport passengers from the Orlando Tech Center in the Research Park to the on-campus Health Center stop (lot C3). Game day service will be available from three hours prior to game start until two hours after game end.</p>
+<p><strong>For more information: </strong>Visit <a href="http://www.UCFGameDay.com">www.UCFGameDay.com</a> for more information about traffic, parking and other game day policies. Visit <a href="http://www.UCFAthletics.com">www.UCFAthletics.com</a> for more information about the UCF football team.</p>
+<hr />
+<p><strong>UCF Stands For Opportunity:</strong> The University of Central Florida is a metropolitan research university that ranks as the 5th largest in the nation with more than 52,000 students. UCF's first classes were offered in 1968. The university offers impressive academic and research environments that power the region's economic development. UCF's culture of opportunity is driven by our diversity, Orlando environment, history of entrepreneurship and our youth, relevance and energy. For more information, visit <a href="index.html">http://news.ucf.edu</a>.</p>
+		
+	
+	<p id="back"><a href="index?page=news">&lt; Back to the Newsroom</a></p>
+
+</div>
+
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+
+		</div> 
+	</body>
+</html>
+

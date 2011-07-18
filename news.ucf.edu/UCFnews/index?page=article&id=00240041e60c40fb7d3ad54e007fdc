@@ -1,0 +1,514 @@
+
+
+
+
+
+
+
+
+
+	
+	
+										
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/article.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=article&amp;id=00240041e60c40fb7d3ad54e007fdc" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+		
+		
+		<a class='rss' href="http://news.ucf.edu/UCFnews/ucfreport/rss_mainnewsinfo.jsp" title="Subscribe using any feed reader!">
+			RSS Feed
+		</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.med.ucf.edu/">College of Medicine</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.today.ucf.edu">UCF Today</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.tv">UCF TV</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 88&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+<div id="main_content">
+	<h2>Bob Woodward, Former Lawmakers to Reflect on Watergate at UCF Symposium</h2>
+	
+	<p class="article_info">
+		
+			By Chad Binette
+		
+		<span class="date">March 24, 2004</span></p>
+	
+	
+	
+		<div class="article_img" style="width: px;">
+
+			<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE161/en_US/040324nixon.jpg" height="" width=""  /> 
+			
+				<p class="photo_credit">Photo: UCF file</p>
+			
+			<p>Thirty-one years ago, an embattled President Nixon addressed graduates of what was then called Florida Technological University during a ceremony at the Reflecting Pond. Former FTU/UCF President Charles Millican, right, joined Nixon at the ceremony.</p>
+			
+				<p class="note"><a class="full_photo" id="popup.jsp?article_id=00240041e60c40fb7d3ad54e007fdc">Full Photo</a></p>
+			
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			
+			
+			
+		</div>
+	
+	
+	
+	
+	
+	
+	
+		
+			<div id="related">
+				<h3>Related Contacts and Links:</h3>
+				<ul>
+		
+		<li>
+		
+			
+				<h4><a href="mailto:dlanier@mail.ucf.edu">Drew Lanier</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-823-3753</li>
+			
+			</ul>
+		
+		</li>
+	
+	
+	
+		
+		<li>
+		
+			<h4><a href="http://www.loufrey.org/">Lou Frey Institute of Politics and Government</a></h4>
+		
+		</li>
+	
+	
+	 </ul></div> 
+	
+	
+			
+	
+	
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	<div id="share">
+		<ul><li><p id="print"><a href="javascript:window.print();">Print this Page</a></li></ul>
+	
+	</div>
+	
+	
+	
+	
+		
+			<p><span>Bob Woodward, one of the two Washington Post reporters who helped uncover the scandal that brought down Richard Nixon's presidency, will be the featured speaker at a symposium on Watergate on Monday, March 29, and Tuesday, March 30, at the University of Central Florida. </span></p><p /><p><span></span><span>Several former </span><country-region /><place /><span>U.S.</span></place /></country-region /><span> representatives, including two members of the House panel that backed Nixon's impeachment, will join Woodward at the symposium entitled &quot;The Impact of Watergate: A Thirty-Year Retrospective.&quot; Hosted by the Lou Frey Institute of Politics and Government at UCF, the event also will feature presentations by Frey, a former congressman from Central Florida; the Rev. John Taylor, director of The Richard Nixon Library &amp; Birthplace in </span><state /><place /><span>California</span></place /></state /><span>; and former Time Inc. Chairman Dick Munro.</span> </p><p /><p /><p><span></span><span>&quot;I think it's important to keep looking at Watergate and seeing what lessons we can learn from it and why the process worked as well as it did,&quot; said Elizabeth Holtzman, a symposium panelist who was a member of the House Judiciary Committee that voted to impeach Nixon. &quot;You had to have a confluence of a lot of different things. You had to have a press that was willing to be courageous. You had to have a Congress that was willing to do the right thing. You had to have a Supreme Court that was willing to act with unanimity, and you had to have American people who stood behind the process.&quot; </span></p><p /><p><span></span><span>Holtzman, a Democratic congresswoman from </span><state /><place /><span>New York</span></place /></state /><span> from 1973 to 1980, will join Tom Railsback, an Illinois Republican who helped to draft the articles of impeachment for the Judiciary Committee, on a panel at </span><time hour="10" minute="30" /><span>10:30 a.m.</span></time /><span> Monday, March 29, in the Cape Florida Ballroom, Room 316 of the UCF Student Union. The panel, like all of the symposium presentations, is free and open to the public.</span> </p><p /><p /><p><span></span><span>Woodward, now an assistant managing editor and investigative reporter for The Washington Post, will speak at </span><time hour="19" minute="0" /><span>7 p.m.</span></time /><span> March 29 in the Cape Florida Ballroom.</span> </p><p /><p /><p><span></span><span>Woodward and fellow Washington Post reporter Carl Bernstein won the Pulitzer Prize, the most prestigious award in journalism, for their reporting on Watergate in 1973. The pair also wrote two books about the scandal, &quot;All the President's Men&quot; in 1974 and &quot;The Final Days&quot; in 1976. </span></p><p /><p /><p><span></span><span>While most of the symposium events will be held at UCF, the </span><place /><placename /><span>Orange</span></placename /><span> </span><placetype /><span>County</span></placetype /><span> </span><placename /><span>Regional</span></placename /><span> </span><placename /><span>History</span></placename /><span> </span><placetype /><span>Center</span></placetype /></place /><span> in downtown </span><city /><place /><span>Orlando</span></place /></city /><span> will host the final presentation and a traveling exhibition on Nixon and President John F. Kennedy. </span></p><p /><p /><p><span></span><span>Frey, Holtzman, Railsback, Taylor and Phil Davies, director of the </span><place /><placename /><span>Eccles</span></placename /><span> Center'</span></place /><span>s American Studies program at the British Library, the national library of the </span><country-region /><place /><span>United Kingdom</span></place /></country-region /><span>, will speak at the history center at </span><time hour="17" minute="30" /><span>5:30 p.m.</span></time /><span> March 30. Taylor, who became Nixons chief aide in May 1984, has served as the former presidents spokesman, scheduler and personal assistant. He was in charge of plans for the Nixon library.</span> </p><p /><p /><p><span></span><span>The exhibit, on loan from The Richard Nixon Library &amp; Birthplace, includes correspondence from the Kennedy and Nixon families demonstrating the strong friendship between the two men while they served in Congress. </span></p><p /><p /><p><span></span><span>Nixon holds a prominent place in UCF history as the only president to speak at a commencement ceremony on campus. Thirty-one years ago, an embattled Nixon addressed graduates of what was then called </span><place /><placename /><span>Florida</span></placename /><span> </span><placename /><span>Technological</span></placename /><span> </span><placetype /><span>University</span></placetype /></place /><span> during a ceremony at the Reflecting Pond. The speech, which Frey was instrumental in arranging, was one of the last that Nixon gave on a college campus as president.</span> </p><p /><p /><p><span></span><span>&quot;I was in the Republican (House) leadership then, and it was probably one of the most difficult times of my political life,&quot; recalled Frey, who was a congressman from 1969 to 1979. &quot;But, on the other hand, it was also one of the most rewarding periods of time, because it proved that our system and our Constitution works under incredible stress and that no person, be it the president or a newly sworn-in citizen, is above the law.&quot; </span></p><p /><p><span></span><span>The Lou Frey Institute of Politics and Government, which was founded in 2001, is a nonpartisan organization that promotes civic education for students and other </span><place /><span>Central Florida</span></place /><span> residents. The institutes next symposium, to be held Oct. 4 and 5, will address the future of the space program. Sean O'Keefe, administrator of the National Aeronautics and Space Administration, will be one of the featured speakers.</span> </p><p /><p /><p><span></span><span>Go to <a href="http://www.loufrey.org/">www.loufrey.org </a>for updated symposium schedules and more information. </span></p><p /><p /><p><span></span><b><span>Schedule of events: </span></b></p><p /><p /><p><span></span><span>All events will be in Room 316 of the UCF Student Union except for the final reception at the </span><place /><placename /><span>Orange</span></placename /><span> </span><placetype /><span>County</span></placetype /><span> </span><placename /><span>Regional</span></placename /><span> </span><placename /><span>History</span></placename /><span> </span><placetype /><span>Center</span></placetype /></place /><span>, </span><span>65 E. Central Blvd.</span><span>, downtown Orlando.</span> </p><p /><p /><p><span></span><span>The schedule is subject to change. Please check <a href="http://www.loufrey.org/">www.loufrey.org </a>for updates. </span></p><p /><p /><p><span></span><b><span>Monday, March 29 </span></b></p><p /><p /><p><span></span><span>9:30 a.m. Opening comments by UCF Provost Terry Hickey </span></p><p /><p /><p><span></span><span>9:35 a.m.</span><span> &quot;Richard Nixon as a Political and Historical Figure.&quot; </span><span>Panelists: Former congressman Lou Frey Jr. (R-Fla., 1969-1979); the Rev. John Taylor, director of The Richard Nixon Library &amp; Birthplace. Former U.S. Sen. Howard Baker (R-Tenn., 1967-1985) will appear via video. </span></p><p /><p /><p><span></span><span>10:30 a.m.</span><span> &quot;A Democratic and a Republican Member of the House Judiciary Committee Reflect on the Articles of Impeachment.&quot; </span><span>Panelists: Former U.S. Reps. Elizabeth Holtzman (D-N.Y., 1973-1980) and Tom Railsback (RIll., 1967-1982). </span></p><p /><p /><p><span></span><span>11:30 a.m.</span><span> &quot;Watergate -- Why Should We Care, Dude?&quot; </span><span>Panelists: Students Callie Robinson and Vincent Canada from UCF, Patrick Conzola from Freedom High School and Terrell Burt from University High School. </span></p><p /><p /><p><span></span><span>1:30 p.m.</span><span> &quot;Views About Watergate from the Congress.&quot; </span><span>Panelists: U.S. Rep. Tom Feeney, R-Fla.; former congressmen Peter Kyros (D-Maine, 1967-1975) and Guy Vander Jagt (R-Mich., 1966-1992); and Dick Batchelor, founder and president of the Dick Batchelor Management Group. </span></p><p /><p /><p><span></span><span>2:30 p.m.</span><span> &quot;The World Turned Upside Down: Congress in the Wake of Watergate.&quot; Keynote address by Professor David W. Rohde of </span><place /><placename /><span>Michigan</span></placename /><span> </span><placetype /><span>State</span></placetype /><span> </span><placetype /><span>University</span></placetype /></place /><span>.</span> </p><p /><p /><p><span></span><span>3:30 p.m.</span><span> &quot;Academic Views on the Watergate Affair from Abroad.&quot; </span><span>Panelists: Professor Phil Davies, director of American Studies Program, Eccles Centre, British Library, United Kingdom; Professor David Waller, senior lecturer of American politics, University College Northampton, United Kingdom. </span></p><p /><p /><p><span></span><span>7 p.m.</span><span> &quot;Watergate in Retrospective.&quot; </span><span>Keynote address by Washington Post assistant managing editor Bob Woodward. </span></p><p /><p /><p><span></span><b><span>Tuesday, March 30 </span></b></p><p /><p /><p><span></span><span>9 a.m.</span><span> &quot;Impeachment and Scandal Over Time.&quot; </span><span>Panelists: Professor Paul Boudreaux, Stetson University College of Law; former U.S. Sen. Lowell Weicker Jr. (R-Conn., 1971-1989) will appear via video. Testimony given to the House Judiciary Committee by former U.S. Rep. Lawrence Hogan (R-Md., 1969-1975) also will be shown. </span></p><p /><p /><p><span></span><span>10:30 a.m.</span><span> &quot;The Impact of Watergate on the Medias Coverage of Politics.&quot; </span><span>Panelists: Dick Munro, retired chairman and chief executive officer, Time Inc.; Mark Silva, political columnist for the <i>Orlando Sentinel</i>; Rhodes Cook, former <i>Congressional Quarterly</i> reporter; and Oscar Juarez, president of Juarez and Associates. </span></p><p /><p /><p><span></span><span>5:30 p.m.</span><span> &quot;Reception and presentation&quot; at </span><place /><placename /><span>Orange</span></placename /><span> </span><placetype /><span>County</span></placetype /><span> </span><placename /><span>Regional</span></placename /><span> </span><placename /><span>History</span></placename /><span> </span><placetype /><span>Center</span></placetype /></place /><span>. Panelists: Frey, Holtzman, Railsback, Davies, </span><city /><place /><span>Taylor</span></place /></city /><span>. This event will be an overview of many of the topics covered during earlier presentations.</span> </p><p />
+		
+	
+	<p id="back"><a href="index?page=news">&lt; Back to the Newsroom</a></p>
+
+</div>
+
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+
+		</div> 
+	</body>
+</html>
+

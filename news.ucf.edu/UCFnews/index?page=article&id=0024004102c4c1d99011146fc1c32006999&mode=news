@@ -1,0 +1,684 @@
+
+
+
+
+
+
+
+
+
+	
+	
+										
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/article.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=article&amp;id=0024004102c4c1d99011146fc1c32006999&amp;mode=news" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+		
+		
+		<a class='rss' href="http://news.ucf.edu/UCFnews/ucfreport/rss_mainnewsinfo.jsp" title="Subscribe using any feed reader!">
+			RSS Feed
+		</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.med.ucf.edu/">College of Medicine</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.today.ucf.edu">UCF Today</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.tv">UCF TV</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 88&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+<div id="main_content">
+	<h2>Nobel Prize Winner Tells UCF Grads to Turn Disappointments Into Advantages</h2>
+	
+	<p class="article_info">
+		
+			By Chad Binette
+		
+		<span class="date">Updated May 5, 2007</span></p>
+	
+	
+	
+		<div class="article_img" style="width: 261px;">
+
+			<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/1000/NE1168/en_US/070503grad1man.jpg" height="196" width="261"  /> 
+			
+				<p class="photo_credit">Photo: Jacque Brund</p>
+			
+			<p>A UCF graduate celebrates during one of Thursday's commencement ceremonies. Six ceremonies were held Thursday through Saturday.</p>
+			
+				<p class="note"><a class="full_photo" id="popup.jsp?article_id=0024004102c4c1d99011146fc1c32006999">Full Photo</a></p>
+			
+			
+			
+			
+					
+						
+						
+							
+								<h3>Story Images</h3>
+								<ul id="story_images">
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=0024004102c4c1d99011146fc1c32006999&amp;img_mode=1&amp;index=0">
+							<img width="100" alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/1000/NE1168/en_US/070505Towndoc.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=0024004102c4c1d99011146fc1c32006999&amp;img_mode=1&amp;index=1">
+							<img width="100" alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/1000/NE1168/en_US/070503grad3.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=0024004102c4c1d99011146fc1c32006999&amp;img_mode=1&amp;index=2">
+							<img width="100" alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/1000/NE1168/en_US/070503grad4.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=0024004102c4c1d99011146fc1c32006999&amp;img_mode=1&amp;index=3">
+							<img width="100" alt="Article Main Picture" src="http://news.ucf.edu/resources/sites/UCF/content/live/NEWS/1000/NE1168/en_US/070503grad2 copy.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=0024004102c4c1d99011146fc1c32006999&amp;img_mode=1&amp;index=4">
+							<img width="100" alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/1000/NE1168/en_US/070505pmspeaker.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+						
+					
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			</ul><p  class="note">Click thumbnails for full-size images.</p>
+		</div>
+	
+	
+	
+	
+	
+	
+	
+		
+			<div id="related">
+				<h3>Related Contacts and Links:</h3>
+				<ul>
+		
+		<li>
+		
+			
+				<h4><a href="mailto:zkotala@mail.ucf.edu">Zenaida Gonzalez Kotala</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-823-6120</li>
+			
+			</ul>
+		
+		</li>
+	
+		
+		<li>
+		
+			
+				<h4><a href="mailto:cbinette@mail.ucf.edu">Chad Binette</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-823-6312</li>
+			
+			</ul>
+		
+		</li>
+	
+		
+		<li>
+		
+			
+				<h4><a href="mailto:tevelyn@mail.ucf.edu">Tom Evelyn</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-823-5988</li>
+			
+			</ul>
+		
+		</li>
+	
+	
+	
+		
+		<li>
+		
+			<h4><a href="http://www.registrar.ucf.edu/Comsked.html">Commencement Web site</a></h4>
+		
+		</li>
+	
+		
+		<li>
+		
+			<h4><a href=" http://webcast.oir.ucf.edu/">Commencement Webcast</a></h4>
+		
+		</li>
+	
+		
+		<li>
+		
+			<h4><a href="index?page=article&amp;id=0024004102c4c1d99011146fc1c320067dc&amp;mode=news">New UCF Center of Excellence Named in Honor of Founding Father of Laser</a></h4>
+		
+		</li>
+	
+	
+	 </ul></div> 
+	
+	
+			
+	
+	
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	<div id="share">
+		<ul><li><p id="print"><a href="javascript:window.print();">Print this Page</a></li></ul>
+	
+	</div>
+	
+	
+	
+	
+		
+			<p>Charles Townes, the founding father of the laser and a Nobel Prize winner, told University of Central Florida graduates Saturday that they should not let &quot;little failures here and there&quot; disappoint them in life.</p>
+<p>Speaking at the fifth of six UCF&nbsp;graduation ceremonies this week, Townes recalled some of the difficulties he faced on his way to becoming one of the top scientists in the world. He couldn't get the financial aid he needed for graduate school. He wanted a job teaching physics in academia but had to settle for an engineering position at Bell Telephone Laboratories. After he moved into higher education, his department chair told him he should stop his research because it was a waste of the departments money.</p>
+<p>Townes overcame all of those obstacles, and he told graduates that they, too, can turn disappointments into great advantages if they try their best.</p>
+<p>About 5,600 students&nbsp;expected to graduate during six ceremonies that took&nbsp;place on the main campus Thursday through Saturday. The students include 4,682 who signed up to receive bachelors degrees, 823 for masters degrees, 18 for education specialist degrees and 79 for doctoral degrees.</p>
+<p>UCF President John Hitt awarded Townes an honorary doctoral degree in Sciences on Saturday morning. He credited Townes research with laying the foundation for the extensive optics and lasers research at UCF today, and he said Townes is regarded as one of the 100 most influential scientists in the world.</p>
+<p>On Friday evening, UCF dedicated its new Center of Excellence in advanced laser technology in Townes honor. Townes also gave a public lecture on the past, present and potential future of lasers.</p>
+<p>Townes told graduates Saturday that they should take time to learn about disciplines other than their own. The engineering knowledge Townes gained at Bell Labs proved critical as he developed the inventions that led to creation of the laser.</p>
+<p>Townes also credited his parents with teaching him to stand up against the crowd and do what you think is right. While their lesson related to morals, he said it also applied to his scientific career.</p>
+<p>Just three months after his department chair asked him to stop his research, he began making a lot of progress toward the laser, one of the most significant inventions in the past 60 years. Lasers are used extensively today in computers, communications, medicine, defense and many other fields.</p>
+<p>Townes persistence also paid off when it came to&nbsp;attending graduate school. After failing to get the&nbsp;financial aid to several universities, he wasn't sure if he could afford to go at all. He decided to go&nbsp;where he thought he could get the best education&nbsp;-- the California Institute of Technology -- with $500 to see how long I could last. He ended up&nbsp;getting a teaching assistant position after one semester, and that paid enough to cover his expenses the rest of the way.</p>
+<p>Townes addressed graduates of the College of Engineering and Computer Science, College of Optics and Photonics and Rosen College of Hospitality Management.</p>
+<p>The final commencement ceremony of the spring&nbsp;featured College of Education graduates. Sharon P. Robinson, president and chief executive officer of the American Association of Colleges for Teacher Education, welcomed her new colleagues in the teaching profession. She told them to &quot;make&nbsp;a passion for learning the most conspicuous attribute of your practice.&quot;</p>
+<p>&quot;Boldly seek to discover what to change and how to change in order to get to a better outcome,&quot; she said.</p>
+<p>Most importantly, Robinson told graduates, &quot;don't whine.&quot; If&nbsp;graduates encounter&nbsp;situations that they didn't directly learn about in college, they shouldn't complain about not learning it. Instead, they should use what they learned to frame the question in&nbsp;a way that they can address and seek advice from their colleagues.</p>
+<p>&quot;Those you serve require nothing less than your moral commmitment, and that prohibits giving up,&quot; she said.</p>
+<p>Following the May ceremonies, UCF will have awarded about 169,000 degrees since starting classes in 1968. UCF awarded 215 doctoral degrees&nbsp;in 2006-07, marking the first time that the university gave out more than 200 in a year.</p>
+<p><strong>Friday ceremonies:</strong></p>
+<p>On Friday afternoon, speaker Sesh Thakkar told graduates of the College of Arts and Humanities, Burnett College of Biomedical Sciences and Undergraduate Studies that the value of their degrees was priceless.</p>
+<p>Your college degree places you in the top 1 percent of the world, and that is a significant achievement for you, for your parents, for this university and for your country, said Thakkar, who is the senior managing director for the Tavistock Group, which made the donation of cash and land that will help establish the UCF Health Sciences Campus at Lake Nona.</p>
+<p>The campus will be home to the new College of Medicine and other biomedical and health sciences programs at UCF. Thakkar, a UCF alumnus who at 28 survived lymphoma cancer, said he was proud to play a role in helping his alma mater develop programs that will help cure serious diseases.</p>
+<p>I can tell you that when I left this campus (after graduating with honors in Accounting), I went out traveling the world looking for opportunities, Thakkar said. Today, the world comes here to UCF looking for opportunities.</p>
+<p>Tom Bland, a UCF alumnus who is chief executive officer for the water restoration firm AquaFiber Technologies, addressed graduates of the College of Business Administration on Friday morning.</p>
+<p>Bland shared some &quot;guidelines&quot; for leadership and success in business, including being on time, keeping commitments and more lofty principles.</p>
+<p>&quot;As you age chronologically, stay young intellectually,&quot; he added. &quot;Fight intolerance, terror and hatred with compassion, education and love.&quot;</p>
+<p><strong>Thursday ceremonies:</strong></p>
+<p>Ann Wilkins Duncan, a member of the Florida Board of Governors, addressed the graduates from the College of Sciences during the 2 p.m. ceremony on Thursday.</p>
+<p>Duncan advised students to continue to learn and be mentored because it's a global economy and everyone is competing for jobs of the future. She also listed tips she has gathered from political and industrial leaders, including Always listen to your mother&quot; from Jeb Bush; It's a big world; get some dirt on your feet from the editor of the St. Petersburg Times; and The most important things in the world are family, health and integrity. No amount of money can make you happy if any of these are missing from Tico Perez, a fellow board member.</p>
+<p>Duncan, a University of South Florida alumna, concluded her speech by pumping her first in the air and shouting &quot;Go UCF.&quot;</p>
+<p>Lawson Lamar, the state attorney for the Ninth Judicial Circuit and the father of a UCF student, addressed the students in the College of Health and Public Affairs during the 9:30 a.m. ceremony.</p>
+<p>You don't enter this profession with the expectation of getting rich,&quot; he told students when thanking them for entering such noble professions, which include nursing and law enforcement. &quot;You'll never have to sell your word.&quot;</p>
+<p>He implored the eager graduates to stay informed, question politicians and become active citizens in the political process in order to protect the future of Florida and make the world a better place for all people.</p>
+<p>&quot;Fight for those beliefs as you move forward,&quot; said Lamar, who has given lectures in UCF classes. &quot;Life is good. Life is supposed to be fun.</p>
+<p><em>-- Tom Evelyn and Zenaida Gonzalez Kotala contributed to this report.</em></p>
+		
+	
+		
+			<p>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;</p>
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+	<p id="back"><a href="index?page=news">&lt; Back to the Newsroom</a></p>
+
+</div>
+
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+
+		</div> 
+	</body>
+</html>
+

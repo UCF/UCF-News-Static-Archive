@@ -1,0 +1,542 @@
+
+
+
+
+
+
+
+
+
+	
+	
+										
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/article.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=article&amp;id=00240041a0ca090119bdde0706002796" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+		
+		
+		<a class='rss' href="http://news.ucf.edu/UCFnews/ucfreport/rss_mainnewsinfo.jsp" title="Subscribe using any feed reader!">
+			RSS Feed
+		</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.med.ucf.edu/">College of Medicine</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.today.ucf.edu">UCF Today</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.tv">UCF TV</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 88&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+<div id="main_content">
+	<h2>UCF Nursing Students Help Communities Across Central Florida</h2>
+	
+	<p class="article_info">
+		
+			By Brandon Bielich
+		
+		<span class="date">May 6, 2008</span></p>
+	
+	
+	
+		<div class="article_img" style="width: 345px;">
+
+			<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/1000/NE1440/en_US/nursefull.jpg" height="226" width="345"  /> 
+			
+				<p class="photo_credit">Photo: Courtesy of the College of Nursing</p>
+			
+			<p>Nursing students help non-profits throughout Central Florida.</p>
+			
+				<p class="note"><a class="full_photo" id="popup.jsp?article_id=00240041a0ca090119bdde0706002796">Full Photo</a></p>
+			
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			
+		</div>
+	
+	
+	
+	
+	
+	
+	
+		
+			<div id="related">
+				<h3>Related Contacts and Links:</h3>
+				<ul>
+		
+		<li>
+		
+			
+				<h4><a href="mailto:zkotala@mail.ucf.edu ">Zenaida Gonzalez Kotala, UCF News and Information</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-823-6120</li>
+			
+			</ul>
+		
+		</li>
+	
+	
+	
+		
+		<li>
+		
+			<h4><a href="http://www.nursing.ucf.edu/">College of Nursing</a></h4>
+		
+		</li>
+	
+	
+	 </ul></div> 
+	
+	
+			
+	
+	
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	<div id="share">
+		<ul><li><p id="print"><a href="javascript:window.print();">Print this Page</a></li></ul>
+	
+	</div>
+	
+	
+	
+	
+		
+			<p>Nursing students at the University of Central Florida learn more than the science of caring for the sick. They learn about the challenges many of their patients face.</p>
+<p class="MsoNormal"><o:p></o:p></p>
+<p class="MsoNormal">&ldquo;We&rsquo;re not focused on just the patient who is sitting in the hospital bed; we&rsquo;re focused on the patient who lives in the community,&rdquo; said Jean Leuner, dean for UCF&rsquo;s College of Nursing. &ldquo;They may have an episode in a hospital, but they live in a community.&rdquo;</p>
+<p class="MsoNormal">That&rsquo;s why students in the College of Nursing begin community outreach through service learning from the first semester that they enroll in upper-division nursing. It&rsquo;s a required part of the program.</p>
+<p class="MsoNormal">Students deliver meals on wheels, screen elementary children for height/weight for overweight/obesity risks; provide immunizations to middle school students; teach children with asthma how to manage the disease; and teach tobacco prevention to children.&nbsp;</p>
+<p class="MsoNormal">&ldquo;We help the student understand the resources in the community and the opportunities to support wellness and disease prevention,&rdquo; Leuner said.</p>
+<p class="MsoNormal">During their first semester, UCF Nursing students join Community Nursing Coalitions (CNCs). Groups of 12 with a faculty supervisor complete various hands-on nursing tasks focusing on primary and secondary prevention activities, such as health education and screenings.</p>
+<p class="MsoNormal">To better understand the challenges of everyday life, the undergraduates are required to ride public transportation to their CNCs as part of their first-semester experiences. This is a first-time ride for several of the students.<span style="">&nbsp; </span></p>
+<p class="MsoNormal"><o:p>The CNCs collaborate with agencies in counties across Central Florida &ndash; including Orange, Brevard, Seminole, Volusia and Flagler counties&ndash; to provide preventive care for citizens and real-life experience for students. </o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p>Students have collaborated with many organizations, including: the Boys &amp; Girls Clubs of Central Florida; YMCA; the Orange County Neighborhood Centers for Families; Community Action Centers; Head Start; and the American Lung Association&rsquo;s Open Airways program, which aids children with asthma.</p>
+<p class="MsoNormal">Through the Open Airwaves program, UCF Nursing students teach the children how to manage their asthma and prevent attacks.<o:p></o:p><br />
+<o:p></o:p></p>
+<p class="MsoNormal">&ldquo;Recently, a grandma of a middle school student told us her grandson was able to prevent a full-blown asthma attack because our students taught him methods he had never learned before,&rdquo; said Pamela Ark, a College of Nursing assistant professor and CNC coordinator. &ldquo;If we hadn&rsquo;t been there, it&rsquo;s likely that program wouldn&rsquo;t have been there.&rdquo;<o:p></o:p><br />
+<o:p></o:p></p>
+<p class="MsoNormal">Graduate nursing students in the Adult, Family, and Pediatric Nurse Practitioner programs also help out in the community, addressing problems at a variety of community and health-care agencies. Groups consist of four or five students. <o:p></o:p>&nbsp;<o:p></o:p></p>
+<p class="MsoNormal">In Orlando, the graduate students work with Sheppard&rsquo;s Hope, which provides free initial medical care for low-income citizens. Because the organization is mostly staffed by volunteers, the UCF Nursing students have worked with the staff to develop protocols for handling patients.<o:p></o:p>&nbsp;<o:p></o:p></p>
+<p class="MsoNormal">In Brevard County, UCF graduate students are assisting at Daily Bread, a food-outreach program in Melbourne, by assembling a comprehensive health-education library for the all-volunteer staff. They also are developing an electronic version of the library, which will allow for easy updates. <o:p></o:p>&nbsp;<o:p></o:p></p>
+<p class="MsoNormal">In the minds of UCF College of Nursing students and professors, the goal is clear: keep active in the community, and keep the community out of the hospital.<o:p></o:p>&nbsp;<o:p></o:p></p>
+<p class="MsoNormal">&ldquo;We would love to identify the woman whose blood pressure is not in good control, recognize the reason why it isn&rsquo;t and then do something about it before it becomes a health issue,&rdquo; said Diane Wink, a College of Nursing professor. &ldquo;There&rsquo;s a lot of judgment that goes on every moment of the day when you&rsquo;re a registered nurse. And that&rsquo;s what our students are learning, and they&rsquo;re learning it in the community, in real settings, where real people are having their real lives.&rdquo;</p>
+<p class="MsoNormal"><o:p></o:p></p>
+<hr />
+<p class="MsoNormal"><b>UCF College of Nursing</b><span style="font-weight: normal;"> &ndash; The College of Nursing at the University of Central Florida is the university&rsquo;s 11th college and has been graduating nurses from its program since 1981. The UCF College of Nursing is renowned for its advanced academic programs, access to education and research, and its commitment to clinical excellence and community service. The college offers flexible degree programs at the undergraduate, master&rsquo;s and doctoral levels; cutting-edge electronic technology in the classroom; multiple campus locations and Web-based course options. For more information visit <a href="http://nursing.ucf.edu">http://nursing.ucf.edu</a>.<o:p></o:p></span></p>
+<p class="MsoNormal"><b>UCF Stands For Opportunity</b><span style="font-weight: normal;"> &ndash; The University of Central Florida is a metropolitan research university that ranks as the 6th largest in the nation with more than 48,000 students. UCF's first classes were offered in 1968. The university offers impressive academic and research environments that power the region's economic development. UCF's culture of opportunity is driven by our diversity, Orlando environment, history of entrepreneurship and our youth, relevance and energy. For more information visit <a href="index.html">http://news.ucf.edu</a>.</span></p>
+<!--EndFragment-->
+		
+	
+	<p id="back"><a href="index?page=news">&lt; Back to the Newsroom</a></p>
+
+</div>
+
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+
+		</div> 
+	</body>
+</html>
+

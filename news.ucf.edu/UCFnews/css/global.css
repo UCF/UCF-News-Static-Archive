@@ -1,0 +1,311 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+body {}
+html {
+	background: url("../img/gradient.png") repeat-x top left #fff;
+}
+a img {
+	border: 0;
+}
+
+/* Generic Styles */
+.uppercase {
+	text-transform: uppercase;
+}
+ 
+fieldset {
+	border: 0;
+}
+
+/* Content */
+#content {
+	width: 810px;
+	margin: auto;
+	font-family: Helvetica, Arial, sans-serif;
+	padding-bottom: 40px;
+	overflow: visible;
+}
+
+h1.newshead {
+	background: url(../img/horizontal_dot.png) repeat-x bottom;
+	width: 810px;
+	height: 37px;
+	margin-top: 20px;
+}
+h1.newshead a {
+	display: block;
+	text-indent: -9000px;
+	background: url(../img/ucf_newsroom.png) no-repeat; 
+	height: 27px;
+	width: 248px;
+	float: left;
+	margin-right: 10px;
+}
+h1.newshead a.rss {
+	float: left;
+	position: relative;
+	top: 11px;
+	display: block;
+	height: 16px;
+	width: 44px;
+	background: url(../img/rss.gif) no-repeat;
+	text-indent: -9000px;
+}
+
+
+/* Newsroom Nav */
+#newsroom_nav {
+	height: 50px;
+	clear: both;
+}
+#newsroom_nav li {
+	float: left; 
+	font-size: 0.9375em;
+	list-style: none;
+	margin-right: 15px;
+	position: relative;
+	top: 10px;
+}
+#newsroom_nav li a, #newsroom_nav li a:visited {
+	color: #020202;
+	text-decoration: none;
+}
+#newsroom_nav li a:hover {
+	text-decoration: underline;
+}
+
+
+/* Secondary Nav */
+#secondary_nav {
+	width: 160px;
+	float: left;
+	margin: 5px 15px 0 0;
+	clear: left;
+}
+#secondary_nav div {
+	margin-bottom: 15px;
+}
+#secondary_nav h2 {
+	margin-bottom: 5px;
+}
+#secondary_nav ul {
+	list-style: none;
+	width: 160px;
+}
+#secondary_nav ul li {
+	margin-bottom: 7px;
+}
+	/* Read About */
+	#read_about h2 { 
+		color: #000;
+		text-transform: uppercase;
+		font-size: 0.6875em;
+		letter-spacing: 2px;
+	}
+	#read_about ul li a, #read_about ul li a:visited {
+		font-family: Georgia, "Times New Roman", Times, serif;
+		color: #ca850a;
+		font-weight: bold;
+		font-size: 0.75em;
+		text-decoration: none;	
+	}
+	#read_about p a, #read_about p a:visited {
+		font-size: 0.75em;
+		color: #333;
+		text-decoration: none;
+		font-weight: bold;
+	}
+	#read_about p a:hover, #read_about ul li a:hover {
+		text-decoration: underline;
+	}
+	#read_about form {
+		margin: 25px 0 10px 0;
+		width: 150px;
+	}
+	#read_about #search_news {
+		font-size: 0.56em;
+		color: #020202;
+		height: 12px;
+		width: 115px;
+		float: left;
+		padding: 1px 2px 0 2px;
+	}
+	
+	#read_about #go {
+		float: right;
+	}
+
+	/* Useful Links */
+	#useful_links h2 {
+		color: #d71414;
+		text-transform: uppercase;
+		font-size: 0.6875em;
+		letter-spacing: 2px;
+		padding-top: 5px;
+	}
+	#useful_links ul li a, #useful_links ul li a:visited {
+		font-family: Georgia, "Times New Roman", Times, serif;
+		color: #141414;
+		font-size: 0.8125em;
+		text-decoration: none;	
+	}
+	#useful_links ul li a:hover {
+		text-decoration: underline;
+	}
+	
+	/* Today at UCF */
+	#today_at_ucf h2 {
+		color: #000;
+		font-size: 0.875em;
+		padding-top: 5px;
+	}
+	#today_at_ucf p {
+		font-size: 0.75em;	
+	}
+	#today_at_ucf img {
+		position: relative;
+		top: 7px;
+	}
+	
+	/* Events */
+	#events h2 {
+		color: #666;
+		font-size: 0.875em;
+		font-weight: normal;
+		padding-top: 5px;
+		font-family:Helvetica,Arial,sans-serif;
+		text-transform: none;
+	}	
+	#events dl {
+		line-height: .8em;
+	}
+	#events dl dt {
+		padding-bottom: 10px;
+	}
+
+	#events dl dt a, #events dl dt a:visited{
+		font-family: Arial, Helvetica, sans-serif;
+		color: #000;
+		font-size: 0.7875em;
+		text-decoration: none;	
+		font-weight: normal;
+		border-bottom: 0px;
+	}
+	#events dl dt a:hover{
+		border-bottom: 0px;
+	}
+	#events dl dd {
+/*		color:#000000;
+		font-family:Arial,Helvetica,sans-serif;
+		font-size:0.6875em;
+		text-decoration:none;
+		padding-bottom: 10px;
+*/
+		display: none;
+	}
+	#events dt a:hover {
+		text-decoration: underline;
+	}
+	#events .more a{
+        		font-size: 0.6875em;
+        		color: #d86a14;
+		font-weight: bold;
+		text-decoration: none;
+		font-family: Helvetica, Arial, sans-serif;
+	}
+#main_content a, #main_content a:visited {
+	color: #d86a14;
+	text-decoration: none;
+}
+#main_content a:hover {
+	text-decoration: underline;
+}
+	
+/* Footer */
+#footer {
+	clear: both;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	padding-top: 30px;
+	letter-spacing: 1px;
+}
+#footer p {
+	font-size: 0.63em;
+	color: #4f4e4e;
+	padding: 0;
+	margin: 0 0 2px 0;
+}
+#footer p a, #footer p a:visited {
+	color: #000;
+}
+#footer_navigation {
+	font-size: 0.63em;
+	margin-bottom: 7px;
+}
+#footer ul {
+	list-style: none;
+}
+#footer ul li {
+	display: inline;
+	border-left: #000 1px solid;
+	padding: 0 5px 0 8px;
+}
+#footer ul li.first {
+	border: 0;
+	padding-left: 0px;
+}
+#footer ul a, #footer ul a:visited {
+	color: #3e3d3d;
+	text-decoration: none;
+}
+#footer ul a:hover {
+	text-decoration: underline;
+}
+#ucf_address {
+	font-size: 0.63em;
+	color: #4f4e4e;
+	padding: 0;
+	margin-top: 5px;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+}
+#footer a#ucf_logo {
+	display: block;
+	height: 43px;
+	width: 256px;
+	text-indent: -9000px;
+	background:url(../img/ucf_stands_for_opportunity.png) no-repeat;
+	margin: 25px auto;
+}
+
+#print_head, #print_logo{ display: none;}
+
+/* Title Bars */
+.top_story {
+	background: url(../img/top_story_bg.png) repeat-x;
+}
+.subject {
+	background: url(../img/subject_bg.png) repeat-x;
+}
+.ucf_news_and_campus_life {
+	background: url(../img/ucf_news_and_campus_life_bg.png) repeat-x;
+}
+.ucf_in_the_community {
+	background: url(../img/ucf_in_the_community_bg.png) repeat-x;
+
+}
+.science_and_technology {
+	background: url(../img/science_and_technology_bg.png) repeat-x;
+}
+.bus_and_economy {
+	background: url(http://news.ucf.edu/UCFnews/img/bus_and_economy_bg.png) repeat-x;
+}
+.academic_research {
+	background: url(http://news.ucf.edu/UCFnews/img/academic_research_bg.png) repeat-x;
+}
+.med_and_health {
+	background: url(http://news.ucf.edu/UCFnews/img/med_and_health_bg.png) repeat-x;
+}

@@ -1,0 +1,535 @@
+
+
+
+
+
+
+
+
+
+	
+	
+										
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/article.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=article&amp;id=002400410774959e30109f4453599007e70" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+		
+		
+		<a class='rss' href="http://news.ucf.edu/UCFnews/ucfreport/rss_mainnewsinfo.jsp" title="Subscribe using any feed reader!">
+			RSS Feed
+		</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.med.ucf.edu/">College of Medicine</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.today.ucf.edu">UCF Today</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.tv">UCF TV</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 88&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+<div id="main_content">
+	<h2>Six Florida Governors to Speak at Lou Frey Institute Symposium on Monday</h2>
+	
+	<p class="article_info">
+		
+			By Chad Binette
+		
+		<span class="date">March 14, 2006</span></p>
+	
+	
+	
+		<div class="article_img" style="width: px;">
+
+			<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE472/en_US/jebcrop.jpg" height="" width=""  /> 
+			
+				<p class="photo_credit">Photo: UCF News File Photo</p>
+			
+			<p>Gov. Jeb Bush will give the morning keynote address at the Lou Frey Institute of Politics and Government symposium at 9:30 a.m. Monday, March 27.</p>
+			
+				<p class="note"><a class="full_photo" id="popup.jsp?article_id=002400410774959e30109f4453599007e70">Full Photo</a></p>
+			
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			
+		</div>
+	
+	
+	
+	
+	
+	
+	
+		
+			<div id="related">
+				<h3>Related Contacts and Links:</h3>
+				<ul>
+		
+		<li>
+		
+			
+				<h4><a href="mailto:dlanier@mail.ucf.edu">Drew Lanier, Political Science</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-823-3753</li>
+			
+			</ul>
+		
+		</li>
+	
+		
+		<li>
+		
+			
+				<h4><a href="mailto:cbinette@mail.ucf.edu">Chad Binette, News & Information</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-823-6312</li>
+			
+			</ul>
+		
+		</li>
+	
+	
+	
+		
+		<li>
+		
+			<h4><a href="http://www.loufrey.org/">Lou Frey Institute of Politics and Government</a></h4>
+		
+		</li>
+	
+	
+	 </ul></div> 
+	
+	
+			
+	
+	
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	<div id="share">
+		<ul><li><p id="print"><a href="javascript:window.print();">Print this Page</a></li></ul>
+	
+	</div>
+	
+	
+	
+	
+		
+			<p>Florida Gov. Jeb Bush and five former governors will speak at a daylong Lou Frey Institute of Politics and Government symposium Monday, March 27, at the <place /><placetype />University</placetype /> of <placename />Central Florida</placename /></place />. </p><p>A Day With Floridas Governors will feature former governors Claude Kirk, Reubin Askew, Bob Graham, Bob Martinez and Buddy MacKay. They are scheduled to attend the symposium and participate on an evening panel that begins at <time minute="0" hour="19" />7 p.m.</time /> They also will speak at sessions throughout the day that will focus on each of their tenures as governor. </p><p>Bush will give the morning keynote address at <time minute="30" hour="9" />9:30 a.m.</time /> about his two terms as the states 43rd governor, which began in 1999 and will conclude in January.<span>  </span></p><p><span></span>The symposium is free and open to the public. It will be held in the Pegasus Ballroom of the UCF Student <place />Union</place />. </p><p>To our knowledge, this is one of the few times that all of the governors of <state /><place />Florida</place /></state /> have appeared together, said Lou Frey, founder of the Lou Frey Institute and a Republican congressman who represented <place />Central Florida</place /> from 1969 to 1979. It is a historic event and will be interesting, informative and entertaining. </p><p>The Lou Frey Institute of Politics and Government, which was founded in 2002, is a nonpartisan organization that promotes civic education for students and other <place />Central Florida</place /> residents. Go to <a href="http://www.loufrey.org/">www.loufrey.org </a>for more information.</p><p>Biographies of the participating governors and a full symposium schedule are included below.</p><p><b>Biographies of participating governors:</b></p><p>-- John Ellis Jeb Bush became the first Republican governor in <state /><place />Florida</place /></state />s history to win a second term when voters re-elected him in 2002. During his seven years in office, he has worked to improve education through increased standards and accountability and has reduced taxes while boosting the states reserves. He has increased health insurance coverage for children, committed state resources to preserving the <place />Everglades</place /> and held monthly office hours around the state so that citizens can meet with him. </p><p>-- Kenneth Buddy MacKay Jr. served seven years as lieutenant governor in Lawton Chiles administration and then became governor for three weeks after <country-region /><place />Chiles</place /></country-region /> died in 1998. An Air Force veteran, MacKay was a state legislator and served three terms in Congress before he joined <country-region /><place />Chiles</place /></country-region /> campaign. <country-region /><place />Chiles</place /></country-region /> and MacKay helped to establish <place /><city />Enterprise</city /> <state />Florida</state /></place /> to improve economic development and tourism and worked to make state government more efficient. They also strengthened prenatal and child-care services and won an $11.3 billion settlement for the state from the tobacco industry. </p><p>-- Robert Bob Martinez became the first Hispanic governor in any <country-region /><place />U.S.</place /></country-region /> state when he took office in 1987. He was the mayor of <city /><place />Tampa</place /></city /> before he ran for governor in 1986. <city /><place />Martinez</place /></city /> is known for improving the protection of wilderness areas and bodies of water such as <place />Lake Okeechobee</place />, <place /><placename />Tampa</placename /> <placetype />Bay</placetype /></place /> and the <place />St. Johns River</place />. He also strengthened the states drug enforcement programs. </p><p>-- Robert Bob Graham served as <state /><place />Florida</place /></state />s governor from 1979 to 1986 before moving on to the U.S. Senate in 1986. Prior to his tenure as governor, Graham served in the state House of Representatives and Senate for 12 years. Graham is known for supporting many environmental programs, as he signed laws that allowed the state to purchase and protect river floodplains, beaches, barrier islands and wetlands. He also encouraged the federal government to take a stronger role in thwarting illegal drug smuggling in <state /><place />Florida</place /></state />. </p><p>-- Reubin Askew was a state representative and senator before he served as governor from 1971 to 1979. He supported tax reform and racial justice and also led an effort to require candidates and public officials to disclose their finances. He named the first African-American Supreme Court justice in <state /><place />Florida</place /></state /> and appointed the first woman to the Florida Cabinet. A former Army paratrooper and Air Force second lieutenant, he is a professor of state government, public administration and public policy at <place /><placename />Florida</placename /> <placetype />State</placetype /> <placetype />University</placetype /></place />. </p><p>-- Claude Kirk Jr. became <state /><place />Florida</place /></state />s first Republican governor in nearly 100 years when he took office in 1967. A Marine who served in World War II and the Korean War, Kirk led the state at a time when a new constitution was approved and the office of the lieutenant governor was re-established. The Apollo 11 moon mission, which included Neil Armstrongs famous walk, also occurred during Kirks tenure as governor. </p><p /><p><b>Symposium schedule:</b></p><p>9:30-10:20 a.m.</time /> -- Governing <state /><place />Florida</place /></state /> Today: The Bush-Brogan/Jennings Years. Keynote Speaker: Gov. Jeb Bush.</p><p>10:30-11:20 a.m.</time /> -- Governing <state /><place />Florida</place /></state />: The Graham-Mixson Years. Features Gov. Bob Graham; Dick Batchelor, president of DBMG and former state representative; and Jim Pugh, president of Epoch Properties. </p><p>11:30 a.m.-12:20 p.m.</time /> -- Governing <state /><place />Florida</place /></state />: The Chiles-MacKay Years. Features Gov. Buddy MacKay; U.S. Rep. Ric Keller, R-Orlando; and Mike Griffin, deputy editor of the Orlando Sentinel editorial pages and a former political reporter. </p><p>1:30-2:20 p.m.</time /> -- Governing <state /><place />Florida</place /></state />: The Askew-Adams/Williams Years. Features Gov. Reubin Askew, Richard Swann of the Swann &amp; Hadley law firm; and Martin Dyckman, retired associate editor of the St. Petersburg Times.</p><p>2:30-3:20 p.m.</time /> -- Governing <state /><place />Florida</place /></state />: The Martinez-Brantley Years and Graham-Mixson Years. Features Gov. Bob Martinez via videotape; Tim Nickens, deputy editor, St. Petersburg Times; and Pat Duggins, news director for WMFE. </p><p>3:30-4:20 p.m.</time /> -- Governing <state /><place />Florida</place /></state />: The Kirk-Osborne Years. Features Gov. Claude Kirk; Edmund Kallina, chair of the UCF History Department; and former congressman Lou Frey. </p><p>7-8:15 p.m.</time /> -- An Evening with the <state /><place />Florida</place /></state /> Governors. Features Governors Kirk, Askew, Graham, <city /><place />Martinez</place /></city /> and MacKay, moderator Reagan Smith of Clear Channel Communications and concluding remarks by Frey and Roy Lassiter, chairman of the Lou Frey Institute of Politics and Government. </p>
+		
+	
+	<p id="back"><a href="index?page=news">&lt; Back to the Newsroom</a></p>
+
+</div>
+
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+
+		</div> 
+	</body>
+</html>
+

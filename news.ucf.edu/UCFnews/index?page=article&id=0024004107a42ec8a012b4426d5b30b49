@@ -1,0 +1,651 @@
+
+
+
+
+
+
+
+
+
+	
+	
+										
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/article.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=article&amp;id=0024004107a42ec8a012b4426d5b30b49" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+		
+		
+		<a class='rss' href="http://news.ucf.edu/UCFnews/ucfreport/rss_mainnewsinfo.jsp" title="Subscribe using any feed reader!">
+			RSS Feed
+		</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.med.ucf.edu/">College of Medicine</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.today.ucf.edu">UCF Today</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.tv">UCF TV</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 89&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+<div id="main_content">
+	<h2>Charles N. Millican, the 'Father of UCF,' Dies at Age 94 (Video)</h2>
+	
+	<p class="article_info">
+		
+			By UCF Staff
+		
+		<span class="date">Dec. 1, 2010</span></p>
+	
+	
+	
+		<div class="article_img" style="width: 345px;">
+
+			<img alt="Article Main Picture" src="http://news.ucf.edu/resources/sites/UCF/content/live/NEWS/2000/NE2353/en_US/millican three-2.jpg" height="226" width="345"  /> 
+			
+			<p>Charles Millican served as UCF's president from 1965 to 1978.</p>
+			
+				<p class="note"><a class="full_photo" id="popup.jsp?article_id=0024004107a42ec8a012b4426d5b30b49">Full Photo</a></p>
+			
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			
+					
+						
+						
+							
+								<h3>Story Images</h3>
+								<ul id="story_images">
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=0024004107a42ec8a012b4426d5b30b49&amp;img_mode=2&amp;index=0">
+							<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/2000/NE2353/en_US/millican2thumb.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=0024004107a42ec8a012b4426d5b30b49&amp;img_mode=2&amp;index=1">
+							<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/2000/NE2353/en_US/millican3thumb.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=0024004107a42ec8a012b4426d5b30b49&amp;img_mode=2&amp;index=2">
+							<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/2000/NE2353/en_US/millican4thumb.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=0024004107a42ec8a012b4426d5b30b49&amp;img_mode=2&amp;index=3">
+							<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/2000/NE2353/en_US/millican5thumb.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=0024004107a42ec8a012b4426d5b30b49&amp;img_mode=2&amp;index=4">
+							<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/2000/NE2353/en_US/millican6thumb.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=0024004107a42ec8a012b4426d5b30b49&amp;img_mode=2&amp;index=5">
+							<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/2000/NE2353/en_US/millican7thumb.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=0024004107a42ec8a012b4426d5b30b49&amp;img_mode=2&amp;index=6">
+							<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/2000/NE2353/en_US/millican8thumb.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=0024004107a42ec8a012b4426d5b30b49&amp;img_mode=2&amp;index=7">
+							<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/2000/NE2353/en_US/millicanthumb.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+			
+			</ul><p  class="note">Click thumbnails for full-size images.</p>
+		</div>
+	
+	
+	
+	
+	
+	
+	
+		
+			<div id="related">
+				<h3>Related Contacts and Links:</h3>
+				<ul>
+		
+		<li>
+		
+			
+			
+			
+			
+		
+		</li>
+	
+	
+	
+		
+		<li>
+		
+			<h4><a href="http://rememberingcharlie.ucf.edu/">Remembering Charlie website</a></h4>
+		
+		</li>
+	
+	
+	 </ul></div> 
+	
+	
+			
+	
+	
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	<div id="share">
+		<ul><li><p id="print"><a href="javascript:window.print();">Print this Page</a></li></ul>
+	
+	</div>
+	
+	
+	
+	
+		
+			<p><strong><em>Note: A memorial service will be held at 10 a.m. Monday, Dec. 13, in the Pegasus Ballroom of the Student Union. Visit&nbsp; the special <a href="http://rememberingcharlie.ucf.edu">&quot;Remembering Charlie&quot;&nbsp;website</a> to view and post comments in remembrance.&nbsp;Donations in memory of President&nbsp;Millican can be made to&nbsp;<span lang="EN">the <a href="https://giving.ucffoundation.org/millicanmemorial">UCF Women's Club First Ladies' Graduate Scholarship Fund</a>. </span></em></strong></p>
+<p>The founding president of the University of Central Florida, who likened the challenge of building what would become the nation&rsquo;s second-largest university to climbing Mt. Everest, died Wednesday, Dec. 1, at his Central Florida home. He was 94.</p>
+<p>Charles N. Millican, considered the father of UCF, was chosen by the Florida Legislature in 1965 to help plan and build what was then called Florida Technological University.&nbsp; He had a budget of $75,000, an office above a drugstore in downtown Orlando and marching orders to make it happen.</p>
+<p>&ldquo;When I thought about all that needed to be done to open by the fall of &rsquo;68, it scared the living daylights out of me,&rdquo; Millican said in 1998.&nbsp; &ldquo;A half a minute later, I realized I had to take it step-by-step, day-by-day to put all the pieces together.&rdquo;</p>
+<p>&ldquo;It was sort of like having the opportunity to climb Mt. Everest.&rdquo;</p>
+<p>UCF President John Hitt credited Millican for having the foresight to see how much UCF could achieve.&nbsp;</p>
+<object width="380" height="310">
+<param value="http://www.youtube.com/v/zbigXAOSzec?fs=1&amp;hl=en_US" name="movie" />
+<param value="true" name="allowFullScreen" />
+<param value="always" name="allowscriptaccess" /><embed width="380" height="310" allowfullscreen="true" allowscriptaccess="always" type="application/x-shockwave-flash" src="http://www.youtube.com/v/zbigXAOSzec?fs=1&amp;hl=en_US"></embed></object>
+<p>&ldquo;Martha, I and the university have experienced a great loss,&rdquo; Hitt said. &ldquo;Few universities have enjoyed the kind of lifelong passion that Charlie Millican invested in UCF. From my earliest days as president, I have not only enjoyed his friendship but also appreciated his wise and generous counsel. <br />
+&nbsp;<br />
+&ldquo;His constant support and sage advice have inspired us all as we strive to build the great university he envisioned.&rdquo;</p>
+<p>&ldquo;Charlie Millican was a genuinely decent man with a big vision,&rdquo; added Rick Walsh, chair of the UCF Board of Trustees. &ldquo;My goodness -- look what he started. He was an educator, minister, leader and my friend for nearly 40 years. We will miss him terribly but celebrate a life well lived.&rdquo;</p>
+<p><strong>A special vision </strong></p>
+<p>Upon accepting the task of opening FTU, Millican worked magic, turning 1,227 acres of scrub and bushes in East Orlando into a university to train future aerospace engineers and computer programmers. He was the inspiration behind UCF&rsquo;s bachelor&rsquo;s degree in computer science, which was a first in the state at the time. It was visionary, just like the design of the campus that Millican championed.</p>
+<p>Millican, a former dean of business at the University of South Florida, set up the campus as a series of concentric circles, a design that allows visitors to walk to any part of the core campus in no more than seven minutes and helps keep traffic flowing.</p>
+<p>Because the university that finally opened to 1,948 students in 1968 offered 35 degree programs in five colleges -- not just aerospace engineering and computer science as first envisioned -- the name of the school was later changed to the University of Central Florida.</p>
+<p>Today, more than 56,000 students attend 12 colleges at UCF.</p>
+<p>&ldquo;He laid the foundation for the university,&rdquo; said Mildred Kennedy, Millican&rsquo;s longtime administrative assistant. &ldquo;Everything we did set precedent for what happened later. He did a lot for the community.&rdquo;</p>
+<p>And all he did, he did with a style true to southern gentlemen, Kennedy added.</p>
+<p>Those who knew Millican say he loved education and wanted to make sure he knew what students were going through. That&rsquo;s why he created UCF&rsquo;s tradition of holding several commencement ceremonies each year so all students could have their names read aloud and the opportunity to cross the stage.</p>
+<p>&ldquo;He handed me my degree and then he became not only a role model but a father to me,&rdquo; said Roger Pynn, a UCF graduate and Distinguished Alumnus Award winner who is president of the Curley &amp; Pynn public relations firm.</p>
+<p>&ldquo;Charles Millican had as great an impact on Central Florida as did Walt Disney. The university he founded has become the economic and intellectual engine of our region, and hundreds of thousands have achieved not only an education but great opportunity because of what he did. His was truly a life well-lived ... true to his faith, loyal and loving as a husband and successful at every endeavor.&rdquo;</p>
+<p><strong>&ldquo;He never really retired&rdquo;</strong></p>
+<p>Millican left the president&rsquo;s office in 1978, returning to his first love of teaching. He taught in the College of Business until 1981. Until suffering a major heart attack in 2001, Millican was an active president emeritus and special assistant to the president of UCF.</p>
+<p>Not one to let a heart attack stop him from pursuing his dreams, Millican devoted himself to helping to advance the work of philanthropy at UCF and kept an office at the UCF Foundation, where he advised on special projects.&nbsp;</p>
+<p>&ldquo;Dr. Millican never really retired,&rdquo; said UCF Foundation President Bob Holmes.&nbsp; &ldquo;He may have had a reduced schedule, but he has always continued to help us with fundraising and investment insights as an active member of the Foundation Investment Committee. He was never without a penetrating question for the investment consultant. His legacy is amazing.&rdquo;&nbsp;</p>
+<p>Born in Wilson, Ark., on Oct. 9, 1916, Millican was a Southern Baptist minister. He was married to his wife, Frances, for 64 years before she died in December 2009.&nbsp;</p>
+<p>He earned his bachelor&rsquo;s degree in business administration in 1941 from Union University in Jackson, Tenn. He attended Southern Baptist Theological Seminary, and he then earned a master&rsquo;s degree in economics from George Peabody College in 1946. In 1954, he earned his doctoral degree in business finance, economics, public finance and accounting from the University of Florida.</p>
+<p>Millican&rsquo;s career included pastorates at a dozen churches from Tennessee to Mississippi to Florida.&nbsp; Upon completing his doctorate at the University of Florida, he joined the faculty there and eventually became assistant dean of the College of Business Administration.&nbsp; He then became a professor and dean of the School of Business Administration at Hardin-Simmons University in Abilene, Texas, before returning to Florida to become the founding dean of the College of Business Administration at the University of South Florida.</p>
+<p>Following his retirement from FTU, he took a job as president of Lake Highland Prep School in Orlando, and he also served on numerous boards of directors and consulted with a variety of companies. But he never forgot a first job collecting for delinquent want ads for the Memphis Press-Scimitar, where he worked on commission and collected his first paycheck of $1.43.</p>
+<p>Among a long list of honors bestowed upon Dr. Millican were the Distinguished Alumnus awards of both Union University and the University of Florida and honorary degrees from Rollins College and UCF, where the administration building is named Millican Hall in his honor.</p>
+<p>In April 2010, Millican received the John Young History Maker Award presented by the Historical Society of Central Florida, Walt Disney World and Central Florida News 13 to Central Floridians whose lifetimes of achievement have made historic impacts on the community.</p>
+<p>Today, visitors approaching Millican Hall pass a statue of the founding president erected in 2009, paid for by alumni and other donors who named it &ldquo;Reach for the Stars&rdquo; to commemorate the motto Charles Millican selected for the university.</p>
+<p>&ldquo;Charlie dreamed, but he also worked -- worked very hard -- and he molded his dreams into reality,&rdquo; Hitt said during the dedication ceremony for the statue. &ldquo;We follow in the footsteps of a humble man of strong faith, a private man who has created a lasting legacy, and a public servant whose wisdom and counsel continue to benefit us all.&rdquo;<br />
+&nbsp;</p>
+<p>&nbsp;</p>
+		
+	
+	<p id="back"><a href="index?page=news">&lt; Back to the Newsroom</a></p>
+
+</div>
+
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+
+		</div> 
+	</body>
+</html>
+

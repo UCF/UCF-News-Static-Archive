@@ -1,0 +1,563 @@
+
+
+
+
+
+
+
+
+
+	
+	
+										
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/article.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=article&amp;id=0024004166289428012d2d936d57007e0b" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+		
+		
+		<a class='rss' href="http://news.ucf.edu/UCFnews/ucfreport/rss_mainnewsinfo.jsp" title="Subscribe using any feed reader!">
+			RSS Feed
+		</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.med.ucf.edu/">College of Medicine</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.today.ucf.edu">UCF Today</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.tv">UCF TV</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 89&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+<div id="main_content">
+	<h2>Liberty Bowl: Jah Reid Thankful for UCF Career</h2>
+	
+	<p class="article_info">
+		
+			By John Denton
+		
+		<span class="date">Dec. 29, 2010</span></p>
+	
+	
+	
+		<div class="article_img" style="width: 226px;">
+
+			<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/2000/NE2374/en_US/reidfull.jpg" height="345" width="226"  /> 
+			
+				<p class="photo_credit">Photo: UCF Athletics</p>
+			
+			<p>Jah Reid and his teammates are seeking UCF's first bowl victory Friday against Georgia.</p>
+			
+				<p class="note"><a class="full_photo" id="popup.jsp?article_id=0024004166289428012d2d936d57007e0b">Full Photo</a></p>
+			
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			
+		</div>
+	
+	
+	
+	
+	
+	
+	
+		
+			<div id="related">
+				<h3>Related Contacts and Links:</h3>
+				<ul>
+		
+		<li>
+		
+			
+				<h4><a href="mailto:ltorbin@athletics.ucf.edu">Leigh Torbin, UCF Athletics</a></h4>
+			
+			
+			
+			
+		
+		</li>
+	
+	
+	
+		
+		<li>
+		
+			<h4><a href="http://www.ucfathletics.com">UCF Athletics</a></h4>
+		
+		</li>
+	
+	
+	 </ul></div> 
+	
+	
+			
+	
+	
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	<div id="share">
+		<ul><li><p id="print"><a href="javascript:window.print();">Print this Page</a></li></ul>
+	
+		<h3>Share this story:</h3>
+		<ul>
+			
+			
+			<li>
+				
+				<script>reddit_url= encodeURIComponent(window.location.href); reddit_title='Liberty Bowl: Jah Reid Thankful for UCF Career';</script>
+				<script type="text/javascript" src="http://www.reddit.com/button.js?t=1"></script>
+				
+			</li>
+			
+			
+			<li>
+				<script>function fbs_click() {u=location.href;t=document.title;window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');return false;}</script><style> html .fb_share_link { padding:2px 0 0 20px; height:16px; background:url(http://static.ak.fbcdn.net/images/share/facebook_share_icon.gif?0:26981) no-repeat top left; }</style><a href="http://www.facebook.com/share.php?u=<url>" onclick="return fbs_click()" target="_blank" class="fb_share_link">Share on Facebook</a>
+			</li>
+			
+			
+			<li>
+				<img src="img/delicious.small.gif" alt="submit story to delicious" /><a href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&noui&jump=close&url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=700,height=400'); return false;"> Save This Page</a>
+			</li>
+			
+			
+			
+			<li>
+				<a href="javascript:void(0)" onclick="window.open('http://www.newsvine.com/_wine/save?popoff=1&u=' + encodeURIComponent(window.location.href),'newsvine','toolbar=no,width=590,height=600,resizable=yes,scrollbars=yes')"><img src="http://www.newsvine.com/_vine/images/identity/button_seednewsvine.gif" alt="" border="0" width="16" height="16" />Seed Newsvine</a>
+			</li>
+			
+		</ul>
+	
+	</div>
+	
+	
+	
+	
+		
+			<p><strong><em>UCF and Georgia will kick off the AutoZone Liberty Bowl at 3:30 p.m. Friday, Dec. 31. Go to </em></strong><a href="http://www.UCFAthletics.com"><strong><em>www.UCFAthletics.com</em></strong></a><strong><em>&nbsp;for complete coverage of the Knights in Memphis.</em></strong></p>
+<p>For UCF standout right tackle Jah Reid, the final college game of his career is loaded with mixed feelings. On the one hand, UCF was a place where he transformed his life and his football career and he doesn't want the ride to end. But on the other end, he's excited about a future that will likely lead him to the NFL.</p>
+<p>Quite possibly no player at UCF has come as far as Reid, who arrived on campus five years at approximately 370 pounds and a project in the truest sense of the word. Now, after Friday's AutoZone Liberty Bowl against the Georgia Bulldogs, Reid will leave UCF as a two-time All-Conference performer and a strong candidate to play on Sundays this time next year.</p>
+<p>&quot;This last part of the season I'm almost feeling depressed and it's sad because I don't want to leave here,'' Reid said. &quot;But all good things have to come to an end at some point. I just want to end it on a high note with our first bowl victory.''</p>
+<p>When UCF (10-3) faces Georgia (6-6) in Friday's Liberty Bowl, the motivation will be there on plenty of levels of the Knights. UCF wants to gain bragging rights against a team from the Southeastern Conference and Georgia is a fertile recruiting area for the Knights what with 17 players already on the roster from there.</p>
+<p>But first and foremost of importance for the Knights is capturing the school's first-ever bowl win. This is the Knights' fourth bowl appearance -- all during Reid's stay at the school -- and UCF's senior class is intent on using this game to further the legacy at the school. The Knights have been ranked for the first time ever and won two Conference USA titles, and winning a bowl game would be a landmark achievement for the football program.</p>
+<p>&quot;It's the last game here, so we want this first bowl win so bad,'' said Reid, a native of Haines City. &quot;Last year (in the St. Pete Bowl) didn't end the way that we wanted it to, so we want to make up for that. And just winning the school's first bowl game and making history here would be so great for all of us. I couldn't ask for anything more out of my career than winning this bowl game.''</p>
+<p>Reid considers himself to be fortunate to be in the position that he is in now being that UCF came to him with his only scholarship offer out of high school. It was a leap of faith on the part of UCF's coaching staff, knowing full well that the promising 6-foot-7 tackle needed lots of work on trimming his body and improving his conditioning.</p>
+<p>But signing Reid proved to be a stroke of genius. He's made 40 career starts, including 32 in a row dating back to 2008. Teaming with best friends Nick Pieschel (right guard) and Adam Nissley (tight end), the trio has given UCF a dominant right side of the line for tailbacks Latavius Murray and Ronnie Weaver to run behind.</p>
+<p>Even those at UCF who have pushed Reid along the way over the past five years marvel at the amazing progress and growth he has made.</p>
+<p>&quot;Kind of overweight? He's lost a good 40 pounds. Obviously his body fat has gone down to like 18 percent, which is outstanding for a 330-pound, 6-7 guy,'' UCF head coach George O'Leary said. &quot;He's done outstanding here and has had a great career here. I'd like to see him end it up on a high note here against some great competition so that he'll have a judging point for where he is as far as the future is concerned.''</p>
+<p>As for the future, Reid's prototypical size makes him a candidate for the NFL, where he'll likely be a mid-round draft choice in the spring. Reid worked to become a more physical player the past two seasons and has learned to use his massive wing span to his advantage to deliver blows. That toughness and physicality has endeared him to NFL scouts and could make Reid's dream of playing pro football a reality.</p>
+<p>&quot;I've tried to stay focused on the season, especially this last game because it's such a big game, but getting to the NFL is my dream,'' he said. &quot;It's something that I really want and I think I can do it, so I'm going to go after it.''</p>
+<p>But before he turns his focus toward the NFL Reid wants to do everything in his power to help the Knights take down Georgia in the Liberty Bowl. The Bulldogs' size and speed should be a challenge and Reid said the Knights want to avoid a repeat of last December when Rutgers dominated UCF's offensive line.</p>
+<p>Reid said that going out with a bowl victory against a traditional powerhouse SEC team would cap what he considers to have been a storybook career with the Knights. He wants to help out those who helped him so much over the past five years.</p>
+<p>&quot;UCF was the only school to offer me anything and I'm so lucky that they gave me a chance. They allowed me to develop as a player with great coaches around me,'' Reid said. &quot;There's such a great staff and facilities here at UCF and the program has come so far since I've been here. Winning a bowl game would be another huge step for the program, and I'm looking at this as my last chance to help the school out.''</p>
+<hr />
+<p><strong>UCF Stands For Opportunity</strong>: The University of Central Florida is a metropolitan research university that ranks as the 2nd largest in the nation with more than 56,000 students. UCF&rsquo;s first classes were offered in 1968. The university offers impressive academic and research environments that power the region&rsquo;s economic development. UCF's culture of opportunity is driven by our diversity, Orlando environment, history of entrepreneurship and our youth, relevance and energy. For more information, visit <a href="index.html">http://news.ucf.edu</a>.</p>
+		
+	
+	<p id="back"><a href="index?page=news">&lt; Back to the Newsroom</a></p>
+
+</div>
+
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+
+		</div> 
+	</body>
+</html>
+

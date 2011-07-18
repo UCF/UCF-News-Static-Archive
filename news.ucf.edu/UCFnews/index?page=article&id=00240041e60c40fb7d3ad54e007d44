@@ -1,0 +1,643 @@
+
+
+
+
+
+
+
+
+
+	
+	
+										
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/article.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=article&amp;id=00240041e60c40fb7d3ad54e007d44" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+		
+		
+		<a class='rss' href="http://news.ucf.edu/UCFnews/ucfreport/rss_mainnewsinfo.jsp" title="Subscribe using any feed reader!">
+			RSS Feed
+		</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.med.ucf.edu/">College of Medicine</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.today.ucf.edu">UCF Today</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.tv">UCF TV</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 88&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+<div id="main_content">
+	<h2>Anthropology Professor Wins Top Undergraduate Teaching Award</h2>
+	
+	<p class="article_info">
+		
+			By Chad Binette
+		
+		<span class="date">April 7, 2004</span></p>
+	
+	
+	
+		<div class="article_img" style="width: px;">
+
+			<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE172/en_US/040407research1.jpg" height="" width=""  /> 
+			
+				<p class="photo_credit">Photo: Jerry Klein</p>
+			
+			<p>Students benefit from unique teaching methods.</p>
+			
+				<p class="note"><a class="full_photo" id="popup.jsp?article_id=00240041e60c40fb7d3ad54e007d44">Full Photo</a></p>
+			
+			
+			
+			
+					
+						
+						
+							
+								<h3>Story Images</h3>
+								<ul id="story_images">
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=00240041e60c40fb7d3ad54e007d44&amp;img_mode=1&amp;index=0">
+							<img width="100" alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE172/en_US/040407research2.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=00240041e60c40fb7d3ad54e007d44&amp;img_mode=1&amp;index=1">
+							<img width="100" alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE172/en_US/040407research3.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=00240041e60c40fb7d3ad54e007d44&amp;img_mode=1&amp;index=2">
+							<img width="100" alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE172/en_US/040407research4.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=00240041e60c40fb7d3ad54e007d44&amp;img_mode=1&amp;index=3">
+							<img width="100" alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE172/en_US/040407research5.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=00240041e60c40fb7d3ad54e007d44&amp;img_mode=1&amp;index=4">
+							<img width="100" alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE172/en_US/040407research6.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=00240041e60c40fb7d3ad54e007d44&amp;img_mode=1&amp;index=5">
+							<img width="100" alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE172/en_US/040407research7.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=00240041e60c40fb7d3ad54e007d44&amp;img_mode=1&amp;index=6">
+							<img width="100" alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE172/en_US/040407research8.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+						
+					
+			
+			
+			
+			
+			</ul><p  class="note">Click thumbnails for full-size images.</p>
+		</div>
+	
+	
+	
+	
+	
+	
+	
+		
+			<div id="related">
+				<h3>Related Contacts and Links:</h3>
+				<ul>
+		
+		<li>
+		
+			
+				<h4><a href="mailto:cbinette@mail.ucf.edu">Chad Binette</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-823-6312</li>
+			
+			</ul>
+		
+		</li>
+	
+	
+	
+		
+		<li>
+		
+			<h4><a href="http://news.ucf.edu/UCFnews/index?page=newsdetail&doc=00240041e60c40fb7d3ad54e007d41">FOUNDERS' DAY: Henry Daniell Wins Pegasus Professor Award</a></h4>
+		
+		</li>
+	
+		
+		<li>
+		
+			<h4><a href="http://news.ucf.edu/UCFnews/index?page=newsdetail&doc=00240041e60c40fb7d3ad54e007d7b">Ten Faculty Members Granted Emeritus Status</a></h4>
+		
+		</li>
+	
+	
+	 </ul></div> 
+	
+	
+			
+	
+	
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	<div id="share">
+		<ul><li><p id="print"><a href="javascript:window.print();">Print this Page</a></li></ul>
+	
+	</div>
+	
+	
+	
+	
+		
+			<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3">Tosha Dupras buries pig and plastic bones on campus to help her forensic anthropology students learn how to excavate human remains. Using what theyve learned in class, her students then decide where to excavate and how to find the bones while preserving them as much as possible.</font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3"> </font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3"></font></span></p>
+		
+	
+		
+			<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3"> </font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3">Creative teaching methods like the annual pig dig helped Dupras, an assistant professor in the Department of Sociology and Anthropology, win the Excellence in Undergraduate Teaching Award, one of several honors announced Wednesday during Founders Day festivities.</font></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3">Other winners of top awards included Donald Malocha, an electrical engineering professor who was selected as the Distinguished Researcher of the Year, and Keith Folse, a professor in the Department of Foreign Languages and Literature who received the University Award for Excellence in Graduate Teaching.</font></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3">Henry Daniell, a professor of molecular biology, was named the 2004 Pegasus Professor, which honors faculty members for excellence in teaching, research and service.</font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3"> </font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p>
+		
+	
+		
+			<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3"> </font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3">A physical anthropologist who specializes in forensics, Dupras joined the UCF faculty in 1999. Since then, her teaching style has helped to attract more anthropology majors, and her courses popularity encouraged her department to hire a second forensic anthropologist this year, department chairman Jay Corzine wrote in his nomination letter for the teaching award.</font></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3">Dr. Dupras  structures her courses so that all students will receive meaningful experiences in developing skills that will be useful in their later lives, regardless of their career paths, Corzine wrote. These include writing, oral presentations and computer expertise. She constantly strives to have a positive impact on each of her students lives, and she enjoys great success in doing so.</font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"> </span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"></span> </font></p>
+		
+	
+		
+			<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3"> </font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3">Folse administers the masters degree program in Teaching English to Students in Other Languages. He created new graduate certificate programs in Teaching English as a Foreign Language and in English for Speakers of Other Languages.</font></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3">His students have said that he makes learning delightful and forces us to do a lot of thinking.</font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3"> </font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p>
+		
+	
+		
+			<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3"> </font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3">Malocha plays a leading role in UCFs efforts to create and improve devices that can store energy or launch waves when electricity is applied to them. This technology already is used in filters in television sets and mobile telephones, and it eventually could be used in sensors to better monitor the temperature of the space shuttles in flight, detect gases that are harmful to humans and improve radar systems on military helicopters.</font></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial">Malocha, who has taught at UCF since 1982, works in the </span><place /><placetype /><span style="FONT-FAMILY: Arial">College</span></placetype /><span style="FONT-FAMILY: Arial"> of </span><placename /><span style="FONT-FAMILY: Arial">Engineering</span></placename /></place /><span style="FONT-FAMILY: Arial"> and Computer Science and the Advanced Materials Processing and </span><place /><placename /><span style="FONT-FAMILY: Arial">Analysis</span></placename /><span style="FONT-FAMILY: Arial"> </span><placetype /><span style="FONT-FAMILY: Arial">Center</span></placetype /></place /><span style="FONT-FAMILY: Arial">. He won the Florida Governors Award for Outstanding Contribution to Science and Technology in 1989 and is a fellow of the </span><place /><placetype /><span style="FONT-FAMILY: Arial">Institute</span></placetype /><span style="FONT-FAMILY: Arial"> of </span><placename /><span style="FONT-FAMILY: Arial">Electrical</span></placename /></place /><span style="FONT-FAMILY: Arial"> and Electronics Engineers.</span></font></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3">Professor Malochas ongoing development of entirely new concepts and acoustic structures for communications are representative of the best in quality in the world, wrote Arthur Ballato, the chief scientist of the U.S. Armys Communications-Electronics Command in a nomination letter for the Distinguished Researcher Award.</font></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial">Enrique Ortiz, a professor in the </span><place /><placetype /><span style="FONT-FAMILY: Arial">College</span></placetype /><span style="FONT-FAMILY: Arial"> of </span><placename /><span style="FONT-FAMILY: Arial">Education</span></placename /></place /><span style="FONT-FAMILY: Arial">, and Kristina Tollefson of the </span><place /><placetype /><span style="FONT-FAMILY: Arial">College</span></placetype /><span style="FONT-FAMILY: Arial"> of </span><placename /><span style="FONT-FAMILY: Arial">Arts</span></placename /></place /><span style="FONT-FAMILY: Arial"> and Sciences received the University Awards for Excellence in Faculty Academic Advising. </span><place /><placename /><span style="FONT-FAMILY: Arial">Melissa</span></placename /><span style="FONT-FAMILY: Arial"> </span><placename /><span style="FONT-FAMILY: Arial">Dagley</span></placename /><span style="FONT-FAMILY: Arial"> </span><placetype /><span style="FONT-FAMILY: Arial">Falls</span></placetype /></place /><span style="FONT-FAMILY: Arial"> of the </span><place /><placetype /><span style="FONT-FAMILY: Arial">College</span></placetype /><span style="FONT-FAMILY: Arial"> of </span><placename /><span style="FONT-FAMILY: Arial">Engineering</span></placename /></place /><span style="FONT-FAMILY: Arial"> and Computer Science received the University Award for Excellence in Professional Academic Advising.</span></font></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3">Current and past winners of the awards recognizing excellence in teaching, research and advising will be honored on a new wall constructed in the library. Plaques for each of the awards will be displayed under the heading Celebrating Excellence.</font></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial">A ceremony honoring those winners will be held at </span><time hour="14" minute="0" /><span style="FONT-FAMILY: Arial">2 p.m.</span></time /><span style="FONT-FAMILY: Arial"> April 19 on the first floor of the library.</span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"> </span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"></span></font><font size="3"> </font></p>
+		
+	
+		
+			<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3"> </font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3">In addition to Malocha, the nominees this year for the Distinguished Researcher Award were psychology professor Peter Hancock and political science professor Roger Handberg from the College of Arts and Sciences; management information systems professor Carol Saunders from the College of Business Administration; child, family and community sciences professor Gordon Taub from the College of Education; molecular biology and microbiology professor Beverly Rzigalinski from the College of Health and Public Affairs; and scientist Danny Parker of the Florida Solar Energy Center. Parker was nominated as the representative of UCFs institutes and centers.</font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3"> </font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p>
+		
+	
+		
+			<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3"> </font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3">Nominees for the Excellence in Undergraduate Teaching Award included English professors Melody Bowdon, Tison Pugh and Ernest Smith; political science professors Aubrey Jewett and Bruce Wilson; theatre professor Kristina Tollefson; and biology professor Jane Waterman, all from the College of Arts and Sciences; accounting professor Donna Bobek, finance professor Melissa Frye and marketing professor Karl Sooder from the College of Business Administration and Cynthia Hutchinson, a professor of educational studies in the College of Education. </font></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial">The </span><place /><placetype /><span style="FONT-FAMILY: Arial">College</span></placetype /><span style="FONT-FAMILY: Arial"> of </span><placename /><span style="FONT-FAMILY: Arial">Engineering</span></placename /></place /><span style="FONT-FAMILY: Arial"> and Computer Science nominated W. Linwood Jones, a professor of electrical and computer engineering, and Alireza Rahrooh, an engineering technology professor; and the </span><place /><placetype /><span style="FONT-FAMILY: Arial">College</span></placetype /><span style="FONT-FAMILY: Arial"> of </span><placename /><span style="FONT-FAMILY: Arial">Health</span></placename /></place /><span style="FONT-FAMILY: Arial"> and Public Affairs nominated Dorilyn Hitchcock, a professor of molecular biology and microbiology, and Ronnie Korosec, a professor of public administration.</span></font></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3">Excellence in Graduate Teaching Award nominees included Marshall Schminke, a management professor in the College of Business Administration; Larry Holt, an educational studies professor in the College of Education; Jose Sepulveda, an industrial engineering professor in the College of Engineering and Computer Science; and Jannick Roland from the School of Optics.</font></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial">In other awards announced Wednesday, Bruce Wilson from the College of Arts and Sciences and Ahmad Elshennawy from the </span><place /><placetype /><span style="FONT-FAMILY: Arial">College</span></placetype /><span style="FONT-FAMILY: Arial"> of </span><placename /><span style="FONT-FAMILY: Arial">Engineering</span></placename /></place /><span style="FONT-FAMILY: Arial"> and Computer Science won university awards for excellence in professional service. Athena Hoeppner received the Excellence in Librarianship award.</span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"> </span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"></span></font></p>
+		
+	
+		
+			<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3"> </font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"><font size="3">Eight students received Founders Awards for demonstrating outstanding ability and performance in their disciplines. They are Lauren Breeden, Duchesse Rodnez and Courtney Woodling of the College of Arts and Sciences; Susan Guttler of the College of Business Administration; Callie Lee Haynes of the College of Education; Barry Kudrowitz of the College of Engineering and Computer Science; Alexis Lauren Miseyko of the College of Health and Public Affairs; and Michael Fisch of the Rosen School of Hospitality Management.</font></span></p><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span><span style="FONT-FAMILY: Arial"><font size="3">Honors in the Major Awards for Outstanding Thesis Awards were given to three students in two categories. Elayne Reiss won the science, engineering and technology category. Teresa Jackson won first place in the arts, humanities and social sciences category, and Dick Pohlers was the runner up.</font></span></p><p /><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span><span style="FONT-FAMILY: Arial"><font size="3">J. Stephen Lytle, a professor of health professions, and A. Jeanne Miller of educational studies were honored for completing 30 years of service at UCF.</font></span></p><p /><p /><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span><span style="FONT-FAMILY: Arial"><font size="3">Faculty members honored for 20 years of service were Robert Ashley, hospitality management; Glenn Boreman, Center for Research and Education in Optics and Lasers; Priscilla Brain, English; Arlen Chase, sociology and anthropology; Diane Chase, international and interdisciplinary studies; James Cummings and James Dunlop, Florida Solar Energy Center; Vimalkumar Desai, Advanced Materials Processing and Analysis Center; Stephen Goodman, management information systems; Wendell Lawther, public administration; Ram Mohapatra, Gary Richardson and Kuppalapalle Vajravelu, mathematics; Michael Moshell, School of Film and Digital Media; Ali Orooji, School of Computer Science; Meg Scharf and Marilyn Snow, library;<span style="mso-spacerun: yes">  </span>Parveen Wahid, electrical and computer engineering; and Karri Williams-Fjeldhe, teaching and learning principles.</font></span></p><p /><p><span style="FONT-FAMILY: Arial"><font size="3"> </font></span></p>
+		
+	
+	<p id="back"><a href="index?page=news">&lt; Back to the Newsroom</a></p>
+
+</div>
+
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+
+		</div> 
+	</body>
+</html>
+

@@ -1,0 +1,627 @@
+
+
+
+
+
+
+
+
+
+	
+	
+										
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/article.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=article&amp;id=0024004107a42ec8a01289848d7ab005a5b" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+		
+		
+		<a class='rss' href="http://news.ucf.edu/UCFnews/ucfreport/rss_mainnewsinfo.jsp" title="Subscribe using any feed reader!">
+			RSS Feed
+		</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.med.ucf.edu/">College of Medicine</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.today.ucf.edu">UCF Today</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.tv">UCF TV</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 88&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+<div id="main_content">
+	<h2>Miracle Art: What Would You Wish For? (Video)</h2>
+	
+	<p class="article_info">
+		
+			By Christine Dellert
+		
+		<span class="date">June 2, 2010</span></p>
+	
+	
+	
+		<div class="article_img" style="width: 345px;">
+
+			<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/2000/NE2169/en_US/nataliamain.jpg" height="226" width="345"  /> 
+			
+				<p class="photo_credit">Photo: Jacque Brund</p>
+			
+			<p>"Requesting Miracles" looks at how people around the world make wishes through artwork. </p>
+			
+				<p class="note"><a class="full_photo" id="popup.jsp?article_id=0024004107a42ec8a01289848d7ab005a5b">Full Photo</a></p>
+			
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			
+					
+						
+						
+							
+								<h3>Story Images</h3>
+								<ul id="story_images">
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=0024004107a42ec8a01289848d7ab005a5b&amp;img_mode=2&amp;index=0">
+							<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/2000/NE2169/en_US/wide98.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=0024004107a42ec8a01289848d7ab005a5b&amp;img_mode=2&amp;index=1">
+							<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/2000/NE2169/en_US/altar98.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+					
+						
+						
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=0024004107a42ec8a01289848d7ab005a5b&amp;img_mode=2&amp;index=2">
+							<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/2000/NE2169/en_US/pictures98.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+			
+			</ul><p  class="note">Click thumbnails for full-size images.</p>
+		</div>
+	
+	
+	
+	
+	
+	
+	
+		
+			<div id="related">
+				<h3>Related Contacts and Links:</h3>
+				<ul>
+		
+		<li>
+		
+			
+				<h4><a href="mailto:cdellert@mail.ucf.edu">Christine Dellert, News & Information</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-823-2947</li>
+			
+			</ul>
+		
+		</li>
+	
+	
+	
+		
+		<li>
+		
+			<h4><a href="index?page=article&amp;id=0024004107a42ec8a01289848d7ab005a5b"></a></h4>
+		
+		</li>
+	
+	
+	 </ul></div> 
+	
+	
+			
+	
+	
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	<div id="share">
+		<ul><li><p id="print"><a href="javascript:window.print();">Print this Page</a></li></ul>
+	
+		<h3>Share this story:</h3>
+		<ul>
+			
+			<li>
+				<script type="text/javascript">
+					digg_skin = 'compact';
+				</script>
+				<script src="http://widgets.digg.com/diggthis.js" type="text/javascript"></script> 
+			</li>
+			
+			
+			<li>
+				
+				<script>reddit_url= encodeURIComponent(window.location.href); reddit_title='Miracle Art: What Would You Wish For? (Video)';</script>
+				<script type="text/javascript" src="http://www.reddit.com/button.js?t=1"></script>
+				
+			</li>
+			
+			
+			<li>
+				<script>function fbs_click() {u=location.href;t=document.title;window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');return false;}</script><style> html .fb_share_link { padding:2px 0 0 20px; height:16px; background:url(http://static.ak.fbcdn.net/images/share/facebook_share_icon.gif?0:26981) no-repeat top left; }</style><a href="http://www.facebook.com/share.php?u=<url>" onclick="return fbs_click()" target="_blank" class="fb_share_link">Share on Facebook</a>
+			</li>
+			
+			
+			<li>
+				<img src="img/delicious.small.gif" alt="submit story to delicious" /><a href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&noui&jump=close&url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=700,height=400'); return false;"> Save This Page</a>
+			</li>
+			
+			
+			<li>
+				<a href="http://www.stumbleupon.com/submit" onclick="window.open('http://www.stumbleupon.com/submit?url=' + encodeURIComponent(window.location.href) + '%2Farticle.php%26title%3DMiracle Art: What Would You Wish For? (Video)"> <img border=0 src="http://cdn.stumble-upon.com/images/120x20_su_white.gif" alt="Stumble It!"> </a>
+			</li>
+			
+			
+			<li>
+				<a href="javascript:void(0)" onclick="window.open('http://www.newsvine.com/_wine/save?popoff=1&u=' + encodeURIComponent(window.location.href),'newsvine','toolbar=no,width=590,height=600,resizable=yes,scrollbars=yes')"><img src="http://www.newsvine.com/_vine/images/identity/button_seednewsvine.gif" alt="" border="0" width="16" height="16" />Seed Newsvine</a>
+			</li>
+			
+		</ul>
+	
+	</div>
+	
+	
+	
+	
+		
+			<p><em>Editor's note:&nbsp;Watch a video about the exhibit on </em><a href="http://www.youtube.com/watch?v=1PSh0vEiqKs"><em>UCF's YouTube Channel</em></a><em>.</em></p>
+<p>Wooden hands, feet and legs dangle from the ceiling of Creald&eacute;&rsquo;s Winter Park art gallery. Below lay heads and more appendages &ndash; each representing a wish or a show of thanks. <br />
+<br />
+In Brazil, such objects can be found in Miracle Rooms, spaces in Catholic churches devoted to religious offerings. They&rsquo;re everywhere, says Nat&aacute;lia Marques da Silva, a native of S&atilde;o Paulo and curator of the international exhibit of sacred objects, which runs through Saturday, June 5. <br />
+<br />
+&ldquo;We wanted to create something that would show how people around the world wish for miracles in different ways,&rdquo; said Silva, who graduated last month from UCF with a bachelor&rsquo;s degree in Art History. &ldquo;And we wanted to find a way to get the Central Florida community involved in this practice.&rdquo; <br />
+<br />
+Silva&rsquo;s exhibit, &ldquo;Requesting Miracles: Votive Offerings from Diverse Cultures,&rdquo; does just that. Alongside pieces of silver &ldquo;milagros&rdquo; and Japanese prayer boards are Altoids tins with Monopoly money and glued-on sequins. <br />
+<br />
+Residents at the Coalition for the Homeless of Central Florida made many of the offerings during workshops that Silva and UCF Philosophy Professor Kristin Congdon held earlier this year. <br />
+<br />
+&ldquo;We realized that there are sectors of the population who aren&rsquo;t often asked what they wish for,&rdquo; Silva explains. &ldquo;This is one of those groups that goes through a lot of hardships and could express their concerns in different ways.&quot; <br />
+<br />
+In scrawled marker, homeless men, women and children wrote well-wishes &ldquo;for the people in Haiti,&rdquo; for &ldquo;those suffering addictions,&rdquo; &ldquo;to change my life&rdquo; and &ldquo;to be successful.&rdquo; What&rsquo;s interesting, Congdon and Silva say, is that many people made wishes for others, instead of themselves. <br />
+<br />
+Duane Brittlebank, the coalition&rsquo;s director of Program Services, attended the exhibit&rsquo;s opening in late March with a bus full of residents. <br />
+<br />
+&ldquo;It&rsquo;s very meaningful for them to participate,&rdquo; she said, and it&rsquo;s not often that Central Florida&rsquo;s homeless can take part in or visit an international art exhibition. <br />
+<br />
+For Congdon, the exhibit illuminates the connections between all people. &nbsp;<br />
+<br />
+&ldquo;This entire exhibit is about hope and healing,&rdquo; she says. &ldquo;We can all come together based on that humanness in us. Everybody wishes for miracles, especially in particularly difficult times when we&rsquo;re all hoping for stability and strength in our own communities.&rdquo; <br />
+<br />
+&ldquo;Requesting Miracles&rdquo; displays offerings from Brazil, Mexico, Italy, Japan, Haiti and the United States. Its interactive altar space includes photos, trinkets and other personal effects from Central Floridians who&rsquo;ve left behind their wishes to share with visitors. <br />
+<br />
+The exhibit was made possible with a grant from the Florida Division of Cultural Affairs and support from many local institutions, including UCF&rsquo;s College of Arts and Humanities, the UCF Cultural Heritage Alliance and the UCF Center for Humanities and Digital Research.<br />
+<br />
+Silva&rsquo;s exhibit is also a result of her participation in <a href="http://mcnair.ucf.edu/">UCF&rsquo;s McNair Scholars Program</a> and <a href="http://ramp.ucf.edu/">UCF Research and Mentoring Program</a> (RAMP). In just a few weeks, she will leave Orlando for the University of Florida to pursue a master&rsquo;s degree in Museum Studies.<br />
+<br />
+Catch the last few days of &ldquo;Requesting Miracles&rdquo; in the Alice &amp; William Jenkins Gallery at <a href="http://www.crealde.org">Creald&eacute;&rsquo; School of Art</a>, 600 St. Andrews Blvd. in Winter Park. The gallery is open from 9 a.m. to 4 p.m. Mondays through Thursdays and 9 a.m. to 1 p.m. Fridays and Saturdays. Admission is free.</p>
+<hr />
+<p><strong>UCF&nbsp;Stands for Opportunity:&nbsp;</strong>The University of Central Florida is a metropolitan research university that ranks as the 3rd largest in the nation with more than 53,500 students. UCF's first classes were offered in 1968. The university offers impressive academic and research environments that power the region's economic development. UCF's culture of opportunity is driven by our diversity, Orlando environment, history of entrepreneurship and our youth, relevance and energy. For more information, visit <a href="index.html">http://news.ucf.edu</a>.</p>
+		
+	
+	<p id="back"><a href="index?page=news">&lt; Back to the Newsroom</a></p>
+
+</div>
+
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+
+		</div> 
+	</body>
+</html>
+

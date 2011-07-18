@@ -1,0 +1,550 @@
+
+
+
+
+
+
+
+
+
+	
+	
+										
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/article.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=article&amp;id=002400411a428d50103c2675a02005ede" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+		
+		
+		<a class='rss' href="http://news.ucf.edu/UCFnews/ucfreport/rss_mainnewsinfo.jsp" title="Subscribe using any feed reader!">
+			RSS Feed
+		</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.med.ucf.edu/">College of Medicine</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.today.ucf.edu">UCF Today</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.tv">UCF TV</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 89&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+<div id="main_content">
+	<h2>New UCF Course, Community Lecture Series to Highlight Puerto Rican History</h2>
+	
+	<p class="article_info">
+		
+			By Chad Binette
+		
+		<span class="date">Aug. 31, 2005</span></p>
+	
+	
+	
+		<div class="article_img" style="width: px;">
+
+			<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE569/en_US/luiscrop.jpg" height="" width=""  /> 
+			
+				<p class="photo_credit">Photo: Chad Binette</p>
+			
+			<p>Luis Martinez-Fernandez, director of the Latin American, Caribbean and Latino Studies program, teaches a new class on the history of Puerto Rico.</p>
+			
+				<p class="note"><a class="full_photo" id="popup.jsp?article_id=002400411a428d50103c2675a02005ede">Full Photo</a></p>
+			
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			
+		</div>
+	
+	
+	
+	
+	
+	
+	
+		
+			<div id="related">
+				<h3>Related Contacts and Links:</h3>
+				<ul>
+		
+		<li>
+		
+			
+				<h4><a href="mailto:cmorales@mail.ucf.edu">Carey Morales, Latin Amer., Caribbean and Latino Studies</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-823-1173</li>
+			
+			</ul>
+		
+		</li>
+	
+		
+		<li>
+		
+			
+				<h4><a href="mailto:cbinette@mail.ucf.edu">Chad Binette, UCF News & Information</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-823-6312</li>
+			
+			</ul>
+		
+		</li>
+	
+		
+		<li>
+		
+			
+				<h4><a href="mailto:shanon.larimer@ocfl.net">Shanon Larimer, History Center</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-836-8595</li>
+			
+			</ul>
+		
+		</li>
+	
+	
+	
+		
+		<li>
+		
+			<h4><a href="http://www.cas.ucf.edu/lacls">Latin American, Caribbean and Latino Studies</a></h4>
+		
+		</li>
+	
+	
+	 </ul></div> 
+	
+	
+			
+	
+	
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	<div id="share">
+		<ul><li><p id="print"><a href="javascript:window.print();">Print this Page</a></li></ul>
+	
+	</div>
+	
+	
+	
+	
+		
+			<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial">A new course at the </span><place /><placetype /><span style="FONT-FAMILY: Arial">University</span></placetype /><span style="FONT-FAMILY: Arial"> of </span><placename /><span style="FONT-FAMILY: Arial">Central Florida</span></placename /></place /><span style="FONT-FAMILY: Arial"> and three public events this fall will focus on the dynamic history, culture and economic transformation of </span><place /><span style="FONT-FAMILY: Arial">Puerto Rico</span></place /><span style="FONT-FAMILY: Arial"> and its residents migration to the </span><country-region /><place /><span style="FONT-FAMILY: Arial">United States</span></place /></country-region /><span style="FONT-FAMILY: Arial">.</span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"> </span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"></span></font><font size="3"><span style="FONT-FAMILY: Arial">The class will explore </span><place /><span style="FONT-FAMILY: Arial">Puerto Rico</span></place /><span style="FONT-FAMILY: Arial">s status as a commonwealth that is neither an independent nation nor a </span><country-region /><place /><span style="FONT-FAMILY: Arial">U.S.</span></place /></country-region /><span style="FONT-FAMILY: Arial"> state, its relationships with other nations and the islands rapid economic growth during the past several decades. The three public events, including one at </span><time hour="19" minute="0" /><span style="FONT-FAMILY: Arial">7 p.m.</span></time /><span style="FONT-FAMILY: Arial"> Friday, Sept. 2, at Asociación Borinqueña, will combine lectures about Puerto Rican history with artistic presentations of photographs and music. </span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"> </span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"></span></font><font size="3"><span style="FONT-FAMILY: Arial">Puerto Ricans comprise 11 percent of </span><place /><placename /><span style="FONT-FAMILY: Arial">Orange</span></placename /><span style="FONT-FAMILY: Arial"> </span><placetype /><span style="FONT-FAMILY: Arial">County</span></placetype /></place /><span style="FONT-FAMILY: Arial">s population, according to U.S. Census estimates, and they are taking on more prominent roles in business, government, education and many other aspects of society. Through the new course and public events, UCFs Latin American, </span><place /><span style="FONT-FAMILY: Arial">Caribbean</span></place /><span style="FONT-FAMILY: Arial"> and Latino Studies Program wants to help students and residents better understand </span><place /><span style="FONT-FAMILY: Arial">Puerto Rico</span></place /><span style="FONT-FAMILY: Arial">s culture and history.</span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"> </span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"></span></font><font size="3"><span style="FONT-FAMILY: Arial">Diversity is an important and valuable asset to our community, said Kathryn Seidel, dean of the UCF College of Arts and Sciences. Our Puerto Rican friends have made great contributions to </span><place /><span style="FONT-FAMILY: Arial">Central Florida</span></place /><span style="FONT-FAMILY: Arial">, and we look forward to recognizing those efforts. We will continue to educate our students and the greater community about the islands history and significance.</span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"> </span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"></span></font><font size="3"><span style="FONT-FAMILY: Arial">The UCF course on the history of </span><place /><span style="FONT-FAMILY: Arial">Puerto Rico</span></place /><span style="FONT-FAMILY: Arial"> explores the islands struggles with slavery and colonialism in addition to its contemporary history. The course, which has an enrollment of 45 students, also will include sessions about the Puerto Rican experience in the </span><country-region /><place /><span style="FONT-FAMILY: Arial">United States</span></place /></country-region /><span style="FONT-FAMILY: Arial">.</span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"> </span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"></span></font><font size="3"><span style="FONT-FAMILY: Arial">Although </span><place /><span style="FONT-FAMILY: Arial">Puerto Rico</span></place /><span style="FONT-FAMILY: Arial">, relatively speaking, is a small island, it has had a very rich history, said Luis Martínez-Fernández, director of the Latin American, </span><place /><span style="FONT-FAMILY: Arial">Caribbean</span></place /><span style="FONT-FAMILY: Arial"> and Latino Studies Program. In the 1930s, </span><place /><span style="FONT-FAMILY: Arial">Puerto Rico</span></place /><span style="FONT-FAMILY: Arial"> was one of the poorest countries in the </span><place /><span style="FONT-FAMILY: Arial">Caribbean</span></place /><span style="FONT-FAMILY: Arial">. In 40 to 50 years, it became one of </span><place /><span style="FONT-FAMILY: Arial">Latin America</span></place /><span style="FONT-FAMILY: Arial">s countries with the highest standard of living.</span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"> </span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"></span></font><span style="FONT-FAMILY: Arial"><font size="3">The three public events that are part of A Celebration of Puerto Rican History &amp; Culture will be presented in English. Summaries of the three events are below:</font></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"> </span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-FAMILY: Arial"></span><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial">Friday, Sept. 2, </span></b><time hour="19" minute="0" /><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial">7 p.m.</span></b></time /><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial"> at Asociación Borinqueña, 1865 Econlockhatchee Trail</span></b></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial"></span></b></font><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial">Admission:</span></b><span style="FONT-FAMILY: Arial"> Free and open to the public</span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"></span></font><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial">Lecture:</span></b><span style="FONT-FAMILY: Arial"> The Puerto Rican Diaspora: Changing Settlement Patterns and Cultural Identities in the </span><country-region /><place /><span style="FONT-FAMILY: Arial">United States</span></place /></country-region /><span style="FONT-FAMILY: Arial"> by Jorge Duany, chairman, Department of Sociology and Anthropology at the </span><place /><placetype /><span style="FONT-FAMILY: Arial">University</span></placetype /><span style="FONT-FAMILY: Arial"> of </span><placename /><span style="FONT-FAMILY: Arial">Puerto Rico</span></placename /></place /><span style="FONT-FAMILY: Arial">. Duanys latest book is The Puerto Rican Nation on the Move: Identities on the </span><place /><span style="FONT-FAMILY: Arial">Island</span></place /><span style="FONT-FAMILY: Arial"> and in the </span><country-region /><place /><span style="FONT-FAMILY: Arial">United States</span></place /></country-region /><span style="FONT-FAMILY: Arial">, and he writes a monthly column for <i style="mso-bidi-font-style: normal">El Nuevo Día</i>.</span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"></span></font><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial">Musical presentation:</span></b><span style="FONT-FAMILY: Arial"> Musical genres of </span><place /><span style="FONT-FAMILY: Arial">Puerto Rico</span></place /><span style="FONT-FAMILY: Arial"> by the Latin Music Institutes Rondalla de Orlando string ensemble, which is directed by Ángel Martinez. The Latin Music Institute is a music education center based in </span><city /><place /><span style="FONT-FAMILY: Arial">Winter Park</span></place /></city /><span style="FONT-FAMILY: Arial">.</span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"></span></font><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial">Guest of honor:</span></b><span style="FONT-FAMILY: Arial"> </span><place /><span style="FONT-FAMILY: Arial">Orange</span></place /><span style="FONT-FAMILY: Arial"> County Commissioner Mildred Fernández</span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"></span></font><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial">More information: </span></b><span style="FONT-FAMILY: Arial">407-823-1169</span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"> </span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial">Sept. 30, </span></b><time hour="19" minute="0" /><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial">7 p.m.</span></b></time /><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial">, </span></b><city /><place /><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial">Orlando</span></b></place /></city /><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial"> City Hall Overlook Room, 400 S. Orange Ave.</span></b></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"><span style="FONT-FAMILY: Arial"><strong>Admission: </strong></span><span style="FONT-FAMILY: Arial">Free and open to the public</span><font face="Verdana" size="2"> </font></span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"></span></font><font size="3"><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial">Lecture: <span style="mso-spacerun: yes"> </span></span></b><place /><placetype /><span style="FONT-FAMILY: Arial">University</span></placetype /><span style="FONT-FAMILY: Arial"> of </span><placename /><span style="FONT-FAMILY: Arial">Puerto Rico</span></placename /></place /><span style="FONT-FAMILY: Arial"> history professor Luis Agrait will speak on </span><place /><span style="FONT-FAMILY: Arial">Puerto Rico</span></place /><span style="FONT-FAMILY: Arial">s transformations over the past 50 years. Agrait is a former undersecretary of state</span></font></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial">Photographs:</span></b><span style="FONT-FAMILY: Arial"> Arches and Doors of Puerto Rico, a presentation of photographs taken by Celestino Martínez Lindín, the late father of Luis Martínez-Fernández.</span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"></span></font><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial">Guest of honor:</span></b><span style="FONT-FAMILY: Arial"> Sylvia Cáceras, director of the Puerto Rico Federal Affairs Administrations </span><place /><span style="FONT-FAMILY: Arial">Central Florida</span></place /><span style="FONT-FAMILY: Arial"> office</span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"></span></font><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial">More information:</span></b><span style="FONT-FAMILY: Arial"> 407-823-1169</span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"> </span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"></span></font><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial">Oct. 20, </span></b><time hour="17" minute="30" /><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial">5:30 p.m.</span></b></time /><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial">, </span></b><place /><placename /><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial">Orange</span></b></placename /><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial"> </span></b><placetype /><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial">County</span></b></placetype /><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial"> </span></b><placename /><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial">Regional</span></b></placename /><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial"> </span></b><placename /><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial">History</span></b></placename /><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial"> </span></b><placetype /><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial">Center</span></b></placetype /></place /><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial">, 65 E. Central Blvd.</span></b></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial">Admission:</span></b><span style="FONT-FAMILY: Arial"> $10</span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial">Lecture:</span></b><span style="FONT-FAMILY: Arial"> </span><place /><placetype /><span style="FONT-FAMILY: Arial">University</span></placetype /><span style="FONT-FAMILY: Arial"> of </span><placename /><span style="FONT-FAMILY: Arial">Puerto Rico</span></placename /></place /><span style="FONT-FAMILY: Arial"> professor Fernando Píco, one of </span><place /><span style="FONT-FAMILY: Arial">Puerto Rico</span></place /><span style="FONT-FAMILY: Arial">s most renowned historians, will address The Challenges and Satisfactions of Writing Puerto Rican History. Píco is the author of </span><place /><span style="FONT-FAMILY: Arial">Puerto Rico</span></place /><span style="FONT-FAMILY: Arial"> 1898: The War After The War.</span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"><b style="mso-bidi-font-weight: normal">Music: </b>A performance of Puerto Rican poet and singer Sylvia Rexachs music by Sharon Riley.</span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial">Guest of honor:</span></b><span style="FONT-FAMILY: Arial"> State Rep. John Quiñones, R-Kissimmee.</span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial">More information:</span></b><span style="FONT-FAMILY: Arial"> Call 407-836-8500 for reservations and ticket information.</span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"> </span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial"></span></font><span style="FONT-SIZE: 12pt; FONT-FAMILY: Arial; mso-fareast-font-family: " mso-bidi-language:="" mso-fareast-language:="" mso-ansi-language:="" times="" new="" roman?;="" en-us;="" ar-sa?="">Major sponsors for the series are Darden Restaurants and the law firm Payas, Payas and Payas. </span><span lang="ES" style="FONT-SIZE: 12pt; FONT-FAMILY: Arial; mso-fareast-font-family: " mso-bidi-language:="" mso-fareast-language:="" mso-ansi-language:="" times="" new="" roman?;="" en-us;="" ar-sa?="" es;="">Media sponsors are <i style="mso-bidi-font-style: normal">Al Día Today, El Nuevo Día, La Prensa</i>, WKMG-Channel 6 and Telemundo-Orlando. </span><span style="FONT-SIZE: 12pt; FONT-FAMILY: Arial; mso-fareast-font-family: " mso-bidi-language:="" mso-fareast-language:="" mso-ansi-language:="" times="" new="" roman?;="" en-us;="" ar-sa?="">Organizations that helped UCF coordinate events include <i style="mso-bidi-font-style: normal">El Nuevo Día</i>, the Latin Music Institute, the Puerto Rico Federal Affairs Administration and the Orange County Hispanic Heritage Celebration Committee. For more information, go to <a href="http://www.cas.ucf.edu/lacls">www.cas.ucf.edu/lacls</a>.</span></p>
+		
+	
+	<p id="back"><a href="index?page=news">&lt; Back to the Newsroom</a></p>
+
+</div>
+
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+
+		</div> 
+	</body>
+</html>
+

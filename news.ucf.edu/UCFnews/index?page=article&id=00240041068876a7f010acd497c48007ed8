@@ -1,0 +1,487 @@
+
+
+
+
+
+
+
+
+
+	
+	
+										
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/article.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=article&amp;id=00240041068876a7f010acd497c48007ed8" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+		
+		
+		<a class='rss' href="http://news.ucf.edu/UCFnews/ucfreport/rss_mainnewsinfo.jsp" title="Subscribe using any feed reader!">
+			RSS Feed
+		</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.med.ucf.edu/">College of Medicine</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.today.ucf.edu">UCF Today</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.tv">UCF TV</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 88&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+<div id="main_content">
+	<h2>What People Are Saying About Keith Tribble</h2>
+	
+	<p class="article_info">
+		
+		<span class="date">April 27, 2006</span></p>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+			<div id="related">
+				<h3>Related Contacts and Links:</h3>
+				<ul>
+		
+		<li>
+		
+			
+				<h4><a href="mailto:tevelyn@mail.ucf.edu">Tom Evelyn</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-823-5988</li>
+			
+			</ul>
+		
+		</li>
+	
+	
+	
+		
+		<li>
+		
+			<h4><a href="index?page=article&amp;id=00240041068876a7f010acd497c48007f51&amp;mode=news">UCF Names Orange Bowl CEO Keith Tribble as Athletics Director</a></h4>
+		
+		</li>
+	
+	
+	 </ul></div> 
+	
+	
+			
+	
+	
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	<div id="share">
+		<ul><li><p id="print"><a href="javascript:window.print();">Print this Page</a></li></ul>
+	
+	</div>
+	
+	
+	
+	
+		
+			<p><a href="index?page=article&amp;id=00240041068876a7f010acd497c48007f51&amp;mode=news">Back to story</a></p><p>Keith is an amazing administrator with a solid base of experience. He understands winning the right way. There is no doubt in my mind he will succeed.<br /><strong>Britton Banowsky<br />Commissioner of Conference USA</strong></p><p>Im very excited for Keith Tribble. This is where he belongs. Hes a great educator, a great leader, and one of the most loyal and enthusiastic administrators Ive ever worked with. I consider Keith and Terri great friends. Central Florida is getting an enthusiastic athletic director, and Im a Central Florida fan now. I wish Keith, Terri and everyone at Central Florida the best in this new era at their university.<br /><strong>Jay Wright<br />Head Basketball Coach<br />Villanova</strong></p><p>Central Florida has made a tremendous hire. Keith is a very experienced guy who knows the state and all of the major players in college sports. He is a good businessman. He also has a real passion for college sports and for wanting the experience of every student-athlete to be a great one. We will miss his leadership in the bowl business, but I understand that he has wanted to be back on campus for some time now. I wish him the best.<br /><strong>Kevin Weiberg<br />Commissioner of the Big 12</strong></p><p>Keith has tremendous respect in the athletic community. He has outstanding experience that will serve him well as an athletic director.<br /><strong>John Swofford<br />Commissioner of the ACC</strong></p><p>Keith Tribble is terrific. He loves young people and has demonstrated that leadership at the Orange Bowl.<br /><strong>Donna Shalala<br />President <br />University of Miami</strong></p><p>We will miss working with Keith at the Orange Bowl, but we look forward to the many contributions he will make to intercollegiate athletics as UCFs athletics director. We are happy for Keith and Terri and wish them well.<br /><strong>Mike Slive<br />Commissioner of the SEC</strong></p><p>Keith Tribble is a winner! He is highly respected by coaches all over the country. His reputation, experience and relationships in the industry will combine to pay great dividends to UCF and, most importantly, to the student-athletes. I have watched Keith over the years and he conducts himself with the highest of integrity and has the type of personality that draws people to him. Congratulations!<br /><strong>Tubby Smith<br />Head Basketball Coach<br />University of Kentucky</strong></p><p>Keith Tribble is a great hire for the University of Central Florida. I have seen Keith in action through the years at the Orange Bowl, and he is highly professional, a great administrator and one of the most enjoyable people to work with. He will be a great athletic director.<br /><strong>Frank Beamer<br />Head Football Coach<br />Virginia Tech</strong></p><p>Keith is an outstanding leader with great interpersonal skills. Because of his experiences, he has a true appreciation for the challenges coaches and student-athletes face. He will be a visionary for the University of Central Florida athletic department.<br /><strong>Gene Smith <br />Director of Athletics<br />Ohio State University</strong></p><p>Keith Tribble is just flat-out outstanding. He is a tremendous administrator and will bring passion, great organizational skills and a strong work ethic to that role. He is one of my closest friends. This is a grand slam for the University of Central Florida.<br /><strong>Jeremy Foley <br />Athletics Director<br />University of Florida</strong></p><p>Keith Tribble is a fabulous hire for Central Florida and Eastman-Beaudine. Keith possesses integrity, strong interpersonal skills and a great passion for college athletics. He offers Central Florida both a broad national perspective and strong local experience and relationships.<br /><strong>Ian McCaw<br />Director of Athletics<br />Baylor University</strong></p><p>This is an outstanding hire! Keith represents everything that is right about college athletics. I am so happy for him. I am so happy for the University of Central Florida. Keith Tribble is a tremendous talent.<br /><strong>Floyd Keith<br />Executive Director<br />Black Coaches Association</strong></p><p>Keith Tribble is a superb choice for the University of Central Florida. He is one of the bright, energetic and outstanding administrators in the country. His high level of personal and professional integrity, coupled with his warm and engaging style, make him well-suited at UCF. He is a great leader and, best of all, a great person.<br /><strong>Lew Perkins<br />Director of Athletics<br />University of Kansas</strong></p><p>Keith is wired for 220!  He will make an immediate and positive impact on UCF. Congratulations!<br /><strong>Debbie Yow<br />Director of Athletics<br />University of Maryland</strong></p><p>The University of Central Florida could not have made a better choice than the selection of Keith Tribble as their new director of athletics. Mr. Tribble will continue the positive direction UCF Athletics is headed. Mr. Tribble is one of the top African-American sports executives in the country.<br /><strong>Gene Marshall<br />Deputy Athletics Director-U.S. Military Academy<br />President of Black Coaches Association</strong></p><p>Ive been saying for a long time that some university needed to find a way to convince Keith Tribble to come lead their athletic program. Hes proven over and over that he can generate huge interest in an enterprise, build relationships, relate to a diverse constituency, market, promote, raise money, engender confidence and help a very good organization become great. What a terrific choice by and for the University of Central Florida. Amongst all of his achievements, experience, skills or accomplishments, the best part of what he brings is his wife, Terri. The fans of UCF will really enjoy this special couple.<br /><strong>Joseph R. Castiglione<br />Director of Athletics<br />University of Oklahoma</strong></p><p>Keith Tribble is the ultimate professional in this business and I know he will do a great job at Central Florida. He has always wanted to be back on campus and he will do wonderful things for student-athletes.<br /><strong>Herman Frazier<br />Athletics Director<br />University of Hawaii</strong></p><p><a href="index?page=article&amp;id=00240041068876a7f010acd497c48007f51&amp;mode=news">Back to story</a></p>
+		
+	
+	<p id="back"><a href="index?page=news">&lt; Back to the Newsroom</a></p>
+
+</div>
+
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+
+		</div> 
+	</body>
+</html>
+

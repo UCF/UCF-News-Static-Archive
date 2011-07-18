@@ -1,0 +1,502 @@
+
+
+
+
+
+
+
+
+
+	
+	
+										
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/article.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=article&amp;id=002400411cf2c030ffac563ca9007165" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+		
+		
+		<a class='rss' href="http://news.ucf.edu/UCFnews/ucfreport/rss_mainnewsinfo.jsp" title="Subscribe using any feed reader!">
+			RSS Feed
+		</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.med.ucf.edu/">College of Medicine</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.today.ucf.edu">UCF Today</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.tv">UCF TV</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 88&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+<div id="main_content">
+	<h2>Experts for Holiday Stories</h2>
+	
+	<p class="article_info">
+		
+		<span class="date">Dec. 9, 2004</span></p>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+			<div id="related">
+				<h3>Related Contacts and Links:</h3>
+				<ul>
+		
+		<li>
+		
+			
+				<h4><a href="mailto:cbinette@mail.ucf.edu">Chad Binette</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-823-6312</li>
+			
+			</ul>
+		
+		</li>
+	
+		
+		<li>
+		
+			
+				<h4><a href="mailto:tevelyn@mail.ucf.edu">Tom Evelyn</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-823-5988</li>
+			
+			</ul>
+		
+		</li>
+	
+	
+	
+		
+		<li>
+		
+			<h4><a href="index?page=article&amp;id=002400411cf2c030ffac563ca9007165"></a></h4>
+		
+		</li>
+	
+	
+	 </ul></div> 
+	
+	
+			
+	
+	
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	<div id="share">
+		<ul><li><p id="print"><a href="javascript:window.print();">Print this Page</a></li></ul>
+	
+	</div>
+	
+	
+	
+	
+		
+			<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??="">Several professors at the </span><place /><placetype /><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??="">University</span></placetype /><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""> of </span><placename /><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??="">Central Florida</span></placename /></place /><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""> are available to talk to reporters as experts on topics and issues related to the holiday season. Reporters may want to contact the News and Information office for assistance in reaching professors after the commencement ceremonies on Dec. 13 and 14. Writer Chad Binette can be reached at 407-823-6312 or <a href="mailto:cbinette@mail.ucf.edu">cbinette@mail.ucf.edu</a>. Assistant Director Tom Evelyn can be reached at 407-823-5988 or <a href="mailto:tevelyn@mail.ucf.edu">tevelyn@mail.ucf.edu</a>.</span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""> </span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""></span></font><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??="">Tourism</span></b><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""> -- Abe Pizam, dean, Rosen College of Hospitality Management, can talk about theme park special events, how cruise lines benefit from special holiday cruises and how hotels profit from Christmas parties aimed at locals and other tourism issues. 407-903-8010, <a href="mailto:apizam@mail.ucf.edu">apizam@mail.ucf.edu</a></span></font><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""></span></b></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""> </span></b></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??="">Holiday</span></b></place /><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""> sales</span></b><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""> -- Mark Soskin, professor of economics, can discuss retailers sales expectations during the holidays, how sales might be affected by the summer hurricanes and whether the loss of sales because of the hurricanes places more importance on the holiday season for many businesses in </span><state /><place /><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??="">Florida</span></place /></state /><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??="">. 386-506-4015, <a href="mailto:soskin@mail.ucf.edu">soskin@mail.ucf.edu</a></span></font><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""></span></b></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""> </span></b></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??="">Teaching holidays in schools</span></b><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""> -- Sue Brown, Educational Studies, can talk about how teachers can discuss religious holidays such as Christmas and Hanukkah with children without proselytizing or making children of different faiths uncomfortable. 407-823-1227, <a href="mailto:subrown@mail.ucf.edu">subrown@mail.ucf.edu</a>.</span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""> </span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""></span></font><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??="">History of Christmas in the </span></b><country-region /><place /><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??="">United States</span></b></place /></country-region /><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""> -- Richard Crepeau, history professor, can discuss how the Christmas holiday has evolved throughout American history, 407-823-2897, <a href="mailto:crepeau@pegasus.cc.ucf.edu">crepeau@pegasus.cc.ucf.edu</a>.</span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""> </span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""></span></font><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??="">Holiday</span></b></place /><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""> depression</span></b><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""> -- Ana Leon, professor, School of Social Work, 407-823-6195, <a href="mailto:leon@mail.ucf.edu">leon@mail.ucf.edu</a>.</span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""> </span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""></span></font><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??="">Credit card debt and other personal finance issues</span></b><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""> -- Paul Gregg, instructor, Finance Department, 407-823-3156, <a href="mailto:paul.gregg@bus.ucf.edu">paul.gregg@bus.ucf.edu</a></span></font><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""></span></b></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""> </span></b></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??="">Hanukkah </span></b><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??="">-- Moshe Pelli, professor and director of Judaic Studies Program, 407-823-5039, <a href="mailto:pelli@pegasus.cc.ucf.edu">pelli@pegasus.cc.ucf.edu</a></span></font><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""></span></b></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""> </span></b></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??="">Kwanzaa</span></b><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""> -- Adenike Davidson, professor of English. Her major research areas are African-American literature and culture. She can explain the Nguzo Saba, the seven guiding principles of Kwanzaa; the symbols of the holiday and their significance; and other aspects of the seven-day celebration of cultural differences from Dec. 26 to Jan. 1. 407-823-0265, <a href="mailto:adavidso@mail.ucf.edu">adavidso@mail.ucf.edu</a></span></font><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""></span></b></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""> </span></b></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??="">Popular video game gifts</span></b><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""> -- Chris Murray, </span><place /><placetype /><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??="">School</span></placetype /><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""> of </span><placename /><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??="">Film</span></placename /></place /><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""> and Digital Media, 407-823-1139, <a href="mailto:cmurray@dm.ucf.edu">cmurray@dm.ucf.edu</a></span></font><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""></span></b></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""> </span></b></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??="">Holiday</span></b></place /><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""> advertising</span></b><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""> -- Bob Davis, professor and division head of Advertising/Public Relations at the Nicholson School of Communication, 407-823-2829, <a href="mailto:bdavis626@aol.com">bdavis626@aol.com</a></span></font></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font size="3"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: " times="" new="" roman??=""></span></font></p>
+		
+	
+	<p id="back"><a href="index?page=news">&lt; Back to the Newsroom</a></p>
+
+</div>
+
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+
+		</div> 
+	</body>
+</html>
+

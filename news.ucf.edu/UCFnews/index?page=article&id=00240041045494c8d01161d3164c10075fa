@@ -1,0 +1,565 @@
+
+
+
+
+
+
+
+
+
+	
+	
+										
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/article.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=article&amp;id=00240041045494c8d01161d3164c10075fa" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+		
+		
+		<a class='rss' href="http://news.ucf.edu/UCFnews/ucfreport/rss_mainnewsinfo.jsp" title="Subscribe using any feed reader!">
+			RSS Feed
+		</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.med.ucf.edu/">College of Medicine</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.today.ucf.edu">UCF Today</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.tv">UCF TV</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 89&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+<div id="main_content">
+	<h2>Pep Rally to Kick Off Championship Week Events</h2>
+	
+	<p class="article_info">
+		
+			By UCF Athletics
+		
+		<span class="date">Nov. 27, 2007</span></p>
+	
+	
+	
+		<div class="article_img" style="width: 261px;">
+
+			<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/1000/NE1247/en_US/knightscrop.jpg" height="196" width="261"  /> 
+			
+				<p class="photo_credit">Photo: Jacque Brund</p>
+			
+			<p>The UCF Knights will face the Tulsa Golden Hurricane at noon Saturday with the Conference USA championship on the line.</p>
+			
+				<p class="note"><a class="full_photo" id="popup.jsp?article_id=00240041045494c8d01161d3164c10075fa">Full Photo</a></p>
+			
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			
+		</div>
+	
+	
+	
+	
+	
+	
+	
+		
+			<div id="related">
+				<h3>Related Contacts and Links:</h3>
+				<ul>
+		
+		<li>
+		
+			
+				<h4><a href="mailto:joehorn@mail.ucf.edu">Joe Hornstein, UCF Athletics</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-823-2729</li>
+			
+			</ul>
+		
+		</li>
+	
+	
+	
+		
+		<li>
+		
+			<h4><a href="http://www.ucfgameday.com">UCF Game Day Web site</a></h4>
+		
+		</li>
+	
+		
+		<li>
+		
+			<h4><a href="http://www.ucfathletics.com">UCF Athletics</a></h4>
+		
+		</li>
+	
+	
+	 </ul></div> 
+	
+	
+			
+	
+	
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	<div id="share">
+		<ul><li><p id="print"><a href="javascript:window.print();">Print this Page</a></li></ul>
+	
+	</div>
+	
+	
+	
+	
+		
+			<p>With all of the excitement brewing for this Saturday's Conference USA Championship match-up between the UCF Knights and Tulsa Golden Hurricane,&nbsp;our local governments have declared it &ldquo;C-USA Championship Week.&rdquo;</p>
+<p>The&nbsp;Knights (9-3, 7-1), winners of the East Division,&nbsp;and the Golden Hurricane (9-3, 6-2), winners of the West Division, will&nbsp;play a noon showdown at Bright House Networks Stadium.</p>
+<p>The UCF Athletics Association is receiving a lot of help from its friends and partners to show support for Head Coach George O'Leary and his 2007 Knights as they host Tulsa in the third-annual Conference USA Championship this weekend.&nbsp; The winners will earn the C-USA Championship and a certain berth in the prestigious AutoZone Liberty Bowl&nbsp;against a Southeastern Conference opponent on Dec. 29.</p>
+<p>Joining the list of those showing their support for UCF this week are Orange County Mayor Rich Crotty and City of Orlando Mayor Buddy Dyer, who have each declared this week &quot;Conference USA Championship Week.&quot; Crotty, Dyer and UCF President John Hitt also declared Friday as &quot;Black and Gold Day.&quot;</p>
+<p>Great seats to this Saturday's Conference USA Football Championship showdown vs. Tulsa can still be purchased through Ticketmaster by calling (407) 839-3900 or by going online at UCFAthletics.com.&nbsp; The UCFAA Ticket Office located at Bright House Networks Stadium has also extended&nbsp;its operating hours this week to 8 a.m.&nbsp;to 6 p.m. through Friday. The office will open&nbsp;at 8 a.m. on Saturday.</p>
+<p>Below is a list of announcements and events&nbsp;that are&nbsp;part of C-USA Championship Week:</p>
+<p><strong>Wednesday, November 28</strong></p>
+<p>SGA Pep Rally for the Football Team</p>
+<p>12 p.m.; UCF Student Union Atrium</p>
+<p>The SGA will host a pep rally to show support for the football team featuring the captains of this year's squad, along with performances from the cheerleaders and members of the Marching Knights.</p>
+<p>Applebee's UCF Fan Rally Day</p>
+<p>3-7 p.m.; Applebee's on University Boulevard (near the UCF Campus)</p>
+<p>Come out to the local Applebee's with other UCF fans and enjoy an evening with 740 AM's Jerry O'Neill and the Shot Doctor, as they do their show live.&nbsp; Wear UCF gear and receive a discount on your food purchase.&nbsp; Also, while at the show you can win tickets to this week's big game.</p>
+<p><strong>Thursday, November 29</strong></p>
+<p>George O'Leary Call-In Show</p>
+<p>6-7 p.m.; Buffalo Wild Wings</p>
+<p>Along with host Marc Daniels, Head Coach George O'Leary talks about the game on 740 AM The Team.</p>
+<p><strong>Friday, November 30</strong></p>
+<p>Show your support, it's Black and Gold Day in Orlando.</p>
+<p>All Day; UCF campuses, Orange County and the City of Orlando</p>
+<p>It's the day before the big game and University of Central Florida President John Hitt, Orange County Mayor Rich Crotty and City of Orlando Mayor Buddy Dyer have declared Friday Black and Gold Day. All UCF alumni, fans and supporters are encouraged to show&nbsp;their support for the Knights as they make their stand for the C-USA title.</p>
+<p>Lunch with George</p>
+<p>1 p.m.; Recruiting Club Room at Bright House Networks Stadium</p>
+<p>Presented by Tropical Ford, Lunch with George is the fans&rsquo; best one-on-one chance to talk with the head football coach in addition to joining several UCF fans for lunch.</p>
+<p><strong>Saturday, December 1</strong></p>
+<p>UCF Alumni Association Pre-Game Party</p>
+<p>9-11 a.m.; FAIRWINDS Alumni Center</p>
+<p>Breakfast will be served. Tickets are $10 each for UCF Alumni Association members and GKC donors. Members and donors will be permitted one guest at the $10 rate. Tickets are $45 for all additional non-members.</p>
+<p>KnightWalk</p>
+<p>Approximately 9:30 a.m.; IOA Plaza</p>
+<p>The team will be dropped at the corner of East Plaza and Victory Way and will walk to the stadium led by the national-champion UCF cheerleaders and Marching Knights. We encourage fans to line up the entire length of the Knightwalk.</p>
+<p>2007 Conference USA Championship Game</p>
+<p>12 p.m.; UCF vs. Tulsa at Bright House Networks Stadium</p>
+<p>The Knights defeated Tulsa earlier this season, 44-23, in Orlando on Oct. 20.&nbsp; However, Tulsa overcame the Knights in the inaugural C-USA title game, 44-27, at the Florida Citrus Bowl.&nbsp; UCF is led by All-America candidate running back Kevin Smith, who impressively leads the nation in both rushing and scoring.&nbsp; He will go up against Tulsa quarterback Paul Smith, whose electrifying numbers have been blazing defenses all year. Don't forget to wear gold to the game.</p>
+<p>Don't miss out on this exciting and historical match-up at Bright House Networks Stadium.&nbsp; Great seats can be purchased through Ticketmaster by calling (407) 839-3900 or by going online at UCFAthletics.com.&nbsp;</p>
+<p>If you have interest in participating in Conference USA Championship Week or Black and Gold Day this Friday, please let us know how.&nbsp; E-mail us how you are showing your support for the UCF Knights this week by going online at UCFAthletics.com and submitting through our feedback link: <a href="http://ucfathletics.cstv.com/feedback/ucf-feedback.html">http://ucfathletics.cstv.com/feedback/ucf-feedback.html</a></p>
+<p>For the latest news and information on the Knights, tickets or apparel, log on to <a href="http://www.UCFAthletics.com">www.UCFAthletics.com</a> -- the official site for UCF varsity sports. Also check out <a href="http://www.UCFPhotos.com">www.UCFPhotos.com</a>, the exclusive fan source for UCF action sports photos.</p>
+<hr />
+<p><strong>UCF Stands for Opportunity:</strong> Established in 1963, the University of Central Florida is a diverse metropolitan research university that ranks as the 6th-largest in the country with more than 48,000 students. Located in Orlando, Fla., UCF offers high-quality undergraduate and graduate education, student development and continuing education, while conducting cutting-edge research that powers the region's economic development. For more UCF news, visit <a href="index.html">http://news.ucf.edu</a>.</p>
+		
+	
+	<p id="back"><a href="index?page=news">&lt; Back to the Newsroom</a></p>
+
+</div>
+
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+
+		</div> 
+	</body>
+</html>
+

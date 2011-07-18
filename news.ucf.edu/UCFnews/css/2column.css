@@ -1,0 +1,133 @@
+/* Main Content */
+#main_content {
+	width: 635px;
+	float: left;
+}
+#main_content h3 {
+	margin: 20px 0 8px; 
+}
+#main_content p {
+	margin-bottom: 10px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 0.75em;
+	color: #010101;
+	line-height: 1.5em;
+}
+#main_content h3 a, #main_content h3 a:visited {
+	color: #ce8d1a;
+	text-decoration: none;
+	font-size: 0.96em;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+#main_content h3 a:hover {
+	text-decoration: underline;
+}
+h2.subject {
+	font-size: 0.75em;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #fff;
+	height: 17px;
+	padding-left: 8px;
+	text-transform: uppercase;
+	padding-top: 1px;
+	margin-bottom: 6px;
+}
+.caption {
+	display: block;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+/* Contact Us Styles */
+#aboutUs {
+	margin-bottom: 1em;
+}
+#contactUs #newsInfo {
+	margin-left: 20px;
+}
+#contactUs #teleServ {
+	clear:both;
+	margin-left: 20px;
+}
+.contact {
+	
+}
+	.contact .photo { 
+		float: left;
+	}
+	.contact .info { 
+		float: left;
+		margin-left: 10px;
+	}
+		.contact .info ul {
+			list-style-type: none;
+			font-size: .8em;
+		}
+		.contact .info ul li {
+			padding: 1px 0 1px 0;
+			
+		}
+	
+/* Staff Beats */
+#staff_contacts {
+	margin: 1em 0 0 1em;
+	list-style-type:none;
+}
+	#staff_contacts li {
+		margin-bottom: .5em;
+	}
+		#staff_contacts li p {
+			font-size: 1em;
+		}
+		#staff_contacts li ul {
+			font-size: 1em;
+			margin: .5em 0 0 1.5em;
+			list-style-type: square;
+		}
+/* Experts Guide */
+#experts_list {
+	list-style-type:none;
+	margin: 1em 0 0 1em;
+}
+	#experts_list li {
+		width: 400px;
+		margin-bottom: 1em;
+	}
+			#experts_list li a {
+				color: #ca850a;
+			}
+			#experts_list li div {
+				clear:both;
+			}
+			#experts_list li img {
+				float: left;
+				margin-right: 8px;
+			}
+			
+/* Kudos Archive */
+#kudos_list {
+	list-style-type:none;
+	margin: 1em 0 0 1em;
+}
+	#kudos_list li {
+		width: 500px;
+		margin-bottom: 1em;
+	}
+/* Search Results */
+#searchresults {
+	list-style-type:none;
+}
+	#searchresults li {
+		margin: .6em 0 .6em 0;
+	}
+		#searchresults li a {
+			color: #ca850a;
+			font-family: Georgia, serif;
+			font-weight: bold;
+		}
+		#searchresults li .story_date {
+			font-size: .9em;
+		}
+#main_content #no_results {
+	text-align:center;
+	font-size: 1.3em;
+}

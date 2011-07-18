@@ -1,0 +1,70 @@
+<%@ page contentType="text/css" %>
+
+/* Print Stylesheet for Newsroom and Article Pages */
+* {
+	margin: 0;
+	padding: 0;
+	background: #fff;
+	color: #000;
+}
+
+body { font-family: Georgia, "Times New Roman", Times, serif; line-height: 1.5em; font-size:12pt; top: 0;}
+img {margin:.5em;}
+a {color:#ce8d1a; border:0; text-decoration:none;}
+a img {border:0;}
+p a:after {content: " (" attr(href) ") "; font-size: 70%; color: black; text-decoration:underline;}
+
+h1 {margin:0; font-family:"Adobe Caslon Pro", "Georgia", Times, serif; font-weight:normal; padding-top: .75em; padding-bottom: .5em; border-bottom: 1px dotted; }
+h1 a {color:#313130;}
+h1 a:after {display:none;}
+h1 .rss {display:none;}
+h2.top_story {font-size:80%; margin:1em 0; }
+h2 {margin-top:3em; font-size:100%; font-weight:bold; text-transform:uppercase; }
+h3 {font-size:120%; color:#ce8d1a;  }
+h3 a {color:#ce8d1a; text-decoration:none;}
+h3 a:after, dt a:after {display:inline-block;}
+dt {clear:both; padding-top:2em;}
+dd {margin: 0;}
+#related { border:1px solid black; padding:.5em; margin:0 0 1em 1em; width: 50%; float: right;}
+#related h3 {margin:0; font-size:1em; text-transform:uppercase; font-weight:normal; color:black; }
+#related h4 {margin:0; font-size:1em; font-weight:normal; }
+#related ul {margin:0; padding:0; }
+#related ul ul {margin-left:2em; }
+ 
+#related ul li {padding:0; margin:0; }
+#related ul li {list-style:none; }
+#top_story img {display: none;}
+#more_headlines img {display: none;}
+#secondary_content img{ display: none;}
+#print_head {line-height:1em; font-size:80%; position:absolute; top:10px; right:6%; margin:0;}
+#print_foot {border-top:3px solid black; padding:1em 0 2em 0; margin:2.5em 0; font-size:80%; }
+#print_foot span {display:block; padding-top:2em; font-family:helvetica, sans-serif; font-size:80%; color:#333333; }
+#print_logo { text-align:center; padding-top:2em;}
+#main_content span.date {display: block;}
+#main_content p	{margin-left: 0;}
+#more_headlines {clear:none; float: none; border-top:1px solid black; margin-top:2.5em; padding-top:1.2em;  }
+#more_headlines h2  { font-size:100%; font-weight:bold; text-transform:uppercase; color:black; margin:0; }
+
+#featured_expert {clear:none; float: none; border-top:1px solid black; margin-top:2.5em;  }
+#featured_expert h3 { font-size:100%; font-weight:bold; text-transform:uppercase; color:black;}
+#featured_expert h4 { font-size:100%; color:#ce8d1a; margin:0; }
+
+#kudos {clear:none; float: none; border-top:1px solid black; margin-top:2.5em; padding-top:1.2em;  }
+#kudos h2  { font-size:100%; font-weight:bold; text-transform:uppercase; color:black; margin:0; }
+
+#ucf4_header, #navigation, #read_about, #useful_links, #today_at_ucf, #events, .navigation_end, #back, #footer,
+#news_reports, #print, #navigation_end, #sub_header_image, #weather, #centerpiece, #colleges, #newsroom_nav,
+#share, .caption, div.article_img {
+	display: none;
+}
+
+#main_body {width:90%;margin:auto;}
+#main_content {margin-top:-20px;width:60%;float:left;}
+.secondary-content {float:left;}
+.secondary-content > h2 {margin-top:30px}
+#archive_list {padding-left:0;}
+#archive_list > li {padding-top: 5px;list-style-type:none;}
+#archive_list > li > .story_date {display:block;font-size:75%;font-family:"Helvetica Nueue", Helvetica, sans-serif;color:#666;position:relative;top:-5px;}
+#archive_list #pager > a {font-size:90%;color:#000;font-family:"Helvetica Nueue", Helvetica, sans-serif;}
+#archive_years {padding-left:0;}
+#archive_years > li {list-style-type:none;padding-top:5px;}

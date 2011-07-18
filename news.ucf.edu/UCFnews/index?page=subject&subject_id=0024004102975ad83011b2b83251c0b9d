@@ -1,0 +1,577 @@
+
+
+
+
+
+
+
+
+
+	
+	
+		
+											
+		
+		
+											
+		
+		
+											
+		
+	
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom &ndash; Media Resources Info</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/subject.css" rel="stylesheet" type="text/css" media="screen" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+			
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+		
+		
+		<a class='rss' href="http://news.ucf.edu/UCFnews/ucfreport/rss_mediaresourcesinfo.jsp" title="Subscribe using any feed reader!">
+			RSS Feed
+		</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://campusmap.ucf.edu/">Campus Map</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/phonebook/">Campus Phone Directory</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucfopportunity.com/_index.php">UCF Stands<br />for Opportunity</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 88&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+<div id="main_content">
+	
+	
+		
+			
+				<div id="top_story">
+					<h2 class="subject" style="background: #FFF url('img/subject_red_bg.png') repeat-x center left;">Media Resources</h2>
+					<p>
+						
+						<img src="../resources/sites/UCF/content/live/NEWS/1000/NE1499/en_US/sugayafull.jpg" />
+						
+						<span class="caption">Barbara West from WFTV-Channel 9 speaks with UCF professor Kiminobu Sugaya.</span>
+					</p>
+					<h3><a href="index?page=article&amp;id=002400412222421b011b327b08bf003e50&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Reporting on UCF: Guidelines, Media Contacts And More</a></h3>
+					
+						<p>The UCF News &amp; Information office serves as the liaison between journalists and the university. Read more about our policies for filming on campus, parking, directions, finding experts and contacting us.</p>
+					
+				</div>
+			
+		
+		
+		
+
+
+
+<div id="news_reports">
+	
+		
+			<h2>UCF Metro - Vision 2008 - <span>Watch Video</span></h2>
+			
+				 <object 	type="application/x-shockwave-flash" data="http://www.youtube.com/v/LLbB39jwssw&amp;hl=en&amp;fs=1" width="335" height="275" id="player_01"> <param name="allowScriptAccess" value="always" /><param name="movie" value="http://www.youtube.com/v/LLbB39jwssw&amp;hl=en&amp;fs=1" /><param name="quality" value="high" /><param name="bgcolor" value="#666666" /><param name="wmode" value="transparent" /><img src="img/NoFlashDefaultImage.jpg" alt="UCF Newsroom video on YouTube" /></object>
+			
+			<p>Vision 2008: A Conversation with UCF President John Hitt and program host Linda Chapin. <a href="http://www.youtube.com/user/ucf">Visit UCF on YouTube</a></p>
+		
+	
+</div>
+
+
+	
+</div>
+
+			
+	
+	<div id="secondary_content">
+	
+<div id="featured_expert">
+	<h3>Featured Expert</h3>
+	
+	
+		
+			
+			
+			<h4><strong>Kimberly Renk</strong>, Psychology</h4>
+			<p>
+				
+					<img src="../resources/sites/UCF/content/live/NEWS/1000/NE1500/en_US/renkthumb.jpg" alt="Featured Expert Thumbnail" />
+				
+				Kimberly Renk directs UCF's Understanding Children and Families laboratory. She can discuss parent-child relationships, including parenting styles and how to communicate with kids.
+			</p>
+			<p><a href="http://expertsguide.ucf.edu/">Visit the Experts Guide</a></p>
+			
+		
+	
+	
+	
+</div>
+
+	
+		
+		
+			<div id="more_headlines">
+				<h2>More Headlines</h2>
+				<dl>
+				
+					<dt>
+						<a href="index?page=article&amp;id=002400416a60cde7013003bb6e240064f3&amp;subject_id=0024004102975ad83011b2b83251c0b9d">
+							WUCF TV Officially Named PBS' New Central Florida Home (Video)
+						</a>
+					</dt>
+					<dd>
+						WUCF TV, a partnership of UCF and Brevard Community College, has officially been named Central Florida's new home for the full PBS schedule.  
+					</dd>
+			
+		
+	 
+		
+		
+					<dt>
+						<a href="index?page=article&amp;id=002400416a60cde7013003bb6e24006fec&amp;subject_id=0024004102975ad83011b2b83251c0b9d">
+							$5 Million Award for Higher Education Partnership
+						</a>
+					</dt>
+					<dd>
+						More than 30 percent of the state's students who earn associate's degrees and transfer to a state university in Florida choose UCF.
+					</dd>
+			
+		
+	 
+		
+		
+					<dt>
+						<a href="index?page=article&amp;id=00240041052a2b5bb012d44907649065bd&amp;subject_id=0024004102975ad83011b2b83251c0b9d">
+							Graduates Leaving UCF With 'Best-Value' Education
+						</a>
+					</dt>
+					<dd>
+						More than 7,100 UCF students anticipate graduating this spring. Many will enter a regional job market described as "leading Florida out of recession."
+					</dd>
+			
+		
+	 
+		
+		
+					<dt>
+						<a href="index?page=article&amp;id=00240041052a2b5bb012d449076490036e9&amp;subject_id=0024004102975ad83011b2b83251c0b9d">
+							NY Times, USA Today, ESPN Among Media Focusing on UCF
+						</a>
+					</dt>
+					<dd>
+						National media such as the New York Times, ESPN, USA Today, U.S. News and World Report and more have recently highlighted UCF's programs, students and faculty experts.
+					</dd>
+			
+		
+	 
+		
+		
+					<dt>
+						<a href="index?page=article&amp;id=00240041052a2b5bb012d449076490061c5&amp;subject_id=0024004102975ad83011b2b83251c0b9d">
+							UCF Researchers Join Harvard, MIT in Prestigious National Ranking
+						</a>
+					</dt>
+					<dd>
+						UCF's success with commercializing technology and helping emerging businesses grow elevated the university's Carnegie Foundation classification to the top tier.
+					</dd>
+			
+		
+	 
+		
+		
+					<dt>
+						<a href="index?page=article&amp;id=0024004107a42ec8a012b4426d5b3003191&amp;subject_id=0024004102975ad83011b2b83251c0b9d">
+							UCF Grabs Attention of Bill Gates, Diane Sawyer
+						</a>
+					</dt>
+					<dd>
+						National media have turned to UCF for its interesting stories, scientific innovations and expert commentary.
+					</dd>
+			
+		
+	 
+		
+		
+		
+	 
+		
+	 
+		
+	 
+		
+	 
+		</div>
+	</div>
+
+
+
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+	
+			
+		</div> 
+	</body>
+</html>
+

@@ -1,0 +1,584 @@
+
+
+
+
+
+
+
+
+
+	
+	
+										
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/article.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=article&amp;id=002400417c223ec20125ae9931fd04b83" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+		
+		
+		<a class='rss' href="http://news.ucf.edu/UCFnews/ucfreport/rss_mainnewsinfo.jsp" title="Subscribe using any feed reader!">
+			RSS Feed
+		</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.med.ucf.edu/">College of Medicine</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.today.ucf.edu">UCF Today</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.tv">UCF TV</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 88&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+<div id="main_content">
+	<h2>UCF Featured Nationally by ABC News, Parenting Magazine, N.Y. Times and More</h2>
+	
+	<p class="article_info">
+		
+			By Grant J. Heston
+		
+		<span class="date">March 23, 2010</span></p>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+			<div id="related">
+				<h3>Related Contacts and Links:</h3>
+				<ul>
+		
+		<li>
+		
+			
+				<h4><a href="mailto:gheston@mail.ucf.edu">Grant J. Heston</a></h4>
+			
+			
+				<ul>
+				<li>www.news.ucf.edu</li>
+			
+			
+				
+				<li>407.823.5988</li>
+			
+			</ul>
+		
+		</li>
+	
+	
+	
+		
+		<li>
+		
+			<h4><a href="index?page=article&amp;id=002400417c223ec20125ae9931fd04b83"></a></h4>
+		
+		</li>
+	
+	
+	 </ul></div> 
+	
+	
+			
+	
+	
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	<div id="share">
+		<ul><li><p id="print"><a href="javascript:window.print();">Print this Page</a></li></ul>
+	
+		<h3>Share this story:</h3>
+		<ul>
+			
+			<li>
+				<script type="text/javascript">
+					digg_skin = 'compact';
+				</script>
+				<script src="http://widgets.digg.com/diggthis.js" type="text/javascript"></script> 
+			</li>
+			
+			
+			<li>
+				
+				<script>reddit_url= encodeURIComponent(window.location.href); reddit_title='UCF Featured Nationally by ABC News, Parenting Magazine, N.Y. Times and More';</script>
+				<script type="text/javascript" src="http://www.reddit.com/button.js?t=1"></script>
+				
+			</li>
+			
+			
+			<li>
+				<script>function fbs_click() {u=location.href;t=document.title;window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');return false;}</script><style> html .fb_share_link { padding:2px 0 0 20px; height:16px; background:url(http://static.ak.fbcdn.net/images/share/facebook_share_icon.gif?0:26981) no-repeat top left; }</style><a href="http://www.facebook.com/share.php?u=<url>" onclick="return fbs_click()" target="_blank" class="fb_share_link">Share on Facebook</a>
+			</li>
+			
+			
+			<li>
+				<img src="img/delicious.small.gif" alt="submit story to delicious" /><a href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&noui&jump=close&url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=700,height=400'); return false;"> Save This Page</a>
+			</li>
+			
+			
+			<li>
+				<a href="http://www.stumbleupon.com/submit" onclick="window.open('http://www.stumbleupon.com/submit?url=' + encodeURIComponent(window.location.href) + '%2Farticle.php%26title%3DUCF Featured Nationally by ABC News, Parenting Magazine, N.Y. Times and More"> <img border=0 src="http://cdn.stumble-upon.com/images/120x20_su_white.gif" alt="Stumble It!"> </a>
+			</li>
+			
+			
+			<li>
+				<a href="javascript:void(0)" onclick="window.open('http://www.newsvine.com/_wine/save?popoff=1&u=' + encodeURIComponent(window.location.href),'newsvine','toolbar=no,width=590,height=600,resizable=yes,scrollbars=yes')"><img src="http://www.newsvine.com/_vine/images/identity/button_seednewsvine.gif" alt="" border="0" width="16" height="16" />Seed Newsvine</a>
+			</li>
+			
+		</ul>
+	
+	</div>
+	
+	
+	
+	
+		
+			<p>Please see below for a review of selected print,&nbsp;broadcast and online media coverage for the University of Central Florida. Follow UCF&nbsp;news <a href="http://twitter.com/UCFNewsroom">on Twitter </a>and learn more about Strategy, Marketing, Communications &amp; Admissions <a href="http://www.mca.ucf.edu/">here</a>.&nbsp;</p>
+<p><strong>NATIONAL</strong></p>
+<p><strong>U.S. News &amp; World Report: <a href="http://www.usnews.com/science/articles/2010/02/22/orange-peels-newspapers-may-lead-to-cheaper-cleaner-ethanol-fuel.html">Orange Peels, Newspapers May Lead to Cheaper, Cleaner Ethanol Fuel</a><br />
+</strong>Scientists may have just made the breakthrough of a lifetime, turning discarded fruit peels and other throwaways into cheap, clean fuel to power the world&rsquo;s vehicles. UCF&nbsp;professor Henry Daniell has developed a groundbreaking way to produce ethanol from waste products such as orange peels and newspapers.</p>
+<p><strong>ABC World News with Diane Sawyer: <a href="http://mms.tveyes.com/NetReport.aspx?ReportHash=23cd3c3c22717097ae93021824129f3a ">Disturbing NCAA Tournament Numbers</a><br />
+</strong>Behind all the hoopla for NCAA hoops this year are some disturbing numbers you won't find on any scoreboard. <br />
+<em>-- This features research from Richard Lapchick, director of UCF's Institute for Diversity and Ethics in Sport. </em></p>
+<p><strong>ESPN: NCAA <a href="http://mms.tveyes.com/transcript.asp?StationID=175&amp;DateTime=3/17/2010%203:10:30%20PM">Tournament Team Graduation Rates</a><br />
+</strong>The analysis of the graduation success teams in the big dance shows both progress and problems. <br />
+<em>-- This live ESPN interview, shot in UCF TV's studios, features Richard Lapchick. </em></p>
+<p><strong>Forbes: <a href="http://www.forbes.com/2010/03/10/job-creation-entrepreneurship-intelligent-technology-incubators.html?boxes=Homepagechannels">An Underused Tool for Job Recovery</a><br />
+</strong>With unemployment soaring, incubators can help people move into self-employment--and create jobs.<br />
+<em>-- Features UCF's incubators as a national leader in the field. </em></p>
+<p><strong>CNN Money: <a href="http://money.cnn.com/2010/03/05/markets/thebuzz/index.htm">Economic Snow Job</a><br />
+</strong>Throughout February, investors were told that we'd have to ignore much of the February economic data. The rationale was that the massive amount of snowfall that paralyzed the East Coast would lead to weak numbers that wouldn't tell the true picture of the economy.<br />
+<em>-- This quotes Sean Snaith, director of UCF's Institute for Economic Competitiveness.<br />
+</em></p>
+<p><strong>The New York Times: <a href="http://thequad.blogs.nytimes.com/2010/03/17/duncans-swipe-at-the-n-c-a-a/">Duncan&rsquo;s Swipe at the NCAA</a><br />
+</strong>Education Secretary Arne Duncan took another swing at the National Collegiate Athletic Association and top college basketball programs Wednesday, reiterating a call he made in January to ban from postseason play teams that fail to graduate at least 40 percent of their players.<br />
+<em>-- This features research from Richard Lapchick, director of UCF's Institute for Diversity and Ethics in Sport. </em></p>
+<p><strong>Parenting Magazine: <a href="http://www.parenting.com/article/Child/Health/The-Upside-of-Fidgeting ">The Upside of Fidgeting</a><br />
+</strong>Keeping my 7-year-old son on task -- and in his chair -- can be even more challenging than homework itself. <br />
+<em>-- This features research by Mark Rapport from Psychology.</em></p>
+<p><strong>NPR: <a href="http://www.npr.org/templates/story/story.php?storyId=123814839&amp;ft=1&amp;f=1001">Hiring Delay After Recession Not Unusual</a><br />
+</strong>Economists say the recession began in December 2007 and probably ended sometime last summer. <br />
+<em>-- This quotes Sean Snaith, director of UCF's Institute for Economic Competitiveness.</em></p>
+<p><strong>Salon.com: <a href="http://www.salon.com/news/feature/2010/03/02/charlie_crist_looks_doomed/index.html">The Real Reasons for Charlie Crist's Collapse</a><br />
+</strong>Only an act of God could save his Senate campaign now (and maybe not even that). Where did it all go wrong? <br />
+<em>-- Quotes political science professor Terri Fine.</em></p>
+<p><strong>LOCAL / STATE</strong></p>
+<p><strong>Orlando Sentinel: <a href="http://www.orlandosentinel.com/news/local/os-darryl-owens-negro-leagues-031310-20100312,0,3209871.column?page=1">Negro League&rsquo;s Pride, Passion on Exhibit</a><br />
+</strong>As a baseball junkie coming of age during desegregation, I was blown away when I first saw The Bingo Long Traveling All-Stars &amp; Motor Kings.<br />
+<em>-- Features the exhibit &quot;Pride &amp; Passion: The African American Baseball Experience&quot; on display at UCF Library.<br />
+</em></p>
+<p><strong>WFTV 9: <a href="http://www.wftv.com/news/22867849/detail.html">Computer Simulation Industry Brings Local Jobs</a><br />
+</strong>The eyes of the technology world are on UCF&rsquo;s Institute of Simulation and Training.</p>
+<p><strong>Orlando Business Journal: <a href="http://orlando.bizjournals.com/orlando/stories/2010/02/22/focus9.html">Sports &lsquo;Aren&rsquo;t Recession-Proof&rsquo;</a><br />
+</strong>Richard Lapchick believes UCF&rsquo;s DeVos Sport Business Management program should teach students to better society.</p>
+<p><strong>WDBO: <a href="http://wdbo.com/localnews/2010/02/ucf-student-with-purple-heart.html">Student with Purple Heart Shares His War Story</a><br />
+</strong>Some administrators at UCF say students who come to campus with military experience have an advantage over their fellow classmates.</p>
+<p><strong>Orlando Sentinel: <a href="http://www.orlandosentinel.com/community/ucf/os-ucfgrant-0306,0,5561377.story">UCF Grant Will Help Service Organizations Serve Others</a><br />
+</strong>Ten nonprofit groups that serve needy people in Central Florida will get more money and training thanks to the federal government and a University of Central Florida program.</p>
+<p><strong>WFTV 9: <a href="http://www.wftv.com/news/22716388/detail.html">Unique Hybrid Electric Car Tested at UCF</a><br />
+</strong>UCF teamed up with Orange County, Progress Energy and the Ford Motor Company to create Florida's first factory-built plug-in hybrid electric vehicle.<br />
+<em>-- This story received significant local coverage.</em></p>
+<p><strong>Orlando Sentinel: <a href="http://articles.orlandosentinel.com/2010-03-13/news/os-ucf-medical-school-cadavers-20100312_1_first-year-anatomy-body-donors-students">UCF Med Students Pay Tribute to Cadavers</a><br />
+</strong>A secretary, a nurse, a dishwasher and an artist were among the volunteers who helped teach first-year students at University of Central Florida's new medical school some important lessons this year.</p>
+<p><strong>Orlando Sentinel: <a href="http://www.orlandosentinel.com/community/ucf/orl-ucf-students-save-energy-for-scholarships,0,224680.story">UCF Housing Residents Save Energy for Scholarships</a><br />
+</strong>Whether it's turning off lights or taking shorter showers, the University of Central Florida's annual energy conservation competition has encouraged on-campus housing residents to choose their weapon in the battle for campus sustainability.</p>
+<p><strong>FloridaThinks.com: <a href="http://floridathinks.com/florida-issues/florida-issues/economic-gardening-could-yield-a-bounty-of-jobs-for-florida/">Economic Gardening Could Yield a Bounty of Jobs</a><br />
+</strong>Economic development in Florida usually comes in two forms: trying to lure large, existing companies to the state, or helping homegrown startup companies get off the ground.<br />
+<em>-- This story features UCF's efforts in economic gardening. A subscription is required to read the full story.<br />
+</em>&nbsp;</p>
+		
+	
+	<p id="back"><a href="index?page=news">&lt; Back to the Newsroom</a></p>
+
+</div>
+
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+
+		</div> 
+	</body>
+</html>
+

@@ -1,0 +1,671 @@
+
+
+
+
+
+
+
+
+
+	
+	
+										
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>UCF Newsroom</title>
+                				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ucfnews"></script>
+				<script src="http://www.ucf.edu/js/jquery.js" type="text/javascript"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/lowpro.jquery.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookie.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.cookiejar.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/jquery.json.js"></script>
+				<script type="text/javascript" src="http://www.ucf.edu/js/quick_links.js"></script>
+				<script type="text/javascript" src="js/newsroom.js"></script>
+				<link href="http://www.ucf.edu/css/global-header.css" rel="stylesheet" type="text/css" media="screen, projection"  />
+				<link href="css/global.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/header_bar.css" rel="stylesheet" type="text/css" media="screen, projection" />
+				<link href="css/print.css" rel="stylesheet" type="text/css" media="print"  />
+
+
+		<link href="css/article.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="main_body">
+                        
+                        
+
+    
+    
+
+    <div id="ucf4_header">
+    	<div class="wrapper">
+			<h1>
+				<a href="http://www.ucf.edu/">
+				<span class="text">University of Central Florida</span>
+				</a>
+			</h1>
+			<label for="UCFHeaderLinks">University Links</label>
+			<label for="q">Search UCF</label>
+			<div id="ucf4_search_and_links">
+				
+				<form id="ucf4_uni_links" action="index?page=article&amp;id=0024004105bd60439010c0c76ce2f0054d7" target="_top">
+					<fieldset>
+					   <select name="UniversityLinks" id="UCFHeaderLinks">
+						<option value="">Quicklinks:</option>
+						
+	<option value="">- - - - - - - - - -</option>
+	
+		<option value="http://library.ucf.edu">Libraries</option>
+		<option value="http://www.ucf.edu/directories/">Directories (A-Z Index)</option>
+		<option value="http://campusmap.ucf.edu">Campus Map</option>
+		<option value="http://ucffoundation.org">Giving to UCF</option>
+		<option value="http://ucf.custhelp.com">Ask UCF</option>
+		<option value="http://finaid.ucf.edu/">Financial Aid</option>
+		<option value="http://www.ucf.edu/today">UCF Today</option>
+		<option value="http://events.ucf.edu">Events at UCF</option>
+        <option id="UCFHeaderLinksStaticDivider" value="">- - - - - - - - - -</option>
+
+
+					</select>
+					</fieldset>
+				</form>
+				<div>
+					<a id="ucf4_my_ucf" href="https://my.ucf.edu/?promo_id=myUCF">
+						<span class="text">myUCF</span>
+					</a>
+				</div>
+				
+				<form id="ucf4_search_ucf" method="get" 
+onSubmit="_gaq.push(['_trackEvent','Main_site','Search_University_Header',jQuery('#q').val()]);" action="http://google.cc.ucf.edu/search" target="_top">
+					<fieldset> 
+						<input type="hidden" name="output" value="xml_no_dtd"/>
+						<input type="hidden" name="proxystylesheet" value="UCF_Main"/>
+						<input type="hidden" name="client" value="UCF_Main"/>
+						<input type="hidden" name="site" value="UCF_Main"/>
+						<input class="text" type="text" name="q" id="q" value="Search UCF" /> 
+						<input class="submit" type="image" alt="Search button" src="http://www.ucf.edu/img/arrow.png" />
+					</fieldset>
+				</form>
+				<div id="ucf4_search_and_links_end"></div>
+			</div>
+		</div>
+    </div>
+    
+
+
+    <ul id="navigation">
+        
+
+	
+		<li class="first"><a href="http://www.ucf.edu/academics/">Academics</a></li>
+		<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+		<li><a href="http://www.ucf.edu/research/">Research</a></li>
+		<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+		<li><a href="http://www.ucf.edu/campus_life/">Campus Life</a></li>
+		<li><a href="http://www.ucf.edu/alumni_and_friends/">Alumni &amp; Friends</a></li>
+		<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+	
+
+
+        <li id="nav_apply_now"><a href="http://www.ucf.edu/apply_to_ucf/">Apply Now</a></li>
+    </ul>
+    <div class="navigation_end">&nbsp;</div>
+
+                        
+
+			
+<div id="content">
+	<h1 class="newshead">
+		<a href="index?page=news">UCF Newsroom</a>
+	
+		
+		
+		<a class='rss' href="http://news.ucf.edu/UCFnews/ucfreport/rss_mainnewsinfo.jsp" title="Subscribe using any feed reader!">
+			RSS Feed
+		</a>
+	
+	</h1>
+	<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>
+	
+	 <ul id="newsroom_nav">
+	 	
+	 	
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b6c">Faculty & Staff Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+				<li>
+					
+					<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0b9d">Media Resources</a>
+					
+				</li>
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		<li><a href="index?page=about_us">About Us</a></li>
+		<li><a href="http://expertsguide.ucf.edu/">Experts Guide</a></li>
+		<li><a href="http://twitter.com/ucfnewsroom">UCF on Twitter</a></li>
+	</ul>
+
+
+			
+<div id="secondary_nav">
+	<div id="read_about">
+		<h2>Read About:</h2>
+		
+		 <ul>
+			
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ae6">UCF News & Campus Life</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0a02">Medicine & Health</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c08df">Science & Technology</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0822">Social Sciences</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c0ccd">UCF in the Community</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+					<li>
+						<a href="index?page=subject&amp;subject_id=0024004102975ad83011b2b83251c076c">Business & Economy</a>
+					</li>
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+		</ul>
+		<form action="http://news.ucf.edu/UCFnews/index" method="post" >
+			<fieldset>
+				<input type="hidden" name="action" value="FullTextSearchAction"/>
+				<input type="hidden" name="success" value="search"/>
+				<input type="hidden" name="error" value="search"/>
+				<input type="hidden" name="channels" value="NEWS" />
+				<input type="hidden" name="maxRecords" value="200" />
+				<input type="hidden" name="matchAllCategories" value="false" />
+				
+                                <label for="search_news" style="display: none">Search News Stories</label>
+                                <input type="text" id="search_news" name="searchstring" value="Search News Stories" alt="Search News Stories"/>
+				<input type="image" src="img/go.png" id="go" alt="go" />
+			</fieldset>
+		</form>
+		<p><a href="index?page=newsarchive">View News Archives</a></p>
+	</div>
+	<div id="useful_links">            
+		<h2>Useful Links</h2>
+		
+		
+		<ul>
+			
+			
+			
+				<li><a href="http://www.med.ucf.edu/">College of Medicine</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.iroffice.ucf.edu/character/current.html">Facts About UCF</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.today.ucf.edu">UCF Today</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.tv">UCF TV</a></li>
+			
+			
+			
+			
+			
+				<li><a href="http://www.ucf.edu/budget/">Budget Resource Center</a></li>
+			
+			
+			
+		</ul>
+	</div>
+	<div id="today_at_ucf">
+		<h2>Today at UCF</h2>
+		
+
+
+
+
+
+<p><img  src="img/yahoo_weather_images/34.gif" alt="Fair" /> 89&deg;F, Fair</p>
+
+	</div>
+	
+</div>
+
+			
+<div id="main_content">
+	<h2>UCF, UCLA Astronomers First to Measure Night and Day on Extrasolar Planet</h2>
+	
+	<p class="article_info">
+		
+			By Zenaida Gonzalez Kotala
+		
+		<span class="date">Oct. 31, 2006</span></p>
+	
+	
+	
+		<div class="article_img" style="width: 196px;">
+
+			<img alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE848/en_US/061011planetman.jpg" height="261" width="196"  /> 
+			
+				<p class="photo_credit">Photo: NASA/JPL-Caltech </p>
+			
+			<p>This artist's concept shows a Jupiter-like planet soaking up the scorching rays of its nearby "sun." NASA's Spitzer Space Telescope used its heat-seeking infrared eyes to figure out that a gas-giant planet like the one depicted here is two-faced, with one side perpetually in the cold dark, and the other forever blistering under the heat of its star. The illustration portrays how the planet would appear to infrared eyes, showing temperature variations across its surface.</p>
+			
+				<p class="note"><a class="full_photo" id="popup.jsp?article_id=0024004105bd60439010c0c76ce2f0054d7">Full Photo</a></p>
+			
+			
+			
+			
+					
+						
+						
+							
+								<h3>Story Images</h3>
+								<ul id="story_images">
+							
+						<li>
+						<a class="full_photo" id="popup.jsp?article_id=0024004105bd60439010c0c76ce2f0054d7&amp;img_mode=1&amp;index=0">
+							<img width="100" alt="Article Main Picture" src="../resources/sites/UCF/content/live/NEWS/0/NE848/en_US/061011planet2ful.jpg"  />
+						</a>
+						</li>
+						
+						
+					
+			
+			
+			
+					
+						
+						
+						
+					
+			
+			
+			</ul><p  class="note">Click thumbnails for full-size images.</p>
+		</div>
+	
+	
+	
+	
+	
+	
+	
+		
+			<div id="related">
+				<h3>Related Contacts and Links:</h3>
+				<ul>
+		
+		<li>
+		
+			
+				<h4><a href="mailto:jharring@physics.ucf.edu ">Joseph Harrington</a></h4>
+			
+			
+				<ul>
+				<li>http://www.astro.ucla.edu/~hansen/DayNight.html </li>
+			
+			
+				
+				<li>407-823-3416</li>
+			
+			</ul>
+		
+		</li>
+	
+		
+		<li>
+		
+			
+				<h4><a href="mailto:zkotala@mail.ucf.edu">Zenaida Gonzalez Kotala</a></h4>
+			
+			
+			
+				<ul>
+				<li>407-823-6120</li>
+			
+			</ul>
+		
+		</li>
+	
+		
+		<li>
+		
+			
+				<h4><a href="mailto:Whitney.B.Clavin@jpl.nasa.gov">Whitney Clavin, Spitzer Science Center</a></h4>
+			
+			
+			
+			
+		
+		</li>
+	
+	
+	
+		
+		<li>
+		
+			<h4><a href="index?page=article&amp;id=0024004105bd60439010c0c76ce2f0054d7"></a></h4>
+		
+		</li>
+	
+		
+		<li>
+		
+			<h4><a href="index?page=article&amp;id=0024004105bd60439010c0c76ce2f0054d7"></a></h4>
+		
+		</li>
+	
+		
+		<li>
+		
+			<h4><a href="http://www.sciencemag.org/sciencexpress/recent.dtl">Science Express</a></h4>
+		
+		</li>
+	
+		
+		<li>
+		
+			<h4><a href="http://physics.ucf.edu/planets">UCF Planetary and Space Science Group</a></h4>
+		
+		</li>
+	
+		
+		<li>
+		
+			<h4><a href="http://exoplanet.eu">Extrasolar Planets Encyclopedia</a></h4>
+		
+		</li>
+	
+		
+		<li>
+		
+			<h4><a href="http://www.spitzer.caltech.edu/Media/releases/ssc2006-18/index.shtml">Spitzer image 1</a></h4>
+		
+		</li>
+	
+		
+		<li>
+		
+			<h4><a href="http://www.spitzer.caltech.edu/Media/releases/ssc2006-18/ssc2006-18v1.shtml">Spitzer image 2</a></h4>
+		
+		</li>
+	
+	
+	 </ul></div> 
+	
+	
+			
+	
+	
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	
+		
+	
+	<div id="share">
+		<ul><li><p id="print"><a href="javascript:window.print();">Print this Page</a></li></ul>
+	
+	</div>
+	
+	
+	
+	
+		
+			<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>University of Central Florida Astronomy professor Joseph Harrington and University of California at Los Angeles professor Brad M. Hansen and their team have made the first direct observation of distinct day and night temperatures on a planet orbiting another star.<br />
+&nbsp;<br />
+Their published work first appeared in Science Express -- the online version of Science Magazine -- &nbsp;on Oct. 12. It is Science Magazine's cover story this week. The announcement was made&nbsp;last month&nbsp;in Pasadena, Calif., at the annual meeting of the Division for Planetary Sciences of the American Astronomical Society.&nbsp;&nbsp;UCF will host the meeting in Orlando next year. The DPS includes 1,282 planetary scientists and astronomers, including 232 non-U.S. members.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The team used NASAs Spitzer Space Telescope to measure the infrared light emitted by the planet upsilon Andromedae b at five points around its orbit. The planet orbits a star located 263 trillion miles from Earth in the constellation Andromeda.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>At each point during the observations, different portions of the planets day and night hemispheres were in view, creating a rise-and-fall pattern in the light level that was synchronized with the planets known orbit.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>This information helps planetary scientists choose among several competing hypotheses regarding weather on so-called hot Jupiter planets, which orbit very&nbsp; close to their stars. Temperatures on these planets are about 3,000 degrees Fahrenheit, Harrington and Hansen calculated. Hot Jupiters have small enough orbits that the energy they absorb and reradiate from their host stars dominates their own internal energy losses.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>How they absorb and reradiate this energy is fundamental to understanding the behavior of their atmospheres, Harrington and Hansen said in their published article. Studying planetary atmospheres under such exotic conditions puts terrestrial and solar-system meteorology into a universal context, which aids in our understanding of weather on all planets, Harrington added.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>A number of models predict that strong winds transport energy from the day side to the night side. But, our points are almost exactly synced up with the known orbit, which indicates almost immediate reradiation of energy, very little energy transport, Harrington said. Thats new, and very exciting. The temperature difference between day and night is also very strong, which is more evidence for immediate reradiation.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Why dont the models work for upsilon Andromedae b? Thats going to be a hot topic now, Harrington said.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Since the first planet orbiting another sun-like star was discovered in 1995, more than 200 such planets have been found, but scientists still cannot see the planets as separate images from their stars.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>In the past, we could only directly measure planets that happened to pass in front of and behind their stars from our point of view, Harrington said.&nbsp; That only works for certain planets, and only at two points in the orbit. Our new method doesnt have those limitations, which opens up opportunities to observe more planets, and to get data all around their orbits. We need that to learn how their atmospheres work.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>So when will someone discover an Earth-like planet around a sun-like star with a temperature that could support life as we know it? It may not be that long of a wait, Harrington said. NASAs Kepler mission should find several such planets, but technology is moving so fast, it could be that someone else does it first. The unmanned Kepler mission is scheduled for launch in October 2008.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Harrington recently joined the growing Planetary and Space Science Group in the Department of Physics at UCF. The groups faculty members have worked on several NASA missions, including Stardust, Deep Impact, and the Mars rovers Spirit and Opportunity.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Hansen is a member of the Institute of Geophysics and Planetary Physics in UCLAs Department of Physics and Astronomy.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The team includes Statia H. Luszcz, now a doctoral student in the Department of Astronomy at the University of California, Berkley; Sara Seager of the Department of Terrestrial Magnetism at the Carnegie Institution of Washington, D.C.; Drake Deming of the Planetary Systems Laboratory and the Goddard Center for Astrobiology at NASAs Goddard Space Flight Center in Greenbelt, Md.; Kristen Menou of the Department of Astronomy at Columbia University in New York; James Y.-K. Cho from the School of Mathematical Studies at Queen Mary, University of London; and L. Jeremy Richardson of the Exoplanets and Stellar Astrophysics Laboratory at NASA Goddard.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The work was funded by the Spitzer Space Telescope. NASA's Jet Propulsion Laboratory, Pasadena, Calif., manages the Spitzer Space Telescope mission for NASA's Science Mission Directorate, Washington. Science operations are conducted at the Spitzer Science Center at the California Institute of Technology, also in Pasadena. Caltech manages JPL for NASA.&nbsp; </p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+		
+	
+	<p id="back"><a href="index?page=news">&lt; Back to the Newsroom</a></p>
+
+</div>
+
+
+			
+<div id="footer">
+	<ul id="footer_navigation">
+		
+		
+			
+			<li class="first"><a href="http://www.ucf.edu/about_ucf/">About UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/contact">Contact UCF</a></li>
+			
+			
+		
+			
+			<li><a href="http://www.ucf.edu/privacy/">Internet Privacy Policy</a></li>
+			
+			
+		
+			
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			
+			
+		
+			
+			<li><a href="http://regulations.ucf.edu">Regulations</a></li>
+			
+			
+		
+	</ul>
+	<p>&copy; 1997-2010 <a href="http://www.ucf.edu/">University of Central Florida</a></p>
+	<ul id="ucf_address">
+		<li class="first">4000 Central Florida Blvd. Orlando, Florida, 32816</li>
+		<li>407.823.2000</li>
+	</ul>
+	<p><a id="ucf_logo" href="http://www.ucf.edu/">UCF Stands For Opportunity</a></p>	
+</div>
+<div id="print_logo"><img src="http://news.ucf.edu/UCFnews/img/ucf_stands_for_opportunity_print.png" alt=" " /></div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-1658069-3");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+
+		</div> 
+	</body>
+</html>
+
