@@ -39,7 +39,7 @@ dd {margin: 0;}
 #print_head {line-height:1em; font-size:80%; position:absolute; top:10px; right:6%; margin:0;}
 #print_foot {border-top:3px solid black; padding:1em 0 2em 0; margin:2.5em 0; font-size:80%; }
 #print_foot span {display:block; padding-top:2em; font-family:helvetica, sans-serif; font-size:80%; color:#333333; }
-#print_logo { text-align:center; padding-top:2em;}
+#print_logo { text-align:center; padding-top:2em;display:none;}
 #main_content span.date {display: block;}
 #main_content p	{margin-left: 0;}
 #more_headlines {clear:none; float: none; border-top:1px solid black; margin-top:2.5em; padding-top:1.2em;  }
