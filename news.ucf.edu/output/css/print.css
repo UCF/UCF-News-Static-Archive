@@ -66,5 +66,9 @@ dd {margin: 0;}
 #archive_list > li {padding-top: 5px;list-style-type:none;}
 #archive_list > li > .story_date {display:block;font-size:75%;font-family:"Helvetica Nueue", Helvetica, sans-serif;color:#666;position:relative;top:-5px;}
 #archive_list #pager > a {font-size:90%;color:#000;font-family:"Helvetica Nueue", Helvetica, sans-serif;}
-#archive_years {padding-left:0;}
-#archive_years > li {list-style-type:none;padding-top:5px;}
+#archive_years {padding-left:0;margin-left:20px;margin-top:0;}
+#archive_years > li {padding-top:5px;padding-left:5px;list-style-type:circle;}
+#archive_years > li > a {font-size:110%;}
+
+#search > input[type="text"] {border:1px solid #CCC;font-size:18px;padding:3px;display:block;margin-bottom:5px;}
+#search > input[type="submit"] {font-size:15px;display:block;border:1px solid #CCC;padding:3px;background-color:#e7e7e7;color:#333;}
