@@ -28,7 +28,7 @@ for filename in os.listdir(ARCHIVE_SOURCE_DIR):
         content = re.sub('<link [^>]+>', '', content)
 
         # Update header information
-        content = string.replace(content, '<a href="index?page=news">UCF Newsroom</a>', '<a href="index?page=news">UCF News Archive</a>')
+        content = string.replace(content, '<a href="index?page=news">UCF Newsroom</a>', '<a href="/">UCF News Archive</a>')
         
         # Rewrite print stylesheet for all media
         content = string.replace(content, '</title>', '</title><link href="css/print.css" rel="stylesheet" type="text/css" />')
