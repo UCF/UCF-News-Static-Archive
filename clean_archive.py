@@ -3,6 +3,7 @@ import os.path
 import re
 import chardet
 import codecs
+import string
 
 ARCHIVE_SOURCE_DIR = 'news.ucf.edu/UCFnews'
 ARCHIVE_TARGET_DIR = 'news.ucf.edu/output'
@@ -25,9 +26,14 @@ for filename in os.listdir(ARCHIVE_SOURCE_DIR):
         
         # Remove all css links except print
         content = re.sub('<link [^>]+>', '', content)
+
+        # Update header information
+        content = string.replace(content, '<a href="index?page=news">UCF Newsroom</a>', '<a href="index?page=news">UCF News Archive</a>')
         
         # Rewrite print stylesheet for all media
-        content = content.replace('</title>', '</title><link href="css/print.css" rel="stylesheet" type="text/css" />')
+        content = string.replace(content, '</title>', '</title><link href="css/print.css" rel="stylesheet" type="text/css" />')
+
+        content = string.replace(content, '<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>','<p id="print_head">News &amp; Information <br/><a href="http://today.ucf.edu">today.ucf.edu</a> <br/>407-823-5007 <br/>Twitter:<a href="http://twitter.com/UCF">@UCF</a></p>')
         
         if archive_page:
           content = re.sub(r'href="index\?page=article&(?:amp;)?id=([^"]+)"', r'href="index_page_article_id_\1.html"', content)
