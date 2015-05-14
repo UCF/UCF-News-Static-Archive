@@ -33,7 +33,7 @@ for filename in os.listdir(ARCHIVE_SOURCE_DIR):
         # Rewrite print stylesheet for all media
         content = string.replace(content, '</title>', '</title><link href="css/print.css" rel="stylesheet" type="text/css" />')
 
-        content = string.replace(content, '<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>','<p id="print_head">News &amp; Information <br/><a href="http://today.ucf.edu">today.ucf.edu</a> <br/>407-823-5007 <br/>Twitter:<a href="http://twitter.com/UCF">@UCF</a></p>')
+        content = string.replace(content, '<p id="print_head">News &amp; Information <br/>www.news.ucf.edu <br/>407-823-5007 <br/>Twitter:@UCFNewsroom</p>','<div id="print_head"><ul style="list-style: none; margin-left: 0; padding-left: 0"><li>News &amp; Information</li><li><a href="http://today.ucf.edu/">today.ucf.edu</a></li><li><a href="tel:407-823-5007">407-823-5007</a></li><li>Twitter: <a href="http://twitter.com/UCF">@UCF</a></li></ul></div>')
         
         if archive_page:
           content = re.sub(r'href="index\?page=article&(?:amp;)?id=([^"]+)"', r'href="index_page_article_id_\1.html"', content)
